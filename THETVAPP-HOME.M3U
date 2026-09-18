@@ -1,1 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="test" group-title="TEST",FIRST TEST STREAM
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pl.kamfir5.space/playlist/56578/proton1/caxi
 
+#EXTINF:-1 tvg-id="" tvg-name="test" group-title="TEST",STREAM 1
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/0nrho3t18foyt90zv7vs9/master.m3u8
