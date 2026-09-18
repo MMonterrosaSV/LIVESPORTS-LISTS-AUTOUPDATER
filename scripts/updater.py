@@ -28,6 +28,10 @@ PLAYLISTS = [
         "url": "https://fctv33.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.icu/football.html&format=m3u",
         "filename": "FCTV33-FOOTBALL.m3u",
     },
+    {
+        "url": "https://tvnow247-playlist.mmonterrosa970.workers.dev/playlist.m3u",
+        "filename": "TVNOW247-CHANNELS.m3u",
+    },
     # Add more like this (copy the block, change url + filename):
     # {
     #     "url": "https://thetvapp.mmonterrosa970.workers.dev/?url=https://thetvapp.plus/watch/cfb-streams&format=m3u",
