@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="TVNOW247 CHANNELS",ANIMAL PLANET
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc2NzA2Mzg3Nn0=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc2Nzk0OTkxMn0=
 #EXTINF:-1 group-title="TVNOW247 CHANNELS",DAZN LaLiga
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzgiLCJ0cyI6MTc4OTc2NzA2Mzg3Nn0=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzgiLCJ0cyI6MTc4OTc2Nzk0OTkxMn0=
 #EXTINF:-1 group-title="TVNOW247 CHANNELS",M+ LaLiga
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4NCIsInRzIjoxNzg5NzY3MDYzODc2fQ==
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4NCIsInRzIjoxNzg5NzY3OTQ5OTEyfQ==
 #EXTINF:-1 group-title="TVNOW247 CHANNELS",M+ LIGA DE CAMPEONES 1
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MzUiLCJ0cyI6MTc4OTc2NzA2Mzg3Nn0=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MzUiLCJ0cyI6MTc4OTc2Nzk0OTkxMn0=
 #EXTINF:-1 group-title="TVNOW247 CHANNELS",ESPN DEPORTES
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNzUiLCJ0cyI6MTc4OTc2NzA2Mzg3Nn0=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNzUiLCJ0cyI6MTc4OTc2Nzk0OTkxMn0=
 #EXTINF:-1 group-title="TVNOW247 CHANNELS",HBO USA
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMjEiLCJ0cyI6MTc4OTc2NzA2Mzg3Nn0=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMjEiLCJ0cyI6MTc4OTc2Nzk0OTkxMn0=
