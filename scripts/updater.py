@@ -11,35 +11,22 @@ import urllib.request
 
 # =============================================================================
 # EDIT THIS LIST
-# Each entry:
-#   url      = full URL that returns an M3U (use &format=m3u on the Worker)
-#   filename = file name written in the repo root (e.g. THETVAPP-SOCCER.M3U)
+# Each entry needs:
+#   "url"      = full URL that returns an M3U
+#   "filename" = file name in the repo root
 # =============================================================================
 PLAYLISTS = [
     {
-        "url": (
-            "https://thetvapp.mmonterrosa970.workers.dev/"
-            "?url=https://thetvapp.plus/watch/soccer-streams"
-            "&format=m3u"
-        ),
+        "url": "https://thetvapp.mmonterrosa970.workers.dev/?url=https://thetvapp.plus/watch/soccer-streams&format=m3u",
         "filename": "THETVAPP-SOCCER.M3U",
-    {
-        "url": (
-            "https://thetvapp.mmonterrosa970.workers.dev/"
-            "?url=https://thetvapp.plus/watch/nba-streams"
-            "&format=m3u"
-         ),
-         "filename": "THETVAPP-NBA.M3U",
-     },
-        
     },
-    # Examples – uncomment or copy to add more:
+    {
+        "url": "https://thetvapp.mmonterrosa970.workers.dev/?url=https://thetvapp.plus/v7&format=m3u",
+        "filename": "THETVAPP-HOME.M3U",
+    },
+    # Add more like this (copy the block, change url + filename):
     # {
-    #     "url": (
-    #         "https://thetvapp.mmonterrosa970.workers.dev/"
-    #         "?url=https://thetvapp.plus/watch/cfb-streams"
-    #         "&format=m3u"
-    #     ),
+    #     "url": "https://thetvapp.mmonterrosa970.workers.dev/?url=https://thetvapp.plus/watch/cfb-streams&format=m3u",
     #     "filename": "THETVAPP-CFB.M3U",
     # },
 ]
@@ -63,7 +50,6 @@ def fetch_m3u(url: str) -> str:
 
 
 def update_one(url: str, filename: str) -> bool:
-    """Download one playlist and write it. Returns True on success."""
     print(f"\n--- {filename} ---")
     print(f"Fetching: {url}")
 
@@ -110,7 +96,6 @@ def main() -> int:
             failed += 1
             continue
 
-        # Keep files in repo root only (no path traversal)
         if "/" in filename or "\\" in filename or filename in (".", ".."):
             print(f"ERROR: invalid filename: {filename}", file=sys.stderr)
             failed += 1
@@ -122,7 +107,6 @@ def main() -> int:
             failed += 1
 
     print(f"\nDone. success={ok} failed={failed}")
-    # Fail the Action if every playlist failed
     if ok == 0:
         return 1
     return 0
