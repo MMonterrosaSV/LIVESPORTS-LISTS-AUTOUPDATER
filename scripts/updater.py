@@ -31,6 +31,7 @@ PLAYLISTS = [
     # },
 ]
 
+# scripts/updater.py → parent = scripts/ → parent.parent = repo root
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TIMEOUT_SECONDS = 120
 USER_AGENT = "GitHubActions-LIVESPORTS-LISTS-AUTOUPDATER/1.0"
@@ -75,17 +76,20 @@ def update_one(url: str, filename: str) -> bool:
 
     out = REPO_ROOT / filename
     out.write_text(body, encoding="utf-8")
-    print(f"Wrote: {out}")
+    print(f"Wrote: {out.resolve()}")
     return True
 
 
 def main() -> int:
+    print(f"Repo root: {REPO_ROOT.resolve()}")
+
     if not PLAYLISTS:
         print("ERROR: PLAYLISTS list is empty", file=sys.stderr)
         return 1
 
     ok = 0
     failed = 0
+    written = []
 
     for entry in PLAYLISTS:
         url = (entry.get("url") or "").strip()
@@ -103,10 +107,13 @@ def main() -> int:
 
         if update_one(url, filename):
             ok += 1
+            written.append(filename)
         else:
             failed += 1
 
     print(f"\nDone. success={ok} failed={failed}")
+    if written:
+        print("Files written:", ", ".join(written))
     if ok == 0:
         return 1
     return 0
