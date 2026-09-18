@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch playlist and write THETVAPP-SOCCER.M3U
-        run: python scripts/update_thetvapp_soccer.py
+        run: python scripts/updater.py
 
       - name: Commit and push if changed
         run: |
