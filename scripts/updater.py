@@ -32,6 +32,10 @@ PLAYLISTS = [
         "url": "https://tvnow247-playlist.mmonterrosa970.workers.dev/playlist.m3u",
         "filename": "TVNOW247-CHANNELS.m3u",
     },
+    {
+        "url": "https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https://capitanstrims.st/&format_m3u",
+        "filename": "CAPITANSTRIMS-FUTBOL.m3u",
+    },
     # Add more like this (copy the block, change url + filename):
     # {
     #     "url": "https://thetvapp.mmonterrosa970.workers.dev/?url=https://thetvapp.plus/watch/cfb-streams&format=m3u",
