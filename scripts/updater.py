@@ -37,7 +37,7 @@ PLAYLISTS = [
         "filename": "CAPITANSTRIMS-FUTBOL.m3u",
     },
     {
-        "url": "https://test.mmonterrosa970.workers.dev/?url=https://roxiestreams.info/soccer&format=m3u8",
+        "url": "https://roxiestreams.mmonterrosa970.workers.dev/?url=https://roxiestreams.info/soccer&format=m3u8",
         "filename": "ROXIESTREAMS-SOCCER.m3u",
     },
     # Add more like this (copy the block, change url + filename):
