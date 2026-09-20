@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="CAPITANSTRIMS FUTBOL STREAMS",EMPTY LAST UPDATED: 2026-09-20 15:01:29 GMT+2
-http://example.com
+#EXTINF:-1 group-title="CAPITANSTRIMS FUTBOL STREAMS",Atl. Madrid vs Real Madrid – Starts 16:15 GMT+2 – Ziggo Sport NL
+https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https%3A%2F%2Fiplayer.is%2Fecho%2F76c1f899ee7def54ff3cb8f52e46b660
+#EXTINF:-1 group-title="CAPITANSTRIMS FUTBOL STREAMS",Atl. Madrid vs Real Madrid – Starts 16:15 GMT+2 – Arena Sport Premium 1 RS
+https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https%3A%2F%2Fiplayer.is%2Fecho%2Fe97e9629778041025e15d76f09c03a95
+#EXTINF:-1 group-title="CAPITANSTRIMS FUTBOL STREAMS",Atl. Madrid vs Real Madrid – Starts 16:15 GMT+2 – Canal+ Sport 6 PL
+https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https%3A%2F%2Fiplayer.is%2Fecho%2F2f5b24c2c63378d8b76a74be18fe6dc1
+#EXTINF:-1 group-title="CAPITANSTRIMS FUTBOL STREAMS",Atl. Madrid vs Real Madrid – Starts 16:15 GMT+2 – DAZN 1 PT Q
+https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https%3A%2F%2Fiplayer.is%2Fecho%2F515e7f6d5605b2568fb9a804c91c5f03
+#EXTINF:-1 group-title="CAPITANSTRIMS FUTBOL STREAMS",Atl. Madrid vs Real Madrid – Starts 16:15 GMT+2 – DAZN 1 PT HQ
+https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https%3A%2F%2Fiplayer.is%2Fecho%2F016ade17137628207bda58ba82fb85c0
+#EXTINF:-1 group-title="CAPITANSTRIMS FUTBOL STREAMS",Atl. Madrid vs Real Madrid – Starts 16:15 GMT+2 – SportKlub 1
+https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https%3A%2F%2Fiplayer.is%2Fecho%2Ff3a217150bdbd0b94371deec1735eaf2
