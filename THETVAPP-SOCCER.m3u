@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Juventus vs Atalanta 29 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODExL2V4YW1wbGUuY29tL2NheGk
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Fulham vs Manchester United Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODAzL3NwYXJrbmF0dXJhbGNhc3RsZTU3L2NheGk
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Atlético Madrid vs Real Madrid 48' Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODAyL3ZpbGxhZ2VkZWVyd29sZjgyL2NheGk
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Atlético Madrid vs Real Madrid 48' Server 2
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Juventus vs Atalanta 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODExL2hvcGVzaW1wbGVlbmVyZ3kyMC9jYXhp
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Fulham vs Manchester United 10'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODAzL2JyaWRnZW9yYW5nZWJyaWRnZTY4L2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Atlético Madrid vs Real Madrid 60' Server 1
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODAxL2hpcGhvcDEvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Atlético Madrid vs Real Madrid 60' Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODAyL3ZpbGxhZ2VkZWVyd29sZjgyL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Villarreal vs Levante UD 44 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODE5L2V4YW1wbGUuY29tL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Deportivo de A Coruña vs Real Betis 44 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9ncm9rMy5oZXJlaXNtYW4ubmV0L3BsYXlsaXN0LzU2ODE4L2hpcGhvcDQvY2F4aQ
