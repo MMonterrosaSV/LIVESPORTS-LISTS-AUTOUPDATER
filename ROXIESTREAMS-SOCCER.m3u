@@ -1,181 +1,53 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Fiorentina vs Napoli
+#EXTINF:-1 tvg-logo="https://i.ibb.co/77FYMth/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER STREAMS",Fiorentina vs Napoli
 https://tedesco.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Fiorentina vs Napoli (Backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/77FYMth/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER STREAMS",Fiorentina vs Napoli (Backup)
 https://tedesco.pawtner.com.au/fubo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Celtic vs Rangers - Stream 1
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Celtic vs Rangers - Stream 1 (Backup)
-https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Celtic vs Rangers - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HSHy6PP/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER STREAMS",Bournemouth vs Liverpool - Stream 1
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Celtic vs Rangers - Stream 2 (Backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HSHy6PP/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER STREAMS",Bournemouth vs Liverpool - Stream 1 (Backup)
 https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Wolves vs West Bromwich
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Wolves vs West Bromwich (Backup)
-https://tedesco.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Getafe vs Malaga - Stream 1
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Getafe vs Malaga - Stream 1 (Backup)
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Getafe vs Malaga - Stream 2
-https://tedesco.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Getafe vs Malaga - Stream 2 (Backup)
-https://tedesco.pawtner.com.au/ncaa5.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Getafe vs Malaga - Stream 3
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Getafe vs Malaga - Stream 3 (Backup)
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Bournemouth vs Liverpool - Stream 1
-https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Bournemouth vs Liverpool - Stream 1 (Backup)
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Bournemouth vs Liverpool - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HSHy6PP/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER STREAMS",Bournemouth vs Liverpool - Stream 2
 https://admin2.formaturamaxi.com.br/bayern.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Bournemouth vs Liverpool - Stream 2 (Backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HSHy6PP/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER STREAMS",Bournemouth vs Liverpool - Stream 2 (Backup)
 https://admin2.pawtner.com.au/bayern.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Leeds vs Crystal Palace
-https://admin2.formaturamaxi.com.br/leeds.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Leeds vs Crystal Palace (Backup)
-https://admin2.pawtner.com.au/leeds.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Man City vs Sunderland
-https://admin2.formaturamaxi.com.br/sunderland.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Man City vs Sunderland (Backup)
-https://admin2.pawtner.com.au/sunderland.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Auxerre vs Brest - Stream 1
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Auxerre vs Brest - Stream 1 (Backup)
-https://tedesco.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Auxerre vs Brest - Stream 2
-https://admin2.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Auxerre vs Brest - Stream 2 (Backup)
-https://admin2.pawtner.com.au/bein.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Parma vs Genoa
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Parma vs Genoa (Backup)
-https://tedesco.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Bayer Leverkusen vs Leipzig
-https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Bayer Leverkusen vs Leipzig (Backup)
-https://tedesco.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Grêmio vs Palmeiras
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Grêmio vs Palmeiras (Backup)
-https://tedesco.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 1
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 1 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 1 (Backup)
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 2
 https://tedesco.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 2 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 2 (Backup)
 https://tedesco.pawtner.com.au/ncaa5.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 3
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 3 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Atlético Madrid vs Real Madrid - Stream 3 (Backup)
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Nice vs Lille - Stream 1
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Nice vs Lille - Stream 1 (Backup)
-https://tedesco.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Nice vs Lille - Stream 2
-https://admin2.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Nice vs Lille - Stream 2 (Backup)
-https://admin2.pawtner.com.au/bein.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Fulham vs Man United
-https://admin2.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Fulham vs Man United (Backup)
-https://admin2.pawtner.com.au/fubo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Schalke 04 vs Elversberg
-https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Schalke 04 vs Elversberg (Backup)
-https://tedesco.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Juventus vs Atalanta - Stream 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Juventus vs Atalanta - Stream 1
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Juventus vs Atalanta - Stream 1 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Juventus vs Atalanta - Stream 1 (Backup)
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Juventus vs Atalanta - Stream 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Juventus vs Atalanta - Stream 2
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Juventus vs Atalanta - Stream 2 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Juventus vs Atalanta - Stream 2 (Backup)
 https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Coruña vs Real Betis - Stream 1
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Coruña vs Real Betis - Stream 1 (Backup)
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Coruña vs Real Betis - Stream 2
-https://tedesco.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Coruña vs Real Betis - Stream 2 (Backup)
-https://tedesco.pawtner.com.au/ncaa5.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Coruña vs Real Betis - Stream 3
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Coruña vs Real Betis - Stream 3 (Backup)
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Paderborn vs Hoffenheim
-https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Paderborn vs Hoffenheim (Backup)
-https://tedesco.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",San Lorenzo vs Boca Juniors - Stream 1
-https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",San Lorenzo vs Boca Juniors - Stream 1 (Backup)
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",San Lorenzo vs Boca Juniors - Stream 2
-https://admin2.formaturamaxi.com.br/ncaa16.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",San Lorenzo vs Boca Juniors - Stream 2 (Backup)
-https://admin2.pawtner.com.au/ncaa16.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Marseille vs PSG - Stream 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Marseille vs PSG - Stream 1
 https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Marseille vs PSG - Stream 1 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Marseille vs PSG - Stream 1 (Backup)
 https://tedesco.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Marseille vs PSG - Stream 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Marseille vs PSG - Stream 2
 https://admin2.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Marseille vs PSG - Stream 2 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Marseille vs PSG - Stream 2 (Backup)
 https://admin2.pawtner.com.au/bein.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Milan vs Lecce - Stream 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Milan vs Lecce - Stream 1
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Milan vs Lecce - Stream 1 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Milan vs Lecce - Stream 1 (Backup)
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Milan vs Lecce - Stream 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Milan vs Lecce - Stream 2
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Milan vs Lecce - Stream 2 (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Milan vs Lecce - Stream 2 (Backup)
 https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Valencia vs Real Sociedad - Stream 1
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Valencia vs Real Sociedad - Stream 1 (Backup)
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Valencia vs Real Sociedad - Stream 2
-https://tedesco.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Valencia vs Real Sociedad - Stream 2 (Backup)
-https://tedesco.pawtner.com.au/ncaa5.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Valencia vs Real Sociedad - Stream 3
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Valencia vs Real Sociedad - Stream 3 (Backup)
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Vitória vs Cruzeiro
-https://admin.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Vitória vs Cruzeiro (Backup)
-https://admin.pawtner.com.au/fana.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Flamengo vs RB Bragantino
-https://admin2.formaturamaxi.com.br/arouca.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Flamengo vs RB Bragantino (Backup)
-https://admin2.pawtner.com.au/arouca.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Athletico-PR vs Bahia
-https://admin.formaturamaxi.com.br/fana2.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Athletico-PR vs Bahia (Backup)
-https://admin.pawtner.com.au/fana2.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Inter Miami vs San Diego
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Inter Miami vs San Diego
 https://admin.formaturamaxi.com.br/fana3.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Inter Miami vs San Diego (Backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="ROXIESTREAMS SOCCER STREAMS",Inter Miami vs San Diego (Backup)
 https://admin.pawtner.com.au/fana3.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Pachuca vs Tijuana
-https://admin.formaturamaxi.com.br/fana4.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Pachuca vs Tijuana (Backup)
-https://admin.pawtner.com.au/fana4.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Toluca vs Santos
-https://admin2.formaturamaxi.com.br/espnmx.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Toluca vs Santos (Backup)
-https://admin2.pawtner.com.au/espnmx.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Querétaro vs Leon
-https://admin2.formaturamaxi.com.br/espnmx.m3u8
-#EXTINF:-1 group-title="ROXXIESTREAMS SOCCER STREAMS",Querétaro vs Leon (Backup)
-https://admin2.pawtner.com.au/espnmx.m3u8
