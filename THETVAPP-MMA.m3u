@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP MMA STREAMS",EMPTY - LAST UPDATED 2026-09-23 00:15:34 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="THETVAPP MMA STREAMS",Dana White's Contender Series Season 10 Week 7 29 minutes from now Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU2OTI4L3llbGxvd29jZWFuYnJpZGdlNTgvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP MMA STREAMS",Dana White's Contender Series Season 10 Week 7 29 minutes from now Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU2OTI3L2RlZXJzdGFydmFsbGV5NTkvY2F4aQ
