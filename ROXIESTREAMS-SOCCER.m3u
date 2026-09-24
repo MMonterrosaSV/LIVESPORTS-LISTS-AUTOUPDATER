@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Japan vs Uruguay
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Andorra vs Malta - Stream 1
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",South Korea vs Ecuador
-https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Andorra vs Malta
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Andorra vs Malta - Stream 2
 https://admin2.pawtner.com.au/foxsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Serbia vs Greece - Stream 1
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Serbia vs Greece - Stream 2
-https://admin2.pawtner.com.au/dep.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Serbia vs Greece
+https://tedesco.pawtner.com.au/fubo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Portugal vs Wales
 https://admin2.pawtner.com.au/foxsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Norway vs Denmark
@@ -21,7 +17,9 @@ https://tedesco.pawtner.com.au/city.m3u8
 https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dominican Republic vs Nicaragua - Stream 2
 https://admin2.pawtner.com.au/bein.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Haiti vs Trinidad & Tobago
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Haiti vs Trinidad & Tobago - Stream 1
+https://tedesco.pawtner.com.au/fsp.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Haiti vs Trinidad & Tobago - Stream 2
 https://admin2.pawtner.com.au/foxsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Costa Rica vs Curaçao
 https://admin2.pawtner.com.au/one.m3u8
