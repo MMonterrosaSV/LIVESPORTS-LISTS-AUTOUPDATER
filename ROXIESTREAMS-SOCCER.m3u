@@ -15,10 +15,8 @@ https://admin.pawtner.com.au/s4c.m3u8
 https://admin.pawtner.com.au/fs1.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Norway vs Denmark - Stream 2
 https://admin2.pawtner.com.au/foxsp1.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Netherlands vs Germany - Stream 1
-https://admin2.pawtner.com.au/sunderland.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Netherlands vs Germany - Stream 2
-https://tedesco.pawtner.com.au/city.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Netherlands vs Germany
+https://tedesco.pawtner.com.au/two.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dominican Republic vs Nicaragua - Stream 1
 https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dominican Republic vs Nicaragua - Stream 2
