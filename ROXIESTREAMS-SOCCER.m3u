@@ -1,29 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Andorra vs Malta - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Andorra vs Malta
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Andorra vs Malta - Stream 2
-https://admin2.pawtner.com.au/foxsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Serbia vs Greece
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Serbia vs Greece - Stream 1
+https://admin2.pawtner.com.au/fubo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Serbia vs Greece - Stream 2
 https://tedesco.pawtner.com.au/fubo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Portugal vs Wales - Stream 1
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Portugal vs Wales - Stream 2
-https://admin2.pawtner.com.au/foxsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Portugal vs Wales - Stream 3
 https://admin.pawtner.com.au/s4c.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Norway vs Denmark - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Norway vs Denmark
 https://admin.pawtner.com.au/fs1.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Norway vs Denmark - Stream 2
-https://admin2.pawtner.com.au/foxsp1.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Netherlands vs Germany
 https://tedesco.pawtner.com.au/two.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dominican Republic vs Nicaragua - Stream 1
 https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dominican Republic vs Nicaragua - Stream 2
 https://admin2.pawtner.com.au/bein.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Haiti vs Trinidad & Tobago - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Haiti vs Trinidad & Tobago
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Haiti vs Trinidad & Tobago - Stream 2
-https://admin2.pawtner.com.au/foxsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Costa Rica vs Curaçao
 https://admin2.pawtner.com.au/one.m3u8
