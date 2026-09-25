@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Australia vs Brazil
-https://tedesco.pawtner.com.au/fsp.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Australia vs Brazil - Stream 1
+https://tedesco.pawtner.com.au/brazil.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Australia vs Brazil - Stream 2
+https://admin2.pawtner.com.au/brazil.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",India vs Panama
 https://tedesco.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Georgia vs Northern Ireland
