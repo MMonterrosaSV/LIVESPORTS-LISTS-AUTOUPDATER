@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",EMPTY - LAST UPDATED 2026-09-25 17:01:03 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Georgia vs Northern Ireland 44 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3MDQ0L2V4YW1wbGUuY29tL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Armenia vs Latvia 44 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3MDQ1L2V4YW1wbGUuY29tL2NheGk
