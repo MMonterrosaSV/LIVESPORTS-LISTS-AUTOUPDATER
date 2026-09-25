@@ -9,20 +9,14 @@ https://admin2.pawtner.com.au/panama.m3u8
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Armenia vs Latvia
 https://tedesco.pawtner.com.au/fubo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Turkey vs France - Stream 1
-https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Turkey vs France - Stream 3
-https://admin.pawtner.com.au/s4c.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Turkey vs France
+https://admin2.pawtner.com.au/france.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Italy vs Belgium
-https://admin.pawtner.com.au/fs1.m3u8
+https://admin.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sweden vs Romania
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Poland vs Bosnia & Herzegovina
-https://tedesco.pawtner.com.au/two.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Portugal vs Wales - Stream 1
-https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Portugal vs Wales - Stream 3
-https://admin.pawtner.com.au/s4c.m3u8
+https://admin2.pawtner.com.au/poland.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Morocco vs Gabon
 https://admin2.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Egypt vs Angola
@@ -41,5 +35,5 @@ https://tedesco.pawtner.com.au/fubo.m3u8
 https://admin2.pawtner.com.au/sunderland.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Atlas
 https://admin.pawtner.com.au/fana.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",s Martinique
-https://admin.pawtner.com.au/fs1.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",El Salvador vs Martinique
+https://admin.pawtner.com.au/fs2.m3u8
