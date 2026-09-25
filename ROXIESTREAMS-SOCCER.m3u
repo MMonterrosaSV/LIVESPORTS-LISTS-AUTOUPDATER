@@ -33,7 +33,13 @@ https://tedesco.pawtner.com.au/fsp.m3u8
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Monterrey
 https://admin.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Suriname vs Honduras - Stream 1
+https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Suriname vs Honduras - Stream 2
+https://tedesco.pawtner.com.au/fubo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Suriname vs Honduras - Stream 3
+https://admin2.pawtner.com.au/sunderland.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Atlas
 https://admin.pawtner.com.au/fana.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",El Salvador vs Martinique
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",s Martinique
 https://admin.pawtner.com.au/fs1.m3u8
