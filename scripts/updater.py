@@ -29,6 +29,10 @@ PLAYLISTS = [
         "filename": "FCTV33-FOOTBALL.m3u",
     },
     {
+        "url": "https://fctv33.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.co/tennis.html&format=m3u",
+        "filename": "FCTV33-TENNIS.m3u",
+    },
+    {
         "url": "https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https://capitanstrims.st/&format_m3u",
         "filename": "CAPITANSTRIMS-FUTBOL.m3u",
     },
