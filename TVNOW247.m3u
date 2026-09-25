@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="TVNOW247 CHANNELS",DAZN LA LIGA 1
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzgiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzgiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="TVNOW247 CHANNELS",MOVISTAR LA LIGA 1
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4NCIsInRzIjoxNzkwMzA4ODgyODE3fQ==
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4NCIsInRzIjoxNzkwMzA5NzY0NjM3fQ==
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="TVNOW247 CHANNELS",M+ LIGA DE CAMPEONES 1
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MzUiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MzUiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="TVNOW247 CHANNELS",MOVISTAR DEPORTES 1
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MzYiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MzYiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="TVNOW247 CHANNELS",ESPN DEPORTES
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNzUiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNzUiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="TVNOW247 CHANNELS",HBO USA
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMjEiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMjEiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="TVNOW247 CHANNELS",LA 1
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzMiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzMiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TVNOW247 CHANNELS",LA 2
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzYiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzYiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="TVNOW247 CHANNELS",CUATRO
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzUiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzUiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="TVNOW247 CHANNELS",TELECINCO
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzIiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzIiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="TVNOW247 CHANNELS",LA SEXTA
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzQiLCJ0cyI6MTc5MDMwODg4MjgxN30=
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzQiLCJ0cyI6MTc5MDMwOTc2NDYzN30=
