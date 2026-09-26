@@ -33,8 +33,8 @@ PLAYLISTS = [
         "filename": "FCTV33-TENNIS.m3u",
     },
     {
-        "url": "https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https://capitanstrims.st/&format_m3u",
-        "filename": "CAPITANSTRIMS-FUTBOL.m3u",
+        "url": "https://fctv33.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.reisen/fighting.html&format=m3u",
+        "filename": "FCTV33-FIGHTING.m3u",
     },
     {
         "url": "https://roxiestreams.mmonterrosa970.workers.dev/?url=https://roxiestreams.info/soccer&format=m3u8",
@@ -45,10 +45,11 @@ PLAYLISTS = [
         "filename": "TVNOW247.m3u",
     },
     # OFFLINE PLAYLISTS
-    # https://tvnow247-playlist.mmonterrosa970.workers.dev/playlist.m3u
-    #
+    # https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https://capitanstrims.st/&format_m3u
+    # CAPITANSTRIMS-FUTBOL.m3u
     #
 ]
+
 
 # scripts/updater.py → parent = scripts/ → parent.parent = repo root
 REPO_ROOT = Path(__file__).resolve().parent.parent
