@@ -27,8 +27,10 @@ https://tedesco.pawtner.com.au/fsp.m3u8
 https://tedesco.pawtner.com.au/usa.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Saint Vincent & The Grenadines vs French Guiana
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs Toluca
-https://admin.pawtner.com.au/vix.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs Toluca - Stream 1
+https://admin2.pawtner.com.au/canal5.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs Toluca - Stream 2
+https://admin2.pawtner.com.au/tudn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Canada vs Chile
 https://tedesco.pawtner.com.au/colo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Chivas vs Queretaro
@@ -37,7 +39,11 @@ https://tedesco.pawtner.com.au/tudn.m3u8
 https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sint Maarten vs Belize
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos Laguna vs Pachuca
-https://admin.pawtner.com.au/vix.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres vs Puebla
-https://admin.pawtner.com.au/vix.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos Laguna vs Pachuca - Stream 1
+https://admin2.pawtner.com.au/canal5.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos Laguna vs Pachuca - Stream 2
+https://admin2.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres vs Puebla - Stream 1
+https://admin2.pawtner.com.au/canal5.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres vs Puebla - Stream 2
+https://admin2.pawtner.com.au/tudn.m3u8
