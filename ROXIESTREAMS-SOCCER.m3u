@@ -23,8 +23,6 @@ https://admin2.pawtner.com.au/fs2.m3u8
 https://admin.pawtner.com.au/itv.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",North Macedonia vs Switzerland
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mexico vs Colombia
-https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",USA vs Peru - Stream 1
 https://admin2.pawtner.com.au/espnmx.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",USA vs Peru - Stream 2
@@ -37,6 +35,8 @@ https://admin.pawtner.com.au/vix.m3u8
 https://tedesco.pawtner.com.au/colo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Chivas vs Queretaro
 https://tedesco.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mexico vs Colombia
+https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sint Maarten vs Belize
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos Laguna vs Pachuca
