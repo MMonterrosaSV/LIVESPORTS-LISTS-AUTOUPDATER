@@ -17,8 +17,10 @@ https://tedesco.pawtner.com.au/tubi.m3u8
 https://tedesco.pawtner.com.au/foot.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Czech Republic vs Croatia
 https://tedesco.pawtner.com.au/tubi.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Spain
-https://admin.pawtner.com.au/bein.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Spain - Stream 1
+https://admin2.pawtner.com.au/fs2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Spain - Stream 2
+https://admin.pawtner.com.au/itv.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",North Macedonia vs Switzerland
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mexico vs Colombia
