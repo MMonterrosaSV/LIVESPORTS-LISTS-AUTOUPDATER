@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP MMA STREAMS",EMPTY - LAST UPDATED 2026-09-27 04:30:58 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC Fight Night Rosas Jr. vs. Barcelos 5 hours ago Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3MTY4L21hZ2ljcXVpZXRwb3dlcjQ2L2NheGk
+#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC Fight Night Rosas Jr. vs. Barcelos 5 hours ago Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTcxNjcvZnJlZW1vcm5pbmdmbG93ZXI3Ny9jYXhp
+#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC Fight Night Rosas Jr. vs. Barcelos 5 hours ago Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3MTY5L3JlYWxraG9kYW01L2NheGk
