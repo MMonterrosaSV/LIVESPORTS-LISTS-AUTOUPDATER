@@ -11,8 +11,10 @@ https://admin2.pawtner.com.au/tudn.m3u8
 https://tedesco.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Israel vs Ireland
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Norway vs Portugal
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Norway vs Portugal - Stream 1
 https://admin2.pawtner.com.au/port.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Norway vs Portugal - Stream 2
+https://admin2.pawtner.com.au/portes.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Racing Club vs Boca Juniors
 https://tedesco.pawtner.com.au/tubi.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bolivia vs Paraguay
