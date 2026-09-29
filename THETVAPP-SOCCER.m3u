@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",EMPTY - LAST UPDATED 2026-09-29 17:01:07 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Moldova vs Faroe Islands 44 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTczNTAvcHVycGxldGh1bmRlcnJlZDYyL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Finland vs Belarus 44 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTczNDkvbW9ybmluZ3JvYWRxdWlldDMyL2NheGk
