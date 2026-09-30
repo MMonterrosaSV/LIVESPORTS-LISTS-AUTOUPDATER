@@ -37,7 +37,9 @@ https://admin2.pawtner.com.au/fs2.m3u8
 https://admin2.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",USA vs Chile
 https://admin.pawtner.com.au/chile.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mexico vs Peru
-https://tedesco.pawtner.com.au/uni.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mexico vs Peru - Stream 1
+https://admin2.pawtner.com.au/canal5.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mexico vs Peru - Stream 2
+https://admin2.pawtner.com.au/mexico.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Belize vs Saint Vincent & Grenadines
 https://admin2.pawtner.com.au/fs2.m3u8
