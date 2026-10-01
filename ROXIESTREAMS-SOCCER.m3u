@@ -9,15 +9,15 @@ https://admin.pawtner.com.au/bein.m3u8
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ireland vs Austria
 https://admin.pawtner.com.au/rte.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Denmark vs Portugal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFGLJVjy/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Denmark vs Portugal
 https://admin2.pawtner.com.au/port.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wales vs Norway - Stream 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htcZC19Y/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Wales vs Norway - Stream 1
 https://admin.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wales vs Norway - Stream 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htcZC19Y/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Wales vs Norway - Stream 2
 https://tedesco.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4vtkQVH/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Greece vs Netherlands
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Germany vs Serbia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhkSJ5sf/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Germany vs Serbia
 https://admin2.pawtner.com.au/tubi.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs América
 https://admin.pawtner.com.au/fs1.m3u8
