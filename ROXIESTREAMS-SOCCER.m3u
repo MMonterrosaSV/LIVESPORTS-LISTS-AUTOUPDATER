@@ -17,15 +17,13 @@ https://admin2.pawtner.com.au/fs1.m3u8
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Suriname vs Guatemala
 https://admin2.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Santos - Stream 1
-https://admin.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Santos - Stream 2
-https://tedesco.pawtner.com.au/fs2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Santos
+https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Martinique vs Honduras
 https://admin2.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barbados vs Bermuda
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Santa Fe
-https://admin2.pawtner.com.au/tubi.m3u8
+https://admin.pawtner.com.au/fana2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",El Salvador vs Jamaica
 https://admin2.pawtner.com.au/fs2.m3u8
