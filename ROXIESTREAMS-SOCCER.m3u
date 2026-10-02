@@ -1,23 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Japan vs Ecaudor - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VnqNJqh/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Latvia vs Montenegro - Stream 1
 https://tedesco.pawtner.com.au/ecu.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Japan vs Ecaudor - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VnqNJqh/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Latvia vs Montenegro - Stream 2
 https://admin2.pawtner.com.au/ecu.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Guinea vs Kenya
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5ZmbFpf/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Cyprus vs Armenia - Stream 1
+https://tedesco.pawtner.com.au/ecu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5ZmbFpf/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Cyprus vs Armenia - Stream 2
+https://admin2.pawtner.com.au/ecu.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bosnia & Herzegovina vs Sweden - Stream 1
+https://tedesco.pawtner.com.au/ecu.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bosnia & Herzegovina vs Sweden - Stream 2
+https://admin2.pawtner.com.au/ecu.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Belgium vs Turkey
 https://admin.pawtner.com.au/bein.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Azerbaijan vs Liechtenstein
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",France vs Italy
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ireland vs Austria
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",France vs Italy
 https://admin.pawtner.com.au/rte.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Denmark vs Portugal
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",St. Kitts & Nevis vs Cuba - Stream 1
+https://tedesco.pawtner.com.au/ecu.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",St. Kitts & Nevis vs Cuba - Stream 2
+https://admin2.pawtner.com.au/ecu.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Suriname vs Guatemala
 https://admin2.pawtner.com.au/port.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wales vs Norway - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Santos - Stream 1
 https://admin.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wales vs Norway - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Santos - Stream 2
 https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Greece vs Netherlands
-https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Germany vs Serbia
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Martinique vs Honduras
+https://admin2.pawtner.com.au/port.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barbados vs Bermuda - Stream 1
+https://tedesco.pawtner.com.au/ecu.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barbados vs Bermuda - Stream 2
+https://admin2.pawtner.com.au/ecu.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Santa Fe
 https://admin2.pawtner.com.au/tubi.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs América
-https://admin2.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",El Salvador vs Jamaica
+https://admin2.pawtner.com.au/port.m3u8
