@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VnqNJqh/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Latvia vs Montenegro - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Latvia vs Montenegro - Stream 1
 https://tedesco.pawtner.com.au/ecu.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VnqNJqh/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Latvia vs Montenegro - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Latvia vs Montenegro - Stream 2
 https://admin2.pawtner.com.au/ecu.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5ZmbFpf/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Cyprus vs Armenia
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cyprus vs Armenia
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bosnia & Herzegovina vs Sweden
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Belgium vs Turkey
 https://admin2.pawtner.com.au/tubi.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY47gZ0d/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",France vs Italy - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",France vs Italy - Stream 1
 https://admin.pawtner.com.au/fs1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY47gZ0d/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",France vs Italy - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",France vs Italy - Stream 2
 https://admin2.pawtner.com.au/fs1.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",St. Kitts & Nevis vs Cuba
 https://tedesco.pawtner.com.au/fsp.m3u8
