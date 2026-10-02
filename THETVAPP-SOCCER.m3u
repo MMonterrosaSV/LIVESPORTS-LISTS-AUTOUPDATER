@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Cyprus vs Armenia Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc0MjMvc2lsdmVydmlsbGFnZWNvcHBlcjU1L2NheGk
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Latvia vs Montenegro Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3NDIyL3Nub3dyaXZlcnZpbGxhZ2UxNS9jYXhp
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Kazakhstan vs Moldova 2nd half
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc0MjAvZnV0dXJld29sZmZvcmVzdDg0L2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Cyprus vs Armenia 1st half
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3NDIzL2dhcmRlbmhvdXNlcXVpZXQ2OC9jYXhp
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Latvia vs Montenegro 1st half
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3NDIyL3RodW5kZXJmdXR1cmVyYWluODcvY2F4aQ
