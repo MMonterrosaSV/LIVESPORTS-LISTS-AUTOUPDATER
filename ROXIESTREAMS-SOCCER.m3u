@@ -23,11 +23,11 @@ https://admin2.pawtner.com.au/virgin.m3u8
 https://admin2.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cádiz vs Leganes
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfcWvZVn/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Canada vs Peru
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Canada vs Peru
 https://admin2.pawtner.com.au/nba.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13sKZdxt/LIGA-Game-Placeholder-4.png" group-title="ROXIESTREAMS SOCCER (VPN)",North Macedonia vs Scotland
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",North Macedonia vs Scotland
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRDvhP4w/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Switzerland vs Slovenia
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Switzerland vs Slovenia
 https://admin2.pawtner.com.au/fubo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Spain vs Czech Republic
 https://admin2.pawtner.com.au/virgin.m3u8
@@ -35,7 +35,7 @@ https://admin2.pawtner.com.au/virgin.m3u8
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Bragantino
 https://admin.pawtner.com.au/fana.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Burkina Faso
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwM9LH6z/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Burkina Faso
 https://admin.pawtner.com.au/fana5.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Monterrey vs Toluca
 https://admin.pawtner.com.au/fana6.m3u8
