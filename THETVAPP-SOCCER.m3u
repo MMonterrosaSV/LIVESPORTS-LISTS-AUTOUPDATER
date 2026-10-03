@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Croatia vs England Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc0NTgvbWFnaWNxdWlldHBvd2VyNDYvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Iceland vs Bulgaria Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc0NTkvZnV0dXJld29sZmZvcmVzdDg0L2NheGk
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Estonia vs Luxembourg Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc0NTYvZnJlZW1vcm5pbmdmbG93ZXI3Ny9jYXhp
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Belarus vs San Marino Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc0NTcvZXZlbmluZ3N0b25lYXV0dW1uOTUvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",India vs Brazil 2nd half
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc0NjQvZ2VudGxlYnJlZXplYW1iZXI2Ny9jYXhp
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Estonia vs Luxembourg 1st half
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc0NTYvYmVhcnF1aWV0ZHJlYW01NS9jYXhp
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Belarus vs San Marino 1st half
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc0NTcvZXZlbmluZ3N0b25lYXV0dW1uOTUvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Croatia vs England 1st half
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc0NTgvbWFnaWNxdWlldHBvd2VyNDYvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP SOCCER STREAMS",Iceland vs Bulgaria 1st half
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc0NTkvZnV0dXJld29sZmZvcmVzdDg0L2NheGk
