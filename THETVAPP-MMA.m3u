@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC 332 Silva vs. Wang 30 minutes ago Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3NTA3L3Rvd2Vyc2lsdmVyZnJlZTQ0L2NheGk
-#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC 332 Silva vs. Wang 30 minutes ago Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc0ODUvZ3JlZW5zdG9uZWxpb244My9jYXhp
-#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC 332 Silva vs. Wang 30 minutes ago Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc1MDYvZ29vemVzYWcyL2NheGk
+#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC 332 Silva vs. Wang 45 minutes ago Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc0ODUvbW9ybmluZ3JvYWRxdWlldDMyL2NheGk
+#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC 332 Silva vs. Wang 45 minutes ago Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc1MDYvcHVycGxldGh1bmRlcnJlZDYyL2NheGk
+#EXTINF:-1 group-title="THETVAPP MMA STREAMS",UFC 332 Silva vs. Wang 45 minutes ago Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc1MDcvZ3JlZW5zdG9uZWxpb244My9jYXhp
