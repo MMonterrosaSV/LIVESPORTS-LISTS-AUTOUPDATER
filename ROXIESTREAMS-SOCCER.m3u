@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Chesterfield vs Tranmere Rovers
 https://admin2.pawtner.com.au/f1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfXvMLWY/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Finland vs Albania
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Finland vs Albania
 https://admin2.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Burton Albion vs Huddersfield
 https://tedesco.pawtner.com.au/golazo.m3u8
@@ -11,15 +11,15 @@ https://admin2.pawtner.com.au/gill.m3u8
 https://admin2.pawtner.com.au/ply.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Reading vs Bradford
 https://admin2.pawtner.com.au/ncaa8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSyCX17R/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",India vs Brazil
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",India vs Brazil
 https://admin2.pawtner.com.au/sportv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yC7Js19/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Belarus vs San Marino
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Belarus vs San Marino
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Russia vs Namibia
 https://admin2.pawtner.com.au/russia.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1T7PyRh/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Croatia vs England
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Croatia vs England
 https://admin2.pawtner.com.au/virgin.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HySq94C/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Estonia vs Luxembourg
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Estonia vs Luxembourg
 https://admin2.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cádiz vs Leganes
 https://admin2.pawtner.com.au/dep.m3u8
