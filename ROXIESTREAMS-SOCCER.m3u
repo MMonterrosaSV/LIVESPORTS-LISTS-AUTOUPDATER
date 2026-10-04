@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Azerbaijan vs Lithuania
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qM7dmXY9/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Azerbaijan vs Lithuania
 https://admin2.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Kosovo vs Austria
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bpsrN5m/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Kosovo vs Austria
 https://admin2.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Malta vs Andorra - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jq8pzdc/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Malta vs Andorra - Stream 1
 https://admin2.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Malta vs Andorra - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jq8pzdc/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Malta vs Andorra - Stream 2
 https://admin2.pawtner.com.au/fubo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wales vs Denamrk
 https://tedesco.pawtner.com.au/golazo.m3u8
