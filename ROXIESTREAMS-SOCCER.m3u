@@ -7,13 +7,13 @@ https://admin2.pawtner.com.au/fs2.m3u8
 https://admin.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Italy vs Turkey - Stream 2
 https://admin2.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jv2rjVbz/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",France vs Belgium - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",France vs Belgium - Stream 1
 https://tedesco.pawtner.com.au/france.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jv2rjVbz/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",France vs Belgium - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",France vs Belgium - Stream 2
 https://admin2.pawtner.com.au/virgin.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y92KN1Zj/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Ukraine vs Hungary
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ukraine vs Hungary
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/636JVdgy/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Romania vs Sweden
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Romania vs Sweden
 https://admin2.pawtner.com.au/romania.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Northern Ireland vs Georgia
 https://admin2.pawtner.com.au/bbc.m3u8
