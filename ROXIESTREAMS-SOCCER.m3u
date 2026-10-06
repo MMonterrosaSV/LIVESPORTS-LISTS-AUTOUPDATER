@@ -9,11 +9,11 @@ https://tedesco.pawtner.com.au/fs2.m3u8
 https://admin.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Czech Republic - Stream 2
 https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Croatia vs Spain
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHfvWKwW/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Croatia vs Spain
 https://tedesco.pawtner.com.au/spain.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Scotland vs Slovenia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgVC15Lj/LIGA-Game-Placeholder-4.png" group-title="ROXIESTREAMS SOCCER (VPN)",Scotland vs Slovenia
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Switzerland vs North Macedonia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjytJ0Zd/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Switzerland vs North Macedonia
 https://admin.pawtner.com.au/fubo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Angola vs Malawi
 https://admin.pawtner.com.au/bein.m3u8
