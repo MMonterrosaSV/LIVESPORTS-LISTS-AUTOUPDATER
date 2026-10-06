@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",India vs Uruguay - Stream 1
-https://admin.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",India vs Uruguay - Stream 2
-https://admin2.pawtner.com.au/fs2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",India vs Uruguay
+https://tedesco.pawtner.com.au/sony.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Kazakhstan vs Faroe Islands - Stream 1
 https://tedesco.pawtner.com.au/france.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Kazakhstan vs Faroe Islands - Stream 2
