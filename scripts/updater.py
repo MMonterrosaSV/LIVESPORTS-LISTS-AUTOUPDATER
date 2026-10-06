@@ -36,10 +36,10 @@ PLAYLISTS = [
         "url": "https://roxiestreams.mmonterrosa970.workers.dev/?url=https://roxiestreams.info/soccer&format=m3u8",
         "filename": "ROXIESTREAMS-SOCCER.m3u",
     },
-    {
-        "url": "https://tvnow247-playlist.mmonterrosa970.workers.dev/playlist.m3u",
-        "filename": "TVNOW247.m3u",
-    },
+    #{
+    #    "url": "https://tvnow247-playlist.mmonterrosa970.workers.dev/playlist.m3u",
+    #    "filename": "TVNOW247.m3u",
+    #},
     # OFFLINE PLAYLISTS
     # https://capitanstrims.mmonterrosa970.workers.dev/?proxy=https://capitanstrims.st/&format_m3u
     # CAPITANSTRIMS-FUTBOL.m3u
