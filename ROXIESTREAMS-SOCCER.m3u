@@ -17,7 +17,7 @@ https://admin.pawtner.com.au/spain.m3u8
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Scotland vs Slovenia
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Switzerland vs North Macedonia
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861139.png" group-title="ROXIESTREAMS SOCCER (VPN)",Switzerland vs North Macedonia
 https://admin.pawtner.com.au/fubo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Angola vs Malawi
 https://admin.pawtner.com.au/bein.m3u8
@@ -25,15 +25,15 @@ https://admin.pawtner.com.au/bein.m3u8
 https://admin.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Saint Vincent & Grenadines vs Sint Maarten - Stream 2
 https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/event_bg_teams.webp" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvPK1RnW/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 1
 https://admin2.pawtner.com.au/vix.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/event_bg_teams.webp" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 2 (DE)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvPK1RnW/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 2 (DE)
 https://admin2.pawtner.com.au/sportdigital.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/event_bg_teams.webp" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 3 (EN)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvPK1RnW/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 3 (EN)
 https://admin2.pawtner.com.au/prem2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Antigua & Barbuda vs Aruba
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Colombia vs Peru
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYCH4K8/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Colombia vs Peru
 https://admin2.pawtner.com.au/peru.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJjcNYGK/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",USA vs Canada
 https://admin2.pawtner.com.au/usa.m3u8
