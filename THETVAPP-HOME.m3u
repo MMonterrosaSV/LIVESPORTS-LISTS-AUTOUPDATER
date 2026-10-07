@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/11419.png",Atlanta Dream vs New York Liberty - 9 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NzA2L29yYW5nZXdvbGZ2YWxsZXk5Ny9jYXhp
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Washington Capitals vs Pittsburgh Penguins - 9 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3NzA3L2JlYXJob3BlbmF0dXJhbDgyL2NheGk
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Winnipeg Jets vs Colorado Avalanche - 9 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc3MDkvZ2FyZGVuZHJlYW1vY2VhbjY4L2NheGk
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Florida Intl Golden Panthers vs New Mexico State Aggies - 9 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc3MDgvc2hhZG93Y29wcGVyd2lsZDI4L2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",New York Yankees vs Tampa Bay Rays - 29 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc3MTAvaGF3a2Rlc2VydG1lYWRvdzE5L2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/11419.png",Atlanta Dream vs New York Liberty Not started
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc3MDYvc2lsdmVycml2ZXJzdW5zZXQxMS9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Washington Capitals vs Pittsburgh Penguins Not started
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NzA3L2JlYXJob3BlbmF0dXJhbDgyL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Winnipeg Jets vs Colorado Avalanche Not started
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3NzA5L2dhcmRlbmRyZWFtb2NlYW42OC9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Florida Intl Golden Panthers vs New Mexico State Aggies Not started
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc3MDgvc2hhZG93Y29wcGVyd2lsZDI4L2NheGk
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Indiana Pacers vs Minnesota Timberwolves - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc3MDQveW91bmdvY2VhbmdyZWF0MTYvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc3MDQvbGFrZW1lYWRvd21vb24yNS9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Kennesaw State Owls vs Jacksonville State Gamecocks - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3NzA1L3dpbnRlcndoaXRleW91bmczNS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc3MDUvYmxhY2tyb2FkbWlkbmlnaHQ4NS9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",Atlanta Braves vs Los Angeles Dodgers - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc3MDMvcmVkdGlnZXJlYWdsZTI3L2NheGk
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",Chicago White Sox vs Cleveland Guardians - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc3MDIvd2ludGVycmVkcGVhcmw3NC9jYXhp
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",New York Yankees vs Tampa Bay Rays - 39 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc3MTAvaGF3a2Rlc2VydG1lYWRvdzE5L2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc3MDMvcmVkdGlnZXJlYWdsZTI3L2NheGk
