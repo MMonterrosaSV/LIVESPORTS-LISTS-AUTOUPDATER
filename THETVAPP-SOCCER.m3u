@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER" tvg-logo="https://scdnmain.net/assets/tournament/66.png",Argentina vs Benin - 2nd half
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc2ODkvY3J5c3RhbG1vdW50YWlud2lsZDExL2NheGk
-#EXTINF:-1 group-title="THETVAPP SOCCER" tvg-logo="https://scdnmain.net/assets/tournament/18.png",Chicago Fire vs Vancouver Whitecaps 45'
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc2OTMvZ29vemVzYWcyL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER" tvg-logo="https://scdnmain.net/assets/tournament/18.png",Chicago Fire vs Vancouver Whitecaps - HT
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3NjkzL25hdHVyYWxnZW50bGVyZWQxOS9jYXhp
 #EXTINF:-1 group-title="THETVAPP SOCCER" tvg-logo="https://scdnmain.net/assets/tournament/66.png",USA vs Canada - 2nd half
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc2ODMvZGlhbW9uZHN0YXJldmVuaW5nMzEvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3NjgzL3RpZ2Vyd29sZmJyaWdodDQ3L2NheGk
