@@ -1,45 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",India vs Uruguay
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",RB Bragantino vs Mirassol
 https://admin2.pawtner.com.au/sonyhindi.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Kazakhstan vs Faroe Islands - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Internacional vs Corinthians - Stream 1
 https://admin.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Kazakhstan vs Faroe Islands - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Internacional vs Corinthians - Stream 2
 https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Czech Republic - Stream 1
-https://admin.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Czech Republic - Stream 2
-https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Croatia vs Spain - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Remo vs Grêmio - Stream 1
 https://tedesco.pawtner.com.au/spain.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Croatia vs Spain - Stream 2 (ES)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Remo vs Grêmio - Stream 2 (ES)
 https://admin.pawtner.com.au/spain.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Croatia vs Spain - Stream 3
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Remo vs Grêmio - Stream 3
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Scotland vs Slovenia
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vitória vs Chapecoense
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Switzerland vs North Macedonia
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Botafogo vs Vasco da Gama
 https://admin.pawtner.com.au/fubo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Angola vs Malawi
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",UNAN Managua vs Real Estelí
 https://admin.pawtner.com.au/bein.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Saint Vincent & Grenadines vs Sint Maarten - Stream 1
-https://admin.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Saint Vincent & Grenadines vs Sint Maarten - Stream 2
-https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvPK1RnW/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruzeiro vs São Paulo - Stream 1
 https://admin2.pawtner.com.au/vix.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvPK1RnW/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 2 (DE)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruzeiro vs São Paulo - Stream 2 (DE)
 https://admin2.pawtner.com.au/sportdigital.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvPK1RnW/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Argentina vs Benin (Messi's Farewell) - Stream 3 (EN)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruzeiro vs São Paulo - Stream 3 (EN)
 https://admin2.pawtner.com.au/prem2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Antigua & Barbuda vs Aruba
-https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYCH4K8/INT-Football-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Colombia vs Peru
-https://admin2.pawtner.com.au/peru.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJjcNYGK/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",USA vs Canada
-https://admin2.pawtner.com.au/usa.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",French Guiana vs Belize - Stream 1
-https://admin.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",French Guiana vs Belize - Stream 2
-https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZvdfwJr/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Mexico vs Chile
-https://admin.pawtner.com.au/uni.m3u8
