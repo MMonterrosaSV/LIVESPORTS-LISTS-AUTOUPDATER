@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",San Diego Padres vs Milwaukee Brewers - 44 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3Njk4L2hvcml6b25oYXJib3JydWJ5NjUvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Utah Jazz vs Denver Nuggets - 14 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3Njk0L2V4YW1wbGUuY29tL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",San Diego Padres vs Milwaukee Brewers - 28 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3Njk4L2hvcml6b25oYXJib3JydWJ5NjUvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Utah Jazz vs Denver Nuggets Not started
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc2OTQvaXNsYW5kZW5lcmd5b2NlYW43My9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Oklahoma City Thunder vs New Orleans Pelicans - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc2OTAvZ3JlZW5zdG9uZWxpb244My9jYXhp
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/iilZG5tajU0WGOTs.png",AEW Grand Slam 2026 - 45 minutes ago - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc2NjUvc2hhZG93YnJpZ2h0c3Ryb25nNTUvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/iilZG5tajU0WGOTs.png",AEW Grand Slam 2026 - 45 minutes ago - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3Njk1L3NpbXBsZWZ1dHVyZXRvd2VyOTIvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3NjkwL21vcm5pbmdyb2FkcXVpZXQzMi9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/iilZG5tajU0WGOTs.png",AEW Grand Slam 2026 - 1 hour ago - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc2OTUvc2ltcGxlZnV0dXJldG93ZXI5Mi9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/iilZG5tajU0WGOTs.png",AEW Grand Slam 2026 - 1 hour ago - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc2NjUvc2hhZG93YnJpZ2h0c3Ryb25nNTUvY2F4aQ
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Charlotte Hornets vs Brooklyn Nets - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3Njc5L2dhcmRlbmlzbGFuZGZvcmVzdDcvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc2NzkvZ2FyZGVuaXNsYW5kZm9yZXN0Ny9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",Atlanta Braves vs Los Angeles Dodgers - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3Njc1L2ZyZWVjbGV2ZXJhdXR1bW43My9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc2NzUvZnJlZWNsZXZlcmF1dHVtbjczL2NheGk
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Troy Trojans vs Southern Mississippi Golden Eagles - In Progress
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3NjkyL2xpb25mb3hjYXN0bGU1Ni9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Chicago Blackhawks vs St. Louis Blues - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc2OTEvcmVhbGtob2RhbTMvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc2OTEvYXJna2hvZGFtMS9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",New York Rangers vs New York Islanders - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc2ODgvc2lsdmVyd2luZG1vdW50YWluMTQvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3Njg4L3NpbHZlcndpbmRtb3VudGFpbjE0L2NheGk
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Buffalo Sabres vs Minnesota Wild - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc2ODIvZGlhbW9uZHNtaWxlc3Bhcms3Ni9jYXhp
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/3321.png",Dana White's Contender Series Season 10 Week 9 - 1 hour ago - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc2ODcvc3Ryb25naGFyYm9ycG93ZXI1My9jYXhp
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/3321.png",Dana White's Contender Series Season 10 Week 9 - 1 hour ago - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3Njg2L3JlYWxraG9kYW01L2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc2ODIvd2lsZHN1bnJpc2VjbG91ZDIwL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Toronto Maple Leafs vs Nashville Predators - In Progress
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3Njc4L21hZ2ljc3Rvcm1ncmVhdDIyL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",New Jersey Devils vs Utah Mammoth - In Progress
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NjgwL2ZyZWVtb3VudGFpbmJyaWdodDkxL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Detroit Red Wings vs Ottawa Senators - In Progress
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc2ODEvYmVhcndpbmRydWJ5NjMvY2F4aQ
