@@ -3,9 +3,11 @@
 https://admin.pawtner.com.au/fanapt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Flamengo - Stream 2 (EN)
 https://admin.pawtner.com.au/fanaen.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Flamengo - Stream 3 (DE)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Flamengo - Stream 3 (ES)
+https://admin.pawtner.com.au/fanaes.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Flamengo - Stream 4 (DE)
 https://admin2.pawtner.com.au/sportdigitalfussball.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Flamengo - Stream 4
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Flamengo - Stream 5
 https://admin.pawtner.com.au/fana1pt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Athletico-PR vs Athletico Mineiro
 https://admin.pawtner.com.au/fana2.m3u8
@@ -13,7 +15,9 @@ https://admin.pawtner.com.au/fana2.m3u8
 https://admin2.pawtner.com.au/winplus.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fluminense vs Coritiba
 https://admin.pawtner.com.au/fana3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8nXrpWW1/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Bahia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nXrpWW1/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Bahia - Stream 1
 https://admin.pawtner.com.au/fana4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nXrpWW1/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Bahia - Stream 2 (EN)
+https://admin.pawtner.com.au/fana4en.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fortaleza CEIF vs Millonarios
 https://admin2.pawtner.com.au/winplus.m3u8

@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/boxing-new.webp",Osleys Iglesias vs Oliver Zaren - 44 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc3MTkvYnJpZ2h0Z29sZGdvbGQ5Mi9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/boxing-new.webp",Osleys Iglesias vs Oliver Zaren - 28 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc3MTkvYnJpZ2h0Z29sZGdvbGQ5Mi9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Ottawa Senators vs Philadelphia Flyers - 58 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc3MzAvZXhhbXBsZS5jb20vY2F4aQ
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Boston Bruins vs Utah Mammoth - 58 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NzMyL2V4YW1wbGUuY29tL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Liberty Flames vs Sam Houston State Bearkats - 58 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NzMxL2V4YW1wbGUuY29tL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Western Kentucky Hilltoppers vs Missouri State Bears - 58 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3NzI5L2V4YW1wbGUuY29tL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108947.png",Dallas Cowboys vs Tampa Bay Buccaneers - 2 hours from now - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc3MjEvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108947.png",Dallas Cowboys vs Tampa Bay Buccaneers - 2 hours from now - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc3MjEvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhpLWZoZA
