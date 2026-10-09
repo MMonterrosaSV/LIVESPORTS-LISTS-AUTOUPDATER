@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Kholood vs Al Quadisiya - Stream 1
-https://admin2.pawtner.com.au/vix.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Kholood vs Al Quadisiya - Stream 2 (EN)
-https://admin.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Fateh vs Al-Ahli - Stream 1
-https://admin2.pawtner.com.au/vix2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Fateh vs Al-Ahli - Stream 2
-https://admin.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Kholood vs Al Quadisiya
+https://tedesco.pawtner.com.au/foxd.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Fateh vs Al-Ahli
+https://tedesco.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Kasımpaşa - Stream 1
 https://admin.pawtner.com.au/fanapt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Kasımpaşa - Stream 2 (EN)
@@ -47,8 +43,6 @@ https://admin.pawtner.com.au/afaplay3.m3u8
 https://admin.pawtner.com.au/afaplay3en.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 3 (DE)
 https://admin2.pawtner.com.au/sportdigitalhd.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Canada vs Denmark
-https://admin.pawtner.com.au/foxmx.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Unión Santa Fe vs Defensa y Justicia
 https://admin.pawtner.com.au/afaplay4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Puebla vs León
