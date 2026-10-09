@@ -7,10 +7,8 @@ https://admin.pawtner.com.au/fanaen.m3u8
 https://admin2.pawtner.com.au/sportdigitalfussball.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Kasımpaşa - Stream 4 (RU)
 https://admin2.pawtner.com.au/match3ru.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs Sarmiento - Stream 1
-https://admin.pawtner.com.au/fana2pt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs Sarmiento - Stream 2 (ES)
-https://admin.pawtner.com.au/l1max.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs Sarmiento
+https://admin.pawtner.com.au/afaplay1.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Nassr vs Diriyah
 https://admin.pawtner.com.au/fana3pt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Borussia Dortmund vs Werder Bremen - Stream 1
@@ -30,11 +28,15 @@ https://admin.pawtner.com.au/l1max.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sporting Braga vs Sporting CP
 https://admin2.pawtner.com.au/win.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Gimnasia La Plata vs Atlético Tucumán
-https://admin2.pawtner.com.au/peru.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors
-https://admin2.pawtner.com.au/usa.m3u8
+https://admin.pawtner.com.au/afaplay2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 1
+https://admin.pawtner.com.au/afaplay3.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 2 (EN)
+https://admin.pawtner.com.au/afaplay3en.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 3 (DE)
+https://admin2.pawtner.com.au/sportdigitalhd.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Unión Santa Fe vs Defensa y Justicia
-https://admin.pawtner.com.au/uni.m3u8
+https://admin.pawtner.com.au/afaplay4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Puebla vs León
 https://admin2.pawtner.com.au/nba.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Deportivo Garcilaso vs Sport Huancayo
