@@ -16,8 +16,10 @@ https://admin.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Málaga vs Espanyol
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",West Ham vs QPR - Stream 1
-https://admin2.pawtner.com.au/cbssn.m3u8
+https://admin2.pawtner.com.au/westham.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",West Ham vs QPR - Stream 2
+https://admin2.pawtner.com.au/cbssn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",West Ham vs QPR - Stream 3
 https://admin2.pawtner.com.au/f1.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sporting Braga vs Sporting CP
 https://admin2.pawtner.com.au/bein.m3u8
