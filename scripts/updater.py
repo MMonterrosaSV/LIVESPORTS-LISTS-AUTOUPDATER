@@ -37,6 +37,14 @@ PLAYLISTS = [
         "filename": "FCTV33-MMA.m3u",
     },
     {
+        "url": "https://fctv33.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.vip/basketball.html&format=m3u",
+        "filename": "FCTV33-NBA.m3u",
+    },
+        {
+        "url": "https://fctv33.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.vip/american-football.html&format=m3u",
+        "filename": "FCTV33-NFL.m3u",
+    },
+    {
         "url": "https://roxiestreams.mmonterrosa970.workers.dev/?url=https://roxiestreams.info/soccer&format=m3u8",
         "filename": "ROXIESTREAMS-SOCCER.m3u",
     },
