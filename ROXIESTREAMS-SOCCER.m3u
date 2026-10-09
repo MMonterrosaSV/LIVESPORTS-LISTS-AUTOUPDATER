@@ -3,14 +3,8 @@
 https://tedesco.pawtner.com.au/foxd.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Fateh vs Al-Ahli
 https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Kasımpaşa - Stream 1
-https://admin.pawtner.com.au/fanapt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Kasımpaşa - Stream 2 (EN)
-https://admin.pawtner.com.au/fanaen.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Kasımpaşa - Stream 3 (DE)
-https://admin2.pawtner.com.au/sportdigitalfussball.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Kasımpaşa - Stream 4 (RU)
-https://admin2.pawtner.com.au/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Kasımpaşa
+https://admin2.pawtner.com.au/bein.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs Sarmiento
 https://admin.pawtner.com.au/afaplay1.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Nassr vs Diriyah
