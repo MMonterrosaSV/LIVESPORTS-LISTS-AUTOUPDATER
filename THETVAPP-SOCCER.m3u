@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER",Real Madrid vs Villarreal 68' - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4MjYvYXV0dW1uc3Rhcm9jZWFuMjMvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP SOCCER",Real Madrid vs Villarreal 68' - Server 2
+#EXTINF:-1 group-title="THETVAPP SOCCER",Real Madrid vs Villarreal 84' - Server 1
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4MjgvY2FzdGxlcnVieXRodW5kZXIyNC9jYXhp
-#EXTINF:-1 group-title="THETVAPP SOCCER",Paris Saint-Germain vs Le Mans - 2nd half
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4MjcvcGVhcmxmb3Jlc3RzaWx2ZXI1Ny9jYXhp
-#EXTINF:-1 group-title="THETVAPP SOCCER",Chicago Fire vs New York City FC 87'
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4MjUvc2ltcGxlc3VucmlzZWNvcHBlcjgyL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER",Real Madrid vs Villarreal 84' - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4MjYvYXV0dW1uc3Rhcm9jZWFuMjMvY2F4aQ
