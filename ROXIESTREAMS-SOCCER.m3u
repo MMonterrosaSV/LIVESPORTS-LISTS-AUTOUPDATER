@@ -39,6 +39,8 @@ https://admin2.pawtner.com.au/main.m3u8
 https://admin2.pawtner.com.au/ncaa10.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2XPVW3R/BUNDES-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Leipzig vs Frankfurt
 https://admin2.pawtner.com.au/one.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTQPRB7h/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Porto vs Maritimo
+https://admin2.pawtner.com.au/porto.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/ligue1-401876444.png" group-title="ROXIESTREAMS SOCCER (VPN)",Monaco vs Toulouse
 https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/seriea-401874754.png" group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Frosinone
