@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP HOME",LAST UPDATED 01:31 AM 11-10-2026 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",Cleveland Guardians vs Chicago White Sox - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc4OTMvYnJhdmVoYXJib3JnYXJkZW40MC9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Alabama Crimson Tide vs Georgia Bulldogs Not started
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3ODk0L2ZyZWVjbGV2ZXJhdXR1bW43My9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/3321.png",UFC Fight Night Allen vs. Duncan - 2 hours ago
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc4NTMvdmFsbGV5ZGlhbW9uZGdvbGQ3NC9jYXhp

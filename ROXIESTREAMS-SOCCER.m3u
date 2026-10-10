@@ -55,14 +55,14 @@ https://admin.pawtner.com.au/fana.m3u8
 https://admin2.pawtner.com.au/aztecadeportes.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Querétaro vs Atlante
 https://admin2.pawtner.com.au/foxone.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2qP1Ly/LIGA-Game-Placeholder-12.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs DC United - Stream 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2qP1Ly/LIGA-Game-Placeholder-12.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs DC United
 https://admin2.pawtner.com.au/mls.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2qP1Ly/LIGA-Game-Placeholder-12.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs DC United - Stream 2
-https://admin2.pawtner.com.au/foxmx.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mls-761848.png" group-title="ROXIESTREAMS SOCCER (VPN)",Orlando City vs Columbus Crew
 https://tedesco.pawtner.com.au/tsn5.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vitoria
-https://admin.pawtner.com.au/tsn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vitoria - Stream 1
+https://admin.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vitoria - Stream 2 (EN)
+https://admin.pawtner.com.au/fanaen.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",River Plate vs Estudiantes Rio Cuarto
 https://admin.pawtner.com.au/fana5.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Chivas
