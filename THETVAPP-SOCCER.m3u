@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER",LAST UPDATED 01:01 AM 11-10-2026 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="THETVAPP SOCCER",Inter Miami CF vs DC United - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4ODAvcml2ZXJibHVlc3RhcjMwL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER",Philadelphia Union vs Real Salt Lake - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4NzYvb2NlYW5zbm93Y2FsbTI0L2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER",Atlanta United vs FC Cincinnati - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4NzkvaG9yaXpvbnN1bnNldHNpbHZlcjUxL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER",Charlotte FC vs FC Dallas - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4ODMvZ3JlZW5yb2Fkcml2ZXIxOC9jYXhp
+#EXTINF:-1 group-title="THETVAPP SOCCER",Orlando City SC vs Columbus Crew - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4NzcvZ2FyZGVuaGF3a3ZpbGxhZ2U3My9jYXhp
+#EXTINF:-1 group-title="THETVAPP SOCCER",New England Revolution vs Seattle Sounders FC - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4NzQvZ3JlZW5zaWx2ZXJyaXZlcjg2L2NheGk
