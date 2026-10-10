@@ -34,14 +34,12 @@ https://admin2.pawtner.com.au/sportdigitalhd.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Unión Santa Fe vs Defensa y Justicia
 https://admin.pawtner.com.au/afaplay4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Puebla vs León
-https://admin2.pawtner.com.au/nba.m3u8
+https://admin2.pawtner.com.au/espnmx.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Deportivo Garcilaso vs Sport Huancayo
-https://admin2.pawtner.com.au/fubo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tapatío vs CA La Paz - Stream 1
+https://admin.pawtner.com.au/l1max.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres UANL vs Toluca - Stream 1
 https://admin2.pawtner.com.au/virgin.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tapatío vs CA La Paz - Stream 2 (ES)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres UANL vs Toluca - Stream 2 (ES)
 https://admin2.pawtner.com.au/eng.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tapatío vs CA La Paz - Stream 3 (ALT)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres UANL vs Toluca - Stream 3 (ALT)
 https://tedesco.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres UANL vs Toluca
-https://admin.pawtner.com.au/fana.m3u8
