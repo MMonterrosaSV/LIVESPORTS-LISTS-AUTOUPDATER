@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/wwe-logo.webp",Friday Night SmackDown 1 minute ago
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU0OTYzL21vcm5pbmdyb2FkcXVpZXQzMi9jYXhp
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Chicago Bulls vs Memphis Grizzlies Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3NzY5L2lzbGFuZGVuZXJneW9jZWFuNzMvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/wwe-logo.webp",Friday Night SmackDown - 15 minutes ago
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTQ5NjMvZ3JlZW5zdG9uZWxpb244My9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Chicago Bulls vs Memphis Grizzlies - In Progress
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc3NjkvaXNsYW5kZW5lcmd5b2NlYW43My9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Winnipeg Jets vs Anaheim Ducks Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc3NzAva2lyZXNhZzEvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/boxing-new.webp",BKFC Fight Night Cisneros vs Petersen 1 minute ago - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc3NjUvYXV0dW1uc3Rhcm9jZWFuMjMvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/boxing-new.webp",BKFC Fight Night Cisneros vs Petersen 1 minute ago - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc3NjYvaGFyYm9yc3VtbWVybmF0dXJhbDIwL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NzcwL2tpcmVzYWcxL2NheGk
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/boxing-new.webp",BKFC Fight Night Cisneros vs Petersen - 15 minutes ago - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc3NjUvbGlnaHRldmVuaW5nYnJpZ2h0NS9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/boxing-new.webp",BKFC Fight Night Cisneros vs Petersen - 15 minutes ago - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc3NjYvaGFyYm9yc3VtbWVybmF0dXJhbDIwL2NheGk
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/11419.png",New York Liberty vs Atlanta Dream - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc3NjQvZ3JlZW5mb3Jlc3RzdW5yaXNlNjMvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc3NjQvcml2ZXJibHVlc3RhcjMwL2NheGk
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/41257.png",Hamilton Tiger-Cats vs Edmonton Elks 2nd quarter
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc3NjIvZnJlZXN0YXJlYWdsZTUvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3NzYyL3dpbnRlcmhhcHB5aG91c2UyMC9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Louisville Cardinals vs Florida State Seminoles - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc3NTkvY29hc3RkcmVhbWdyZWVuODgvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc3NTkvZ2FyZGVuaGF3a3ZpbGxhZ2U3My9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Washington Capitals vs New York Rangers - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc3NjAvZm94ZGVlcmxpb243OS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NzYxL2hvcml6b25zdW5zZXRzaWx2ZXI1MS9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Washington Capitals vs New York Rangers - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTc3NjEvaG9yaXpvbnN1bnNldHNpbHZlcjUxL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc3NjAvZm94ZGVlcmxpb243OS9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Detroit Red Wings vs Seattle Kraken - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc3NTcvZnJlZXJ1YnloYXJib3I5NS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc3NTcvb2NlYW5zbm93Y2FsbTI0L2NheGk
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/142.png",Columbus Blue Jackets vs Pittsburgh Penguins - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NzU4L2dyZWVucm9hZHJpdmVyMTgvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3NzU4L2ZpZWxkdGlnZXJwdXJwbGU3MS9jYXhp
 #EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/NASCAR-logo.png",2026 Truck Playoff at Charlotte Road Course - 2 hours ago
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc3NTYvZGlhbW9uZGZ1dHVyZXdpbmQ3MC9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc3NTYvdmFsbGV5bGlnaHRjb3BwZXI3Mi9jYXhp
+#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Utah State Aggies vs Washington State Cougars - 44 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc3NzIvbW9ybmluZ3dpbnRlcnJlZDk0L2NheGk
