@@ -12,9 +12,9 @@ https://admin2.pawtner.com.au/oldham.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Swp2kH0z/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Rayo Vallecano vs Athletic Club
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tHmQ5Md/BUNDES-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Augsburg vs Bayern München
-https://tedesco.pawtner.com.au/one.m3u8
+https://admin2.pawtner.com.au/one.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDxkrb5K/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Brentford
-https://admin2.pawtner.com.au/brentford.m3u8
+https://admin.pawtner.com.au/ncaa15.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ycN5FNz/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Chelsea vs Bournemouth
 https://admin2.pawtner.com.au/chelsea.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXDHL68F/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Ipswich vs Fulham
@@ -24,7 +24,7 @@ https://admin2.pawtner.com.au/brighton.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Middlesbrough
 https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Rotherham vs Gillingham
-https://admin2.pawtner.com.au/espnmx.m3u8
+https://admin2.pawtner.com.au/gill.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Deportivo Alavés vs Atlético Madrid
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lille vs Le Havre
@@ -38,7 +38,7 @@ https://admin2.pawtner.com.au/universo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Man United vs Tottenham - Stream 2 (EN)
 https://admin2.pawtner.com.au/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/bundesliga-401884780.png" group-title="ROXIESTREAMS SOCCER (VPN)",Leipzig vs Frankfurt
-https://tedesco.pawtner.com.au/one.m3u8
+https://admin2.pawtner.com.au/one.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/ligue1-401876444.png" group-title="ROXIESTREAMS SOCCER (VPN)",Monaco vs Toulouse
 https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/seriea-401874754.png" group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Frosinone
