@@ -25,11 +25,11 @@ https://admin2.pawtner.com.au/f1.m3u8
 https://admin2.pawtner.com.au/bein.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Gimnasia La Plata vs Atlético Tucumán
 https://admin.pawtner.com.au/afaplay2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RDWTbpf/LIGA-Game-Placeholder-4.png" group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 1
 https://admin.pawtner.com.au/afaplay3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RDWTbpf/LIGA-Game-Placeholder-4.png" group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 2 (EN)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 2 (EN)
 https://admin.pawtner.com.au/afaplay3en.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RDWTbpf/LIGA-Game-Placeholder-4.png" group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 3 (DE)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Instituto vs Boca Juniors - Stream 3 (DE)
 https://admin2.pawtner.com.au/sportdigitalhd.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Unión Santa Fe vs Defensa y Justicia
 https://admin.pawtner.com.au/afaplay4.m3u8
