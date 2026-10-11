@@ -25,6 +25,10 @@ PLAYLISTS = [
         "filename": "THETVAPP-MMA.m3u",
     },
     {
+        "url": "https://thetvapp.mmonterrosa970.workers.dev/?url=https://thetvapp.plus/watch/nba-streams&format=m3u",
+        "filename": "THETVAPP-NBA.m3u",
+    },
+    {
         "url": "https://fctv33.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.icu/football.html&format=m3u",
         "filename": "FCTV33-FOOTBALL.m3u",
     },
