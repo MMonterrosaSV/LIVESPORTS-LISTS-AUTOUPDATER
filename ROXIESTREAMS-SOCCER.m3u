@@ -5,17 +5,17 @@ https://tedesco.pawtner.com.au/cbssn.m3u8
 https://admin2.pawtner.com.au/foot.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5cQFc4v/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Southampton vs Portsmouth
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Nottingham Forest - Stream 1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/premierleague-401879266.png" group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Nottingham Forest - Stream 1
 https://admin2.pawtner.com.au/forest.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Nottingham Forest - Stream 2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/premierleague-401879266.png" group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Nottingham Forest - Stream 2
 https://tedesco.pawtner.com.au/usa.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hull City vs Everton
 https://admin2.pawtner.com.au/everton.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lazio vs Monza
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/seriea-401874951.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lazio vs Monza
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lecce vs Bologna
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/seriea-401874776.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lecce vs Bologna
 https://tedesco.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs Strasbourg
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/ligue1-401876443.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs Strasbourg
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Köln vs M'gladbach
 https://admin2.pawtner.com.au/one.m3u8
@@ -25,21 +25,21 @@ https://admin2.pawtner.com.au/beines.m3u8
 https://admin2.pawtner.com.au/forest.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Man City - Stream 2
 https://admin2.pawtner.com.au/wnba.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Schalke 04
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/bundesliga-401884778.png" group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Schalke 04
 https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sassuolo vs Milan
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/seriea-401874789.png" group-title="ROXIESTREAMS SOCCER (VPN)",Sassuolo vs Milan
 https://admin2.pawtner.com.au/uni.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Real Betis vs Osasuna
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/laliga-401882855.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Betis vs Osasuna
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Benfica vs Vitória Guimarães
 https://admin2.pawtner.com.au/benfica.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cagliari vs Juventus
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Troyes vs Marseille
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/ligue1-401876440.png" group-title="ROXIESTREAMS SOCCER (VPN)",Troyes vs Marseille
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Santos
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Racing Santander vs Valencia
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/laliga-401882850.png" group-title="ROXIESTREAMS SOCCER (VPN)",Racing Santander vs Valencia
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Fluminense - Stream 1
 https://admin2.pawtner.com.au/main.m3u8
