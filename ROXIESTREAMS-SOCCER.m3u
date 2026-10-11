@@ -41,16 +41,26 @@ https://admin2.pawtner.com.au/olympiakos.m3u8
 https://admin2.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/ligue1-401876440.png" group-title="ROXIESTREAMS SOCCER (VPN)",Troyes vs Marseille
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Santos
-https://admin2.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Santos - Stream 1
+https://admin.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Santos - Stream 2 (EN)
+https://admin.pawtner.com.au/fanaen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Santos - Stream 3 (ES)
+https://admin.pawtner.com.au/fanaes.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/laliga-401882850.png" group-title="ROXIESTREAMS SOCCER (VPN)",Racing Santander vs Valencia
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Fluminense
 https://admin2.pawtner.com.au/flu.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Grêmio vs Internacional - Stream 1
+https://admin.pawtner.com.au/fana2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Grêmio vs Internacional - Stream 2 (ES)
+https://admin.pawtner.com.au/fana2es.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQGrfLtV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Corinthians - Stream 1
-https://admin2.pawtner.com.au/rma.m3u8
+https://admin.pawtner.com.au/fana3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQGrfLtV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Corinthians - Stream 2 (EN)
-https://admin2.pawtner.com.au/rmaen.m3u8
+https://admin.pawtner.com.au/fana3en.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQGrfLtV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Corinthians - Stream 3 (DE)
+https://admin2.pawtner.com.au/sportdigital.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bahia vs Mirassol
 https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético San Luis vs Santos Laguna
