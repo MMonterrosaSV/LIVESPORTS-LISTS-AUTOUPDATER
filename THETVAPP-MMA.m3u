@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",Cleveland Guardians vs Chicago White Sox - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQucmVkaXJlY3RvcjEuc3BhY2UvcGxheWxpc3QvNTc4OTMvYnJhdmVoYXJib3JnYXJkZW40MC9jYXhp
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108845.png",Cleveland Guardians vs Chicago White Sox - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4OTAvbWFnaWNxdWlldHBvd2VyNDYvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Alabama Crimson Tide vs Georgia Bulldogs - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc4ODQvbGlvbmxpb25zdHJvbmcyL2NheGk
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Alabama Crimson Tide vs Georgia Bulldogs - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3ODk0L2ZyZWVjbGV2ZXJhdXR1bW43My9jYXhp
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Alabama Crimson Tide vs Georgia Bulldogs - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTc4OTUvZnJlZW1vdW50YWluYnJpZ2h0OTEvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Golden State Warriors vs Sacramento Kings - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI0LnNwYWNlL3BsYXlsaXN0LzU3ODk3L3JlYWxraG9kYW01L2NheGk
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Boston Celtics vs Philadelphia 76ers - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3ODg3L2ZyZWVtb3JuaW5nZmxvd2VyNzcvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP HOME" tvg-logo="https://scdnmain.net/assets/tournament/108948.png",Utah Utes vs Kansas Jayhawks - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3ODg4L3NpbHZlcnlvdW5nZnV0dXJlNDkvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP MMA" tvg-logo="https://scdnmain.net/assets/tournament/3321.png",UFC Fight Night Allen vs. Duncan - 4 hours ago - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc4NTIvaXNsYW5kZW5lcmd5b2NlYW43My9jYXhp
+#EXTINF:-1 group-title="THETVAPP MMA" tvg-logo="https://scdnmain.net/assets/tournament/3321.png",UFC Fight Night Allen vs. Duncan - 4 hours ago - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTc4NTEvd2lsZHNpbXBsZWF1dHVtbjEvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP MMA" tvg-logo="https://scdnmain.net/assets/tournament/3321.png",UFC Fight Night Allen vs. Duncan - 4 hours ago - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc4NTMvdmFsbGV5ZGlhbW9uZGdvbGQ3NC9jYXhp
