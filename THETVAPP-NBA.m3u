@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP NBA" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Cleveland Cavaliers vs Orlando Magic Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU3OTU1L3JhbmRoYXdrZm94YnJpZ2h0NjgvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP NBA" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Cleveland Cavaliers vs Orlando Magic - In Progress
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU3OTU1L3JhbmRoYXdrZm94YnJpZ2h0NjgvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP NBA" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Charlotte Hornets vs Milwaukee Bucks - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTc5NjAvZXhhbXBsZS5jb20vY2F4aQ
