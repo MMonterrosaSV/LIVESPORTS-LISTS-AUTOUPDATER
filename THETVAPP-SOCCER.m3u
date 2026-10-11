@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER",Colorado Rapids vs San Jose Earthquakes 45'+1'
+#EXTINF:-1 group-title="THETVAPP SOCCER",Los Angeles FC vs Vancouver Whitecaps 2'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc5MDkvZmxhbWVvY2VhbmJsYWNrMzEvY2F4aQ
+#EXTINF:-1 group-title="THETVAPP SOCCER",Colorado Rapids vs San Jose Earthquakes - HT
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc5MDQvY2FzdGxlcnVieXRodW5kZXIyNC9jYXhp
-#EXTINF:-1 group-title="THETVAPP SOCCER",Austin FC vs Nashville SC 88'
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4OTkvc3Vuc2V0Y29hc3R2aWxsYWdlNjAvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP SOCCER",Minnesota United vs Houston Dynamo 88'
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc4OTgvbGlnaHRldmVuaW5nYnJpZ2h0NS9jYXhp
-#EXTINF:-1 group-title="THETVAPP SOCCER",Sporting Kansas City vs Portland Timbers 82'
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc5MDAvaGFyYm9yc3VtbWVybmF0dXJhbDIwL2NheGk
+#EXTINF:-1 group-title="THETVAPP SOCCER",Sporting Kansas City vs Portland Timbers 90'+7'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTc5MDAvcGVhcmxmb3Jlc3RzaWx2ZXI1Ny9jYXhp
