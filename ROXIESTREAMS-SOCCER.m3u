@@ -63,8 +63,10 @@ https://tedesco.pawtner.com.au/tsn5.m3u8
 https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vitoria - Stream 2 (EN)
 https://admin.pawtner.com.au/fanaen.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",River Plate vs Estudiantes Rio Cuarto
-https://admin.pawtner.com.au/fana5.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",River Plate vs Estudiantes Rio Cuarto - Stream 1
+https://admin.pawtner.com.au/afaplay1.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",River Plate vs Estudiantes Rio Cuarto - Stream 2 (EN)
+https://admin.pawtner.com.au/afaplay1en.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Chivas
 https://tedesco.pawtner.com.au/benfica.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",LAFC vs Vancouver Whitecaps
