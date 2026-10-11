@@ -4,6 +4,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN LA LIGA 1  - zLIVE
 https://zlive.st/embed/auto-dazn-laliga parseUrl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN LA LIGA 1  - zLIVE
+https://zlive.st/embed/auto-dazn-laliga parseUrl=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN LA LIGA 1 (SD) - STREAMXHD
 https://streamxhd.com/live1.php?stream=daznlaliga parseUrl=1
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ LA LIGA 1 - zLIVE
