@@ -45,10 +45,8 @@ https://admin2.pawtner.com.au/beines.m3u8
 https://admin2.pawtner.com.au/fana.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/laliga-401882850.png" group-title="ROXIESTREAMS SOCCER (VPN)",Racing Santander vs Valencia
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Fluminense - Stream 1
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Fluminense - Stream 2
-https://admin2.pawtner.com.au/ncaa10.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Fluminense
+https://admin2.pawtner.com.au/flu.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQGrfLtV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Corinthians - Stream 1
 https://admin2.pawtner.com.au/rma.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQGrfLtV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Corinthians - Stream 2 (EN)
