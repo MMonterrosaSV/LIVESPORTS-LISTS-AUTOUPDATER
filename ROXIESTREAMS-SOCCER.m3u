@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HL0dKVJW/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atalanta vs Venezia
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torino vs Udinese
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/seriea-401874763.png" group-title="ROXIESTREAMS SOCCER (VPN)",Torino vs Udinese
 https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Coventry City vs Newcastle - Stream 1
 https://admin2.pawtner.com.au/main.m3u8
