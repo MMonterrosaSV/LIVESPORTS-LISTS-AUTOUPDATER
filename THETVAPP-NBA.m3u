@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP NBA",LAST UPDATED 12:30 AM 14-10-2026 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="THETVAPP NBA" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Orlando Magic vs Cleveland Cavaliers - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MDA0L2V4YW1wbGUuY29tL2NheGk
+#EXTINF:-1 group-title="THETVAPP NBA" tvg-logo="https://scdnmain.net/assets/tournament/9154.png",Toronto Raptors vs New York Knicks - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgwMDUvYS5iYWNrc3RvcmUxLnNwYWNlL2NheGk
