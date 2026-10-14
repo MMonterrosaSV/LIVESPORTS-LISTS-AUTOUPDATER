@@ -45,13 +45,17 @@ https://admin2.pawtner.com.au/athens.m3u8
 https://admin2.pawtner.com.au/stutt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lincoln City vs West Ham
 https://admin2.pawtner.com.au/westham.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Torque
-https://admin2.pawtner.com.au/espn3mx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Torque - Stream 1
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Torque - Stream 2 (EN)
+https://tedesco.pawtner.com.au/bein.m3u8
 #EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/mls-761861.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs New York City
 https://admin2.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/mls-761860.png" group-title="ROXIESTREAMS SOCCER (VPN)",Toronto FC vs Orlando City
 https://admin.pawtner.com.au/fana4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fluminense vs Palmeiras
-https://admin2.pawtner.com.au/espn3mx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fluminense vs Palmeiras - Stream 1
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fluminense vs Palmeiras - Stream 2 (EN)
+https://tedesco.pawtner.com.au/bein.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Colorado Rapids vs Minnesota Rapids
 https://admin.pawtner.com.au/fana4.m3u8
