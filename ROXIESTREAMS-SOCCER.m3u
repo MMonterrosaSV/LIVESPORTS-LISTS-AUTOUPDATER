@@ -3,9 +3,9 @@
 https://admin2.pawtner.com.au/tnt4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",LASK Linz vs Liverpool - Stream 2 (ES)
 https://admin2.pawtner.com.au/foxone2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Feyenoord vs Como - Stream 1
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915416.png" group-title="ROXIESTREAMS SOCCER (VPN)",Feyenoord vs Como - Stream 1
 https://admin2.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Feyenoord vs Como - Stream 2 (ES)
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915416.png" group-title="ROXIESTREAMS SOCCER (VPN)",Feyenoord vs Como - Stream 2 (ES)
 https://admin2.pawtner.com.au/tntmx.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",QPR vs Derby County
 https://admin2.pawtner.com.au/millwall.m3u8
@@ -33,19 +33,19 @@ https://admin2.pawtner.com.au/tntmx.m3u8
 https://admin2.pawtner.com.au/bein.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Man City vs PSG - Stream 4
 https://tedesco.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Real Madrid - Stream 1
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915414.png" group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Real Madrid - Stream 1
 https://admin2.pawtner.com.au/tnt4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Real Madrid - Stream 2 (ES)
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915414.png" group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Real Madrid - Stream 2 (ES)
 https://admin2.pawtner.com.au/foxmx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Real Madrid - Stream 1
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915414.png" group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Real Madrid - Stream 1
 https://tedesco.pawtner.com.au/tnt4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Real Betis vs Porto - Stream 1
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915408.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Betis vs Porto - Stream 1
 https://admin2.pawtner.com.au/tnt5.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Real Betis vs Porto - Stream 2 (ES)
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915408.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Betis vs Porto - Stream 2 (ES)
 https://admin2.pawtner.com.au/hbomax.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Shakhtar Donetsk vs Athens - Stream 1
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915406.png" group-title="ROXIESTREAMS SOCCER (VPN)",Shakhtar Donetsk vs Athens - Stream 1
 https://admin2.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Shakhtar Donetsk vs Athens - Stream 2 (ES)
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/ucl-401915406.png" group-title="ROXIESTREAMS SOCCER (VPN)",Shakhtar Donetsk vs Athens - Stream 2 (ES)
 https://admin2.pawtner.com.au/hbomax3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Slovan Bratislava vs Stuttgart
 https://admin2.pawtner.com.au/napoli.m3u8
@@ -53,9 +53,9 @@ https://admin2.pawtner.com.au/napoli.m3u8
 https://admin2.pawtner.com.au/stoke.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Torque
 https://admin2.pawtner.com.au/espn3mx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs New York City
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/mls-761861.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs New York City
 https://admin2.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toronto FC vs Orlando City
+#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/mls-761860.png" group-title="ROXIESTREAMS SOCCER (VPN)",Toronto FC vs Orlando City
 https://admin.pawtner.com.au/fana4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fluminense vs Palmeiras
 https://admin2.pawtner.com.au/espn3mx.m3u8
