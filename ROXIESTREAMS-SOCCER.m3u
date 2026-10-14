@@ -45,6 +45,8 @@ https://admin2.pawtner.com.au/athens.m3u8
 https://admin2.pawtner.com.au/stutt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lincoln City vs West Ham
 https://admin2.pawtner.com.au/westham.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N69Q51mN/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Sarmiento vs River Plate
+https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Torque - Stream 1
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Torque - Stream 2 (EN)
