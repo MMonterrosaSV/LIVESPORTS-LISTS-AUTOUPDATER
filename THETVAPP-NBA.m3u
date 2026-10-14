@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://4b452900.cxc-pwo.pages.dev/nba-401898718.png" group-title="THETVAPP NBA",Los Angeles Lakers vs Golden State Warriors - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTgwMjQvYS5iYWNrc3RvcmUyLnNwYWNlL2NheGk
-#EXTINF:-1 tvg-logo="https://4b452900.cxc-pwo.pages.dev/nba-401901826.png" group-title="THETVAPP NBA",Sacramento Kings vs Portland Trail Blazers - In Progress
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MDIwL2EubmV3c3RvcmUyLnNwYWNlL2NheGk
+#EXTINF:-1 group-title="THETVAPP NBA",LAST UPDATED 06:30 AM 14-10-2026 GMT+2
+https://example.com/
