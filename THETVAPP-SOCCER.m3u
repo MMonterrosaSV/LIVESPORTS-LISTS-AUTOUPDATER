@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://8b98016b.imgggre.pages.dev/uecl-401915861.png" group-title="THETVAPP SOCCER",HNK Hajduk Split vs AFC Ajax - 2nd half
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNjYvYS5uZXd2ZWdhbjEuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://8b98016b.imgggre.pages.dev/uel-401915560.png" group-title="THETVAPP SOCCER",Celta Vigo vs Juventus - 14 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNzIvYS5ub3V2ZWF1dHJ5MS5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://8b98016b.imgggre.pages.dev/uecl-401915853.png" group-title="THETVAPP SOCCER",Brighton & Hove Albion vs FK Kauno Žalgiris - 14 minutes from now
+#EXTINF:-1 tvg-logo="https://8b98016b.imgggre.pages.dev/uecl-401915853.png" group-title="THETVAPP SOCCER",Brighton & Hove Albion vs FK Kauno Žalgiris Not started
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNzUvYS5uZXdzdG9yZTUuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://8b98016b.imgggre.pages.dev/uel-401915562.png" group-title="THETVAPP SOCCER",Benfica vs Celtic - 14 minutes from now
+#EXTINF:-1 tvg-logo="https://8b98016b.imgggre.pages.dev/uel-401915560.png" group-title="THETVAPP SOCCER",Celta Vigo vs Juventus Not started
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNzIvYS5ub3V2ZWF1dHJ5MS5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://8b98016b.imgggre.pages.dev/uel-401915562.png" group-title="THETVAPP SOCCER",Benfica vs Celtic Not started
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNzMvYS5uZXdzdG9yZTIuc3BhY2UvY2F4aQ
