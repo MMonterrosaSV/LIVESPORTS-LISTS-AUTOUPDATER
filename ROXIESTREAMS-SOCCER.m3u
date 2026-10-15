@@ -53,7 +53,7 @@ https://admin2.pawtner.com.au/beines.m3u8
 https://tedesco.pawtner.com.au/bein.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL8B8q1W/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs New York City
 https://admin2.pawtner.com.au/mls.m3u8
-#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/mls-761860.png" group-title="ROXIESTREAMS SOCCER (VPN)",Toronto FC vs Orlando City
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toronto FC vs Orlando City
 https://admin2.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kM8Fz1r7/LIGA-Game-Placeholder-5.png" group-title="ROXIESTREAMS SOCCER (VPN)",Fluminense vs Palmeiras - Stream 1
 https://admin2.pawtner.com.au/beines.m3u8
