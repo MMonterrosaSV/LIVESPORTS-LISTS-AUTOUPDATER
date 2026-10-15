@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="THETVAPP SOCCER",San Diego FC vs Houston Dynamo 19'
+#EXTINF:-1 group-title="THETVAPP SOCCER",San Diego FC vs Houston Dynamo 26'
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNjEvYS5uZXd0dXRvcmlhbDEuc3BhY2UvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP SOCCER",Los Angeles FC vs Austin FC 19'
+#EXTINF:-1 group-title="THETVAPP SOCCER",Los Angeles FC vs Austin FC 26'
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNjIvYi5iYWNrc3RvcmUyLnNwYWNlL2NheGk
-#EXTINF:-1 group-title="THETVAPP SOCCER",LA Galaxy vs Portland Timbers 19'
+#EXTINF:-1 group-title="THETVAPP SOCCER",LA Galaxy vs Portland Timbers 26'
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNjMvYS5uZXdzdG9yZTMuc3BhY2UvY2F4aQ
-#EXTINF:-1 group-title="THETVAPP SOCCER",Colorado Rapids vs Minnesota United 58'
+#EXTINF:-1 group-title="THETVAPP SOCCER",Colorado Rapids vs Minnesota United 66'
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNTcvYS5uZXdzdG9yZTUuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://cc252294.cxc-pwo.pages.dev/mls-761870.png" group-title="THETVAPP SOCCER",Real Salt Lake vs San Jose Earthquakes 63'
+#EXTINF:-1 group-title="THETVAPP SOCCER",Real Salt Lake vs San Jose Earthquakes 70'
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgwNTgvYS5iYWNrc3RvcmUxLnNwYWNlL2NheGk
