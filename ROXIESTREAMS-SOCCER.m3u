@@ -29,5 +29,7 @@ https://admin2.pawtner.com.au/tnt4.m3u8
 https://admin2.pawtner.com.au/mars.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mansfield Town vs Oxford
 https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Estudiantes vs Flamengo
-https://tedesco.pawtner.com.au/golazo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Estudiantes vs Flamengo - Stream 1
+https://admin.pawtner.com.au/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Estudiantes vs Flamengo - Stream 2 (EN)
+https://tedesco.pawtner.com.au/bein.m3u8
