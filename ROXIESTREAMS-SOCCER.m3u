@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpF3KNT1/BUNDES-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Frankfurt vs Köln
 https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Frosinone vs Sassuolo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzLyhH3k/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Frosinone vs Sassuolo
 https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Le Mans vs Toulouse
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv8PfWX5/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Le Mans vs Toulouse
 https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Burnley vs Wolves - Stream 1
 https://admin2.pawtner.com.au/main.m3u8
