@@ -63,7 +63,7 @@ https://admin2.pawtner.com.au/wnba.m3u8
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/ligue1-401876436.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lille vs Brest - Stream 2
 https://admin2.pawtner.com.au/bein.m3u8
-#EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/seriea-401874935.png" group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Genoa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnLbFZc0/LIGA-Game-Placeholder-4.png" group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Genoa
 https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/laliga-401882838.png" group-title="ROXIESTREAMS SOCCER (VPN)",Valencia vs Athletic Club - Stream 1
 https://admin2.pawtner.com.au/dep.m3u8
@@ -83,15 +83,31 @@ https://admin2.pawtner.com.au/beines.m3u8
 https://tedesco.pawtner.com.au/bein.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Athletico-PR vs Palmeiras
 https://admin2.pawtner.com.au/mls.m3u8
-#EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/mls-761880.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atlanta United vs Inter Miami
-https://admin2.pawtner.com.au/tsn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos Laguna vs Querétaro
+https://admin2.pawtner.com.au/mls.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Guadalajara vs Tigres UANL
+https://admin2.pawtner.com.au/olympiakos.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",New York RB vs Toronto - Stream 1
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",New York RB vs Toronto - Stream 2 (EN)
 https://tedesco.pawtner.com.au/bein.m3u8
+#EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/mls-761880.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atlanta United vs Inter Miami
+https://admin2.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vasco Gama
 https://admin.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toluca vs Atlético San Luis - Stream 1
+https://admin.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toluca vs Atlético San Luis - Stream 2 (EN)
+https://admin.pawtner.com.au/fanaen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",León vs América - Stream 1
+https://admin.pawtner.com.au/afaplay1.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",León vs América - Stream 2 (EN)
+https://admin.pawtner.com.au/afaplay1en.m3u8
 #EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/mls-761885.png" group-title="ROXIESTREAMS SOCCER (VPN)",Seattle Sounders FC vs CF Montréal - Stream 1
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/mls-761885.png" group-title="ROXIESTREAMS SOCCER (VPN)",Seattle Sounders FC vs CF Montréal - Stream 2 (EN)
 https://tedesco.pawtner.com.au/bein.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs Juárez - Stream 1
+https://admin.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs Juárez - Stream 2 (EN)
+https://admin.pawtner.com.au/fanaen.m3u8
