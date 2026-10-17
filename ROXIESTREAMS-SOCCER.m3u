@@ -27,9 +27,9 @@ https://tedesco.pawtner.com.au/fubo.m3u8
 https://admin2.pawtner.com.au/usa.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Accrington Stanley vs Gillingham
 https://admin2.pawtner.com.au/gill.m3u8
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d845/live/c693a210-c940-11f1-9a39-31b474234113.png" group-title="ROXIESTREAMS SOCCER (VPN)",Southampton vs Bolton Wanderers
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Southampton vs Bolton Wanderers
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OtMNwMi.jpeg" group-title="ROXIESTREAMS SOCCER (VPN)",Swansea City vs West Ham
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Swansea City vs West Ham
 https://tedesco.pawtner.com.au/ncaa10.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Oldham Athletic vs Cheltenham Town
 https://admin2.pawtner.com.au/oldham.m3u8
