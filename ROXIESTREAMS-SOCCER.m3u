@@ -64,19 +64,17 @@ https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Botafogo vs Chapecoense
 https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Coritiba
-https://admin.pawtner.com.au/fana2.m3u8
+https://admin2.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Athletico-PR vs Palmeiras
 https://admin.pawtner.com.au/fana3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santos Laguna vs Querétaro
 https://admin2.pawtner.com.au/espn2mx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Guadalajara vs Tigres UANL - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Guadalajara vs Tigres UANL
 https://admin2.pawtner.com.au/primemx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Guadalajara vs Tigres UANL - Stream 2
-https://tedesco.pawtner.com.au/chivas.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",New York RB vs Toronto
-https://admin.pawtner.com.au/fana2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxgQNX4J/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atlanta United vs Inter Miami
 https://admin2.pawtner.com.au/tsn.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxgQNX4J/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atlanta United vs Inter Miami
+https://admin2.pawtner.com.au/mls.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vasco Gama
 https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toluca vs Atlético San Luis - Stream 1
@@ -88,7 +86,7 @@ https://admin.pawtner.com.au/afaplay1.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",León vs América - Stream 2 (EN)
 https://admin.pawtner.com.au/afaplay1en.m3u8
 #EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/mls-761885.png" group-title="ROXIESTREAMS SOCCER (VPN)",Seattle Sounders FC vs CF Montréal
-https://admin.pawtner.com.au/fana2.m3u8
+https://admin2.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs Juárez - Stream 1
 https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs Juárez - Stream 2 (EN)
