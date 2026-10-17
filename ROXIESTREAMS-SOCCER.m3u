@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Chelsea - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFLq84v3/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Chelsea - Stream 1
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Chelsea - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFLq84v3/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Chelsea - Stream 2
 https://admin2.pawtner.com.au/ncaa15.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Chelsea - Stream 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFLq84v3/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Chelsea - Stream 3
 https://admin2.pawtner.com.au/test2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Middlesbrough vs Cardiff
 https://tedesco.pawtner.com.au/ncaa10.m3u8
