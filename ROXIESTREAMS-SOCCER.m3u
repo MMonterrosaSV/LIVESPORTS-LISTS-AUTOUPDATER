@@ -25,10 +25,8 @@ https://admin.pawtner.com.au/afaplay2.m3u8
 https://admin.pawtner.com.au/afaplay2en.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Necaxa vs Atlas
 https://admin2.pawtner.com.au/foxdep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Puebla - Stream 1
-https://admin2.pawtner.com.au/porto.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Puebla - Stream 2 (ES)
-https://admin2.pawtner.com.au/foxmx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Puebla
+https://admin2.pawtner.com.au/tijuana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Pumas UNAM - Stream 1
 https://admin2.pawtner.com.au/aztecadep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Pumas UNAM - Stream 2
