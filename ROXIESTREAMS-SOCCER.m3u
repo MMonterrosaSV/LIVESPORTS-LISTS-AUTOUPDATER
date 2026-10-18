@@ -42,9 +42,9 @@ https://admin2.pawtner.com.au/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Milan vs Atalanta
 https://admin2.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Málaga vs Real Sociedad - Stream 1
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Málaga vs Real Sociedad - Stream 2 (EN)
 https://admin2.pawtner.com.au/madrid.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Málaga vs Real Sociedad - Stream 2 (ES)
+https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbB1Cmnd/LIGA-Game-Placeholder-5.png" group-title="ROXIESTREAMS SOCCER (VPN)",Juventus vs Lazio - Stream 1
 https://admin2.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbB1Cmnd/LIGA-Game-Placeholder-5.png" group-title="ROXIESTREAMS SOCCER (VPN)",Juventus vs Lazio - Stream 2
@@ -54,9 +54,9 @@ https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsNt9fpX/LIGA-Game-Placeholder-4.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lyon vs Nice - Stream 2 (EN)
 https://admin2.pawtner.com.au/bein.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzVJxTKm/LIGA-Game-Placeholder-7.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Madrid vs Sevilla - Stream 1
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzVJxTKm/LIGA-Game-Placeholder-7.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Madrid vs Sevilla - Stream 2 (EN)
 https://admin2.pawtner.com.au/madrid.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzVJxTKm/LIGA-Game-Placeholder-7.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Madrid vs Sevilla - Stream 2 (ES)
+https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ySFmstV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",nense vs Santos - Stream 1
 https://admin.pawtner.com.au/fana1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ySFmstV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",nense vs Santos - Stream 2 (EN)
