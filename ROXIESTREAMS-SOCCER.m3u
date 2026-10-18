@@ -79,10 +79,8 @@ https://admin2.pawtner.com.au/mls.m3u8
 https://admin.pawtner.com.au/fana4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toluca vs Atlético San Luis
 https://admin2.pawtner.com.au/canal5mx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",León vs América - Stream 1
-https://admin.pawtner.com.au/afaplay1.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",León vs América - Stream 2 (EN)
-https://admin.pawtner.com.au/afaplay1en.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",León vs América
+https://admin2.pawtner.com.au/tudnus.m3u8
 #EXTINF:-1 tvg-logo="https://e19c5efe.imgggre.pages.dev/mls-761885.png" group-title="ROXIESTREAMS SOCCER (VPN)",Seattle Sounders FC vs CF Montréal
 https://admin2.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruz Azul vs Juárez
