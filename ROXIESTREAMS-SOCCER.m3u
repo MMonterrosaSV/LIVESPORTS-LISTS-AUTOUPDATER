@@ -57,10 +57,16 @@ https://admin2.pawtner.com.au/bein.m3u8
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzVJxTKm/LIGA-Game-Placeholder-7.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Madrid vs Sevilla - Stream 2 (EN)
 https://admin2.pawtner.com.au/madrid.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ySFmstV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",nense vs Santos
-https://admin.pawtner.com.au/fana.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ySFmstV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",nense vs Santos - Stream 1
+https://admin.pawtner.com.au/fana1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ySFmstV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",nense vs Santos - Stream 2 (EN)
+https://admin.pawtner.com.au/fana1en.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ySFmstV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",nense vs Santos - Stream 3 (ES)
+https://admin.pawtner.com.au/fana1es.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ySFmstV/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",nense vs Santos - Stream 4 (DE)
+https://admin2.pawtner.com.au/sportdigital.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Grêmio vs Cruzeiro
-https://admin.pawtner.com.au/fana2.m3u8
+https://admin.pawtner.com.au/fana2pt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bahia vs Flamengo
 https://admin2.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Remo vs Brangantino
