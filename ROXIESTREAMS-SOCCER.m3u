@@ -75,7 +75,9 @@ https://admin2.pawtner.com.au/primemx.m3u8
 https://admin2.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxgQNX4J/LIGA-Game-Placeholder-6.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atlanta United vs Inter Miami
 https://admin2.pawtner.com.au/mls.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vasco Gama
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vasco Gama - Stream 1
+https://admin.pawtner.com.au/fana4.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",São Paulo vs Vasco Gama - Stream 2
 https://admin.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toluca vs Atlético San Luis - Stream 1
 https://admin.pawtner.com.au/fana.m3u8
