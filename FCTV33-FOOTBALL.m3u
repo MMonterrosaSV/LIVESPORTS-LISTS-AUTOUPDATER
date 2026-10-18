@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="FUTBOL FCTV33",Atletico Balboa vs Aguila FUBO US
+https://fctv33-2.mmonterrosa970.workers.dev/?id=bc79dd6a428e6383
+#EXTINF:-1 group-title="FUTBOL FCTV33",Ottawa Rapid FC W vs Vancouver Rise FC W TSN CA
+https://fctv33-2.mmonterrosa970.workers.dev/?id=3415daca68df17af
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzVJxTKm/LIGA-Game-Placeholder-7.png" group-title="FUTBOL FCTV33",Real Madrid vs Sevilla FC 1X EN
 https://fctv33-2.mmonterrosa970.workers.dev/?id=22f8f4330bb9b01b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzVJxTKm/LIGA-Game-Placeholder-7.png" group-title="FUTBOL FCTV33",Real Madrid vs Sevilla FC DZ FR
