@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="NFL THETVAPP",LAST UPDATED 02:15 PM 18-10-2026 GMT+2
-https://example.com/
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872996.png" group-title="NFL THETVAPP",Jacksonville Jaguars vs Houston Texans - 58 minutes from now - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNTIvcmVkLmhhbG9tYmFyYXQyLnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872996.png" group-title="NFL THETVAPP",Jacksonville Jaguars vs Houston Texans - 58 minutes from now - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNTIvcmVkLmhhbG9tYmFyYXQyLnNwYWNlL2NheGktZmhk
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872996.png" group-title="NFL THETVAPP",Jacksonville Jaguars vs Houston Texans - 58 minutes from now - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgyNTMvcmVkLmhhbG9tYmFyYXQyLnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872996.png" group-title="NFL THETVAPP",Jacksonville Jaguars vs Houston Texans - 58 minutes from now - Server 4
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgyNTMvcmVkLmhhbG9tYmFyYXQyLnNwYWNlL2NheGktZmhk
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872996.png" group-title="NFL THETVAPP",Jacksonville Jaguars vs Houston Texans - 58 minutes from now - Server 5
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgyNTQvcmVkLm1hc2hyZXphbGkuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872996.png" group-title="NFL THETVAPP",Jacksonville Jaguars vs Houston Texans - 58 minutes from now - Server 6
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgyNTQvcmVkLm1hc2hyZXphbGkuc3BhY2UvY2F4aS1maGQ
