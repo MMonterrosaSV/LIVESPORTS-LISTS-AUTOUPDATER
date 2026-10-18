@@ -1,61 +1,67 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873004.png" group-title="NFL THETVAPP",Los Angeles Rams vs Arizona Cardinals - In Progress - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4Mjg2L3JlZC5tb2todGFyMy5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873004.png" group-title="NFL THETVAPP",Los Angeles Rams vs Arizona Cardinals - In Progress - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4Mjg2L3JlZC5tb2todGFyMy5zcGFjZS9jYXhpLWZoZA
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873004.png" group-title="NFL THETVAPP",Los Angeles Rams vs Arizona Cardinals - In Progress - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgyODcvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873004.png" group-title="NFL THETVAPP",Los Angeles Rams vs Arizona Cardinals - In Progress - Server 4
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgyODcvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhpLWZoZA
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873004.png" group-title="NFL THETVAPP",Los Angeles Rams vs Arizona Cardinals - In Progress - Server 5
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTgyOTMvYS5vbmFuYTQuc3BhY2UvY2F4aQ
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872999.png" group-title="NFL THETVAPP",Atlanta Falcons vs Chicago Bears - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgyNTUvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgyNTUvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhp
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872999.png" group-title="NFL THETVAPP",Atlanta Falcons vs Chicago Bears - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgyNTUvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhpLWZoZA
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgyNTUvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhpLWZoZA
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872999.png" group-title="NFL THETVAPP",Atlanta Falcons vs Chicago Bears - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjU2L3JlZC5oYWxvbWJhcmF0Mi5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgyNTYvcmVkLmhhbG9tYmFyYXQyLnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872999.png" group-title="NFL THETVAPP",Atlanta Falcons vs Chicago Bears - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjU2L3JlZC5oYWxvbWJhcmF0Mi5zcGFjZS9jYXhpLWZoZA
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgyNTYvcmVkLmhhbG9tYmFyYXQyLnNwYWNlL2NheGktZmhk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872999.png" group-title="NFL THETVAPP",Atlanta Falcons vs Chicago Bears - In Progress - Server 5
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4Mjc5L2EubmV3dmVnYW4xOS5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873003.png" group-title="NFL THETVAPP",Indianapolis Colts vs Tennessee Titans - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjY3L3JlZC5tYWxlazUuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873003.png" group-title="NFL THETVAPP",Indianapolis Colts vs Tennessee Titans - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjY3L3JlZC5tYWxlazUuc3BhY2UvY2F4aS1maGQ
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873003.png" group-title="NFL THETVAPP",Indianapolis Colts vs Tennessee Titans - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTgyNjYvY2hhdGdwdC5oZXJlaXNtYW4ubmV0L2NheGk
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873003.png" group-title="NFL THETVAPP",Indianapolis Colts vs Tennessee Titans - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTgyNjYvY2hhdGdwdC5oZXJlaXNtYW4ubmV0L2NheGktZmhk
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873003.png" group-title="NFL THETVAPP",Indianapolis Colts vs Tennessee Titans - In Progress - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4Mjc1L2EubmV3dmVnYW4yMi5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873001.png" group-title="NFL THETVAPP",New England Patriots vs New York Jets - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTgyNzAvcGwuZ29vemVraGFyMy5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873001.png" group-title="NFL THETVAPP",New England Patriots vs New York Jets - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTgyNzAvcGwuZ29vemVraGFyMy5zcGFjZS9jYXhpLWZoZA
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873001.png" group-title="NFL THETVAPP",New England Patriots vs New York Jets - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MjcxL3JlZC5oYWxvbWJhcmF0NS5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873001.png" group-title="NFL THETVAPP",New England Patriots vs New York Jets - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MjcxL3JlZC5oYWxvbWJhcmF0NS5zcGFjZS9jYXhpLWZoZA
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873001.png" group-title="NFL THETVAPP",New England Patriots vs New York Jets - In Progress - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4Mjc3L2EubmV3c3RvcmUyLnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873000.png" group-title="NFL THETVAPP",New York Giants vs New Orleans Saints - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjcyL3JlZC5tb2todGFyMy5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNzIvY2hhdGdwdC5oZXJlaXNtYW4ubmV0L2NheGk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873000.png" group-title="NFL THETVAPP",New York Giants vs New Orleans Saints - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjcyL3JlZC5tb2todGFyMy5zcGFjZS9jYXhpLWZoZA
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNzIvY2hhdGdwdC5oZXJlaXNtYW4ubmV0L2NheGktZmhk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873000.png" group-title="NFL THETVAPP",New York Giants vs New Orleans Saints - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MjczL3JlZC5oYWxvbWJhcmF0NS5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgyNzMvcmVkLm1hc2hyZXphbGkuc3BhY2UvY2F4aQ
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873000.png" group-title="NFL THETVAPP",New York Giants vs New Orleans Saints - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MjczL3JlZC5oYWxvbWJhcmF0NS5zcGFjZS9jYXhpLWZoZA
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgyNzMvcmVkLm1hc2hyZXphbGkuc3BhY2UvY2F4aS1maGQ
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873000.png" group-title="NFL THETVAPP",New York Giants vs New Orleans Saints - In Progress - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNzgvYS5uZXd2ZWdhbjI1LnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4Mjc4L2EubmV3dmVnYW40LnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872998.png" group-title="NFL THETVAPP",Philadelphia Eagles vs Carolina Panthers - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjU4L3JlZC5tb2todGFyMy5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjU4L3BsLmdvb3pla2hhcjEuc3BhY2UvY2F4aQ
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872998.png" group-title="NFL THETVAPP",Philadelphia Eagles vs Carolina Panthers - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjU4L3JlZC5tb2todGFyMy5zcGFjZS9jYXhpLWZoZA
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjU4L3BsLmdvb3pla2hhcjEuc3BhY2UvY2F4aS1maGQ
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872998.png" group-title="NFL THETVAPP",Philadelphia Eagles vs Carolina Panthers - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjU3L3JlZC5yZWRpcmVjdG9yMS5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjU3L3JlZC5oYWxvbWJhcmF0NS5zcGFjZS9jYXhp
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872998.png" group-title="NFL THETVAPP",Philadelphia Eagles vs Carolina Panthers - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjU3L3JlZC5yZWRpcmVjdG9yMS5zcGFjZS9jYXhpLWZoZA
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjU3L3JlZC5oYWxvbWJhcmF0NS5zcGFjZS9jYXhpLWZoZA
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401872998.png" group-title="NFL THETVAPP",Philadelphia Eagles vs Carolina Panthers - In Progress - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjgxL2EubmV3dmVnYW41LnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjgxL2EubmV3dmVnYW41LnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873002.png" group-title="NFL THETVAPP",Tampa Bay Buccaneers vs Pittsburgh Steelers - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjY1L3BsLmdvb3pla2hhcjEuc3BhY2UvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjY1L3JlZC5tb2todGFyMy5zcGFjZS9jYXhp
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873002.png" group-title="NFL THETVAPP",Tampa Bay Buccaneers vs Pittsburgh Steelers - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjY1L3BsLmdvb3pla2hhcjEuc3BhY2UvY2F4aS1maGQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjY1L3JlZC5tb2todGFyMy5zcGFjZS9jYXhpLWZoZA
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873002.png" group-title="NFL THETVAPP",Tampa Bay Buccaneers vs Pittsburgh Steelers - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjY0L3BsLmdvb3pla2hhcjEuc3BhY2UvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNjQvcmVkLmdpdGVyYW4xLnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873002.png" group-title="NFL THETVAPP",Tampa Bay Buccaneers vs Pittsburgh Steelers - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjY0L3BsLmdvb3pla2hhcjEuc3BhY2UvY2F4aS1maGQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNjQvcmVkLmdpdGVyYW4xLnNwYWNlL2NheGktZmhk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873002.png" group-title="NFL THETVAPP",Tampa Bay Buccaneers vs Pittsburgh Steelers - In Progress - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgyNzQvYS5uZXd2ZWdhbjE3LnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4Mjc0L2EubmV3dmVnYW4xOC5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 3 hours ago - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjYwL3JlZC5mc21zMS5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 3 hours ago - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MjYwL3JlZC5mc21zMS5zcGFjZS9jYXhpLWZoZA
+#EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 3 hours ago - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MjU5L3JlZC5tb2todGFyMy5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 3 hours ago - Server 4
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MjU5L3JlZC5tb2todGFyMy5zcGFjZS9jYXhpLWZoZA
+#EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 3 hours ago - Server 5
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTgyNjEvY2hhdGdwdC5oZXJlaXNtYW4ubmV0L2NheGk
+#EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 3 hours ago - Server 6
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTgyNjEvY2hhdGdwdC5oZXJlaXNtYW4ubmV0L2NheGktZmhk
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873006.png" group-title="NFL THETVAPP",Kansas City Chiefs vs Los Angeles Chargers - 9 minutes from now - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTgyOTAvcmVkLm1va2h0YXIzLnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873006.png" group-title="NFL THETVAPP",Kansas City Chiefs vs Los Angeles Chargers - 9 minutes from now - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTgyOTAvcmVkLm1va2h0YXIzLnNwYWNlL2NheGktZmhk
