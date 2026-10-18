@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbB1Cmnd/LIGA-Game-Placeholder-5.png" group-title="FUTBOL FCTV33",Juventus vs Lazio 1X EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=e0a2c0a919bba514
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbB1Cmnd/LIGA-Game-Placeholder-5.png" group-title="FUTBOL FCTV33",Juventus vs Lazio DZ FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=f6e0420ab0b9b9f9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbB1Cmnd/LIGA-Game-Placeholder-5.png" group-title="FUTBOL FCTV33",Juventus vs Lazio DZ IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=5fa0d3f7c3450b82
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbB1Cmnd/LIGA-Game-Placeholder-5.png" group-title="FUTBOL FCTV33",Juventus vs Lazio SPORT PT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=1aa21d566b6d4f87
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbB1Cmnd/LIGA-Game-Placeholder-5.png" group-title="FUTBOL FCTV33",Juventus vs Lazio TV EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=201f89c57baf1100
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbB1Cmnd/LIGA-Game-Placeholder-5.png" group-title="FUTBOL FCTV33",Juventus vs Lazio TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=0af38092cd7995e0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsNt9fpX/LIGA-Game-Placeholder-4.png" group-title="FUTBOL FCTV33",Lyon vs Ogc Nice 1X EN
 https://fctv33-2.mmonterrosa970.workers.dev/?id=c2f9d87e900ceb30
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsNt9fpX/LIGA-Game-Placeholder-4.png" group-title="FUTBOL FCTV33",Lyon vs Ogc Nice DZ ES
