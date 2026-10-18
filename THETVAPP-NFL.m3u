@@ -1,33 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873006.png" group-title="NFL THETVAPP",Kansas City Chiefs vs Los Angeles Chargers - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjkxL3BsLmthbWZpcjMuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873006.png" group-title="NFL THETVAPP",Kansas City Chiefs vs Los Angeles Chargers - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MjkxL3BsLmthbWZpcjMuc3BhY2UvY2F4aS1maGQ
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873006.png" group-title="NFL THETVAPP",Kansas City Chiefs vs Los Angeles Chargers - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjkwL3JlZC5yZWRpcmVjdG9yMS5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873006.png" group-title="NFL THETVAPP",Kansas City Chiefs vs Los Angeles Chargers - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjkwL3JlZC5yZWRpcmVjdG9yMS5zcGFjZS9jYXhpLWZoZA
-#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873006.png" group-title="NFL THETVAPP",Kansas City Chiefs vs Los Angeles Chargers - In Progress - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyOTQvYS5iYWNrc3RvcmUxLnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873005.png" group-title="NFL THETVAPP",Las Vegas Raiders vs Buffalo Bills - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4Mjg5L3BsLmdvb3pla2hhcjEuc3BhY2UvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4Mjg5L3JlZC5mc21zMS5zcGFjZS9jYXhp
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873005.png" group-title="NFL THETVAPP",Las Vegas Raiders vs Buffalo Bills - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4Mjg5L3BsLmdvb3pla2hhcjEuc3BhY2UvY2F4aS1maGQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4Mjg5L3JlZC5mc21zMS5zcGFjZS9jYXhpLWZoZA
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873005.png" group-title="NFL THETVAPP",Las Vegas Raiders vs Buffalo Bills - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4Mjg4L3JlZC5tb2todGFyMy5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgyODgvcmVkLmZzbXM0LnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873005.png" group-title="NFL THETVAPP",Las Vegas Raiders vs Buffalo Bills - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4Mjg4L3JlZC5tb2todGFyMy5zcGFjZS9jYXhpLWZoZA
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgyODgvcmVkLmZzbXM0LnNwYWNlL2NheGktZmhk
 #EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873005.png" group-title="NFL THETVAPP",Las Vegas Raiders vs Buffalo Bills - In Progress - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4Mjk1L2IuYmFja3N0b3JlMi5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTgyOTUvYS5taW9taW81LnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 6 hours ago - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgyNTkvcmVkLmdpdGVyYW4xLnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgyNjAvcmVkLmhhbG9tYmFyYXQ1LnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 6 hours ago - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgyNTkvcmVkLmdpdGVyYW4xLnNwYWNlL2NheGktZmhk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgyNjAvcmVkLmhhbG9tYmFyYXQ1LnNwYWNlL2NheGktZmhk
 #EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 6 hours ago - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MjYwL3JlZC5oYWxvbWJhcmF0Mi5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjU5L3BsLmthbWZpcjMuc3BhY2UvY2F4aQ
 #EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 6 hours ago - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MjYwL3JlZC5oYWxvbWJhcmF0Mi5zcGFjZS9jYXhpLWZoZA
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MjU5L3BsLmthbWZpcjMuc3BhY2UvY2F4aS1maGQ
 #EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 6 hours ago - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNjEvcmVkLm1hc2hyZXphbGkuc3BhY2UvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTgyNjEvcmVkLmhhbG9tYmFyYXQyLnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://www.platinumconnect.com/wp-content/uploads/2026/08/Reused-NFL-Redzone-image-for-2026-1024x0-c-center.jpg" group-title="NFL THETVAPP",NFL Redzone - 6 hours ago - Server 6
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgyNjEvcmVkLm1hc2hyZXphbGkuc3BhY2UvY2F4aS1maGQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTgyNjEvcmVkLmhhbG9tYmFyYXQyLnNwYWNlL2NheGktZmhk
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873007.png" group-title="NFL THETVAPP",Green Bay Packers vs Dallas Cowboys - 49 minutes from now - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgzMDMvcGwuZ29vemVraGFyMy5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873007.png" group-title="NFL THETVAPP",Green Bay Packers vs Dallas Cowboys - 49 minutes from now - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgzMDMvcGwuZ29vemVraGFyMy5zcGFjZS9jYXhpLWZoZA
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873007.png" group-title="NFL THETVAPP",Green Bay Packers vs Dallas Cowboys - 49 minutes from now - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MzAxL3JlZC5tYWxlazUuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873007.png" group-title="NFL THETVAPP",Green Bay Packers vs Dallas Cowboys - 49 minutes from now - Server 4
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MzAxL3JlZC5tYWxlazUuc3BhY2UvY2F4aS1maGQ
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873007.png" group-title="NFL THETVAPP",Green Bay Packers vs Dallas Cowboys - 49 minutes from now - Server 5
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgzMDIvcmVkLmZzbXM0LnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://f4e16f5e.imgggre.pages.dev/nfl-401873007.png" group-title="NFL THETVAPP",Green Bay Packers vs Dallas Cowboys - 49 minutes from now - Server 6
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgzMDIvcmVkLmZzbXM0LnNwYWNlL2NheGktZmhk
