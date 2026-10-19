@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al-Fayha vs Al-Ahli
 https://tedesco.pawtner.com.au/foxd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGsHrZQ/SERIE-A-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Monza vs Cagliari
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Monza vs Cagliari
 https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Hilal vs Al Hazm
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Parma vs Torino
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Parma vs Torino
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 1
 https://admin2.pawtner.com.au/espnes.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 2 (EN)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 2 (EN)
 https://admin2.pawtner.com.au/espnen.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 3 (ES ALT)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 3 (ES ALT)
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tottenham vs Coventry - Stream 1
 https://admin2.pawtner.com.au/usa.m3u8
