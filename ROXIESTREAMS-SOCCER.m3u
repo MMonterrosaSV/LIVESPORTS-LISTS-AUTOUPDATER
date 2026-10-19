@@ -1,24 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al-Fayha vs Al-Ahli - Stream 1
-https://admin2.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al-Fayha vs Al-Ahli - Stream 2
-https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Monza vs Cagliari - Stream 1
-https://admin2.pawtner.com.au/plus.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Monza vs Cagliari - Stream 2
-https://admin.pawtner.com.au/plus.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Hilal vs Al Hazm - Stream 1
-https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Hilal vs Al Hazm - Stream 2
-https://admin2.pawtner.com.au/sky2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Parma vs Torino - Stream 1
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Parma vs Torino - Stream 2
-https://tedesco.pawtner.com.au/prem.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al-Fayha vs Al-Ahli
+https://tedesco.pawtner.com.au/foxd.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Monza vs Cagliari
+https://tedesco.pawtner.com.au/golazo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Hilal vs Al Hazm
+https://tedesco.pawtner.com.au/fsp.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Parma vs Torino
+https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 1
-https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 2 (EN)
-https://admin2.pawtner.com.au/bein.m3u8
+https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano - Stream 2
+https://tedesco.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tottenham vs Coventry
 https://admin2.pawtner.com.au/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Corinthians vs Vitoria
