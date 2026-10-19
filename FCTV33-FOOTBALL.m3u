@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGsHrZQ/SERIE-A-Game-Placeholder.png" group-title="FUTBOL FCTV33",Monza vs Cagliari 1X EN
-https://fctv33-2.mmonterrosa970.workers.dev/?id=1e91ffaacd265ad7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGsHrZQ/SERIE-A-Game-Placeholder.png" group-title="FUTBOL FCTV33",Monza vs Cagliari DZ FR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=f33d0ca57d27bf84
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGsHrZQ/SERIE-A-Game-Placeholder.png" group-title="FUTBOL FCTV33",Monza vs Cagliari DZ IT
-https://fctv33-2.mmonterrosa970.workers.dev/?id=e5df6b2dcd592616
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGsHrZQ/SERIE-A-Game-Placeholder.png" group-title="FUTBOL FCTV33",Monza vs Cagliari PAM US
-https://fctv33-2.mmonterrosa970.workers.dev/?id=27cd6ecda59592ee
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGsHrZQ/SERIE-A-Game-Placeholder.png" group-title="FUTBOL FCTV33",Monza vs Cagliari SPORT PT
-https://fctv33-2.mmonterrosa970.workers.dev/?id=51c7c60577bd5a30
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGsHrZQ/SERIE-A-Game-Placeholder.png" group-title="FUTBOL FCTV33",Monza vs Cagliari TV EN
-https://fctv33-2.mmonterrosa970.workers.dev/?id=1f060897eb2572e3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGsHrZQ/SERIE-A-Game-Placeholder.png" group-title="FUTBOL FCTV33",Monza vs Cagliari TYR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=e92a48d922a0d024
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino 1X EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=3a24699e12afe431
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino DZ FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=9fc20d98b284621d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino NOW IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=52e6cfee1733e0e2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino PAM US
+https://fctv33-2.mmonterrosa970.workers.dev/?id=07f950324fc192a8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino SPORT PT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=5901d394115d9bd4
