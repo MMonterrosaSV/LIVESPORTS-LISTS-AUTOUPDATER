@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qLGw90Q0/NFL-Game-Placeholder.png" group-title="NFL FCTV33",Green Bay Packers vs Dallas Cowboys CAL FR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=5082219be3afcdcd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qLGw90Q0/NFL-Game-Placeholder.png" group-title="NFL FCTV33",Green Bay Packers vs Dallas Cowboys DZ GB
-https://fctv33-2.mmonterrosa970.workers.dev/?id=1d50bf3129825f47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qLGw90Q0/NFL-Game-Placeholder.png" group-title="NFL FCTV33",Green Bay Packers vs Dallas Cowboys MOVISTAR2
-https://fctv33-2.mmonterrosa970.workers.dev/?id=81d761b52ae37040
+#EXTINF:-1 group-title="NFL FCTV33",LAST UPDATED 06:16:35 AM GMT+2 19-10-2026
+https://example.com
