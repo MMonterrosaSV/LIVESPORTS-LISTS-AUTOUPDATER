@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="FUTBOL FCTV33",Getafe vs Rayo Vallecano 1X EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=292ca13702fb794d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="FUTBOL FCTV33",Getafe vs Rayo Vallecano DZ ES
+https://fctv33-2.mmonterrosa970.workers.dev/?id=80f5c97986275161
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="FUTBOL FCTV33",Getafe vs Rayo Vallecano DZ FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=d1955deb0e9be92c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="FUTBOL FCTV33",Getafe vs Rayo Vallecano DZ IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=2e4f468c48ec26f5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="FUTBOL FCTV33",Getafe vs Rayo Vallecano DZ PT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=129635aacd1d3c61
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="FUTBOL FCTV33",Getafe vs Rayo Vallecano TV EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=4038e0864b4a1a04
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino 1X EN
 https://fctv33-2.mmonterrosa970.workers.dev/?id=3a24699e12afe431
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino DZ FR
@@ -9,3 +21,17 @@ https://fctv33-2.mmonterrosa970.workers.dev/?id=52e6cfee1733e0e2
 https://fctv33-2.mmonterrosa970.workers.dev/?id=07f950324fc192a8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino SPORT PT
 https://fctv33-2.mmonterrosa970.workers.dev/?id=5901d394115d9bd4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH8C2g4z/SERIE-A-Game-Placeholder-2.png" group-title="FUTBOL FCTV33",Parma vs Torino TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=8575a5d88f0c8235
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m2kfWP9/EPL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Tottenham Hotspur vs Coventry City 1X EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=0caf95e6ab641c3b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m2kfWP9/EPL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Tottenham Hotspur vs Coventry City CAL FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=2c8fd20250cf6b86
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m2kfWP9/EPL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Tottenham Hotspur vs Coventry City DZ PT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=b9922b3c8ec3acd8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m2kfWP9/EPL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Tottenham Hotspur vs Coventry City NOW IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=4203160b1851515f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m2kfWP9/EPL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Tottenham Hotspur vs Coventry City STAN AU
+https://fctv33-2.mmonterrosa970.workers.dev/?id=5ee8acd1843c6396
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m2kfWP9/EPL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Tottenham Hotspur vs Coventry City TV EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=1324e632bd95accd
