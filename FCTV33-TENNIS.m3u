@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TENNIS FCTV33",LAST UPDATED 02:46:04 PM GMT+2 19-10-2026
-https://example.com
+#EXTINF:-1 group-title="TENNIS FCTV33",Jaime Faria vs Felix Balshaw TSN+ CA
+https://fctv33-2.mmonterrosa970.workers.dev/?id=0ad60e0d97625b33
+#EXTINF:-1 group-title="TENNIS FCTV33",Jaime Faria vs Felix Balshaw TV EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=38187e793a90b0e1
