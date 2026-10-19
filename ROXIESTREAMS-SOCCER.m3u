@@ -10,8 +10,10 @@ https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4mmXMbp/SERIE-A-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Rayo Vallecano
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tottenham vs Coventry - Stream 1
-https://admin2.pawtner.com.au/main.m3u8
+https://admin2.pawtner.com.au/usa.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tottenham vs Coventry - Stream 2
+https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tottenham vs Coventry - Stream 3
 https://tedesco.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Corinthians vs Vitoria
 https://tedesco.pawtner.com.au/cbssn.m3u8
