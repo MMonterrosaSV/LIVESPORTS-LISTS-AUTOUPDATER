@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA THETVAPP",LAST UPDATED 11:45 PM 20-10-2026 GMT+2
-https://example.com/
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/nba-401909089.png" group-title="NBA THETVAPP",New York Knicks vs Philadelphia 76ers - 58 minutes from now - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MzM3L2EubmV3dmVnYW4zLnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/nba-401909089.png" group-title="NBA THETVAPP",New York Knicks vs Philadelphia 76ers - 58 minutes from now - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MzM1L2EuZmluaXIxMC5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/nba-401909089.png" group-title="NBA THETVAPP",New York Knicks vs Philadelphia 76ers - 58 minutes from now - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDMuc3BhY2UvcGxheWxpc3QvNTgzMzYvYS5uZXd2ZWdhbjE4LnNwYWNlL2NheGk
