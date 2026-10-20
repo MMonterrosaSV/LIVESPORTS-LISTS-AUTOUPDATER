@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915399.png" group-title="FUTBOL FCTV33",Paris Saint Germain U19 vs Barcelona U19 CAL FR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=4418bcc52c86b4ec
-#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915399.png" group-title="FUTBOL FCTV33",Paris Saint Germain U19 vs Barcelona U19 DZ PT
-https://fctv33-2.mmonterrosa970.workers.dev/?id=978ea52b5b66d89c
-#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915399.png" group-title="FUTBOL FCTV33",Paris Saint Germain U19 vs Barcelona U19 MOVISTAR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=bb37bc0f1d497f44
-#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915399.png" group-title="FUTBOL FCTV33",Paris Saint Germain U19 vs Barcelona U19 TYR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=77c919ddc79cb50c
-#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915399.png" group-title="FUTBOL FCTV33",Paris Saint Germain U19 vs Barcelona U19 UFA
-https://fctv33-2.mmonterrosa970.workers.dev/?id=e42d66eba805ef64
+#EXTINF:-1 group-title="FUTBOL FCTV33",LAST UPDATED 04:16:13 PM GMT+2 20-10-2026
+https://example.com
