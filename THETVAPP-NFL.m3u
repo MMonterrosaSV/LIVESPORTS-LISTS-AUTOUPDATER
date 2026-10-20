@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://f9f10c57.imgggre.pages.dev/nfl-401873008.png" group-title="NFL THETVAPP",San Francisco 49ers vs Washington Commanders - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgzMTEvcmVkLmhhbG9tYmFyYXQ1LnNwYWNlL2NheGk
-#EXTINF:-1 tvg-logo="https://f9f10c57.imgggre.pages.dev/nfl-401873008.png" group-title="NFL THETVAPP",San Francisco 49ers vs Washington Commanders - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgzMTEvcmVkLmhhbG9tYmFyYXQ1LnNwYWNlL2NheGktZmhk
-#EXTINF:-1 tvg-logo="https://f9f10c57.imgggre.pages.dev/nfl-401873008.png" group-title="NFL THETVAPP",San Francisco 49ers vs Washington Commanders - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MzEyL3JlZC5yZWRpcmVjdG9yMS5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://f9f10c57.imgggre.pages.dev/nfl-401873008.png" group-title="NFL THETVAPP",San Francisco 49ers vs Washington Commanders - In Progress - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MzEyL3JlZC5yZWRpcmVjdG9yMS5zcGFjZS9jYXhpLWZoZA
-#EXTINF:-1 tvg-logo="https://f9f10c57.imgggre.pages.dev/nfl-401873008.png" group-title="NFL THETVAPP",San Francisco 49ers vs Washington Commanders - In Progress - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MzEzL3JlZC5tYXNocmV6YWxpLnNwYWNlL2NheGk
-#EXTINF:-1 tvg-logo="https://f9f10c57.imgggre.pages.dev/nfl-401873008.png" group-title="NFL THETVAPP",San Francisco 49ers vs Washington Commanders - In Progress - Server 6
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MzEzL3JlZC5tYXNocmV6YWxpLnNwYWNlL2NheGktZmhk
+#EXTINF:-1 group-title="NFL THETVAPP",LAST UPDATED 05:30 AM 20-10-2026 GMT+2
+https://example.com/
