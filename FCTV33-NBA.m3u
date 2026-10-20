@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA FCTV33",LAST UPDATED 08:46:23 PM GMT+2 20-10-2026
-https://example.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chXX11dV/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Detroit Pistons vs Boston Celtics AI TH
+https://fctv33-2.mmonterrosa970.workers.dev/?id=ea019c63381ffadd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chXX11dV/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Detroit Pistons vs Boston Celtics CAL FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=ce466620d7d290df
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chXX11dV/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Detroit Pistons vs Boston Celtics FUBO US
+https://fctv33-2.mmonterrosa970.workers.dev/?id=df12042029fd21d8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chXX11dV/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Detroit Pistons vs Boston Celtics NOW IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=230d5a40b3622192
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chXX11dV/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Detroit Pistons vs Boston Celtics TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=6b8456c3321db731
