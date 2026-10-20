@@ -1,3 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="FUTBOL FCTV33",LAST UPDATED 06:31:24 PM GMT+2 20-10-2026
-https://example.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha 1X EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=56d2c849470161df
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha CAL FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=40a9e5462dd27bdd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha DZ PT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=c1fc997e7cc103cf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha MOVISTAR2
+https://fctv33-2.mmonterrosa970.workers.dev/?id=16133313fe2f3982
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha NOW IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=31749a3f3a295ef9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha PAM US
+https://fctv33-2.mmonterrosa970.workers.dev/?id=535ef2c3e1ed8ac6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha TV EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=83c58ed3d3b23a7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sabah Baku vs Borussia Dortmund 1X EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=ed38b58dbd2c5f8f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sabah Baku vs Borussia Dortmund CAL FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=5fc9697802e8bd35
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sabah Baku vs Borussia Dortmund DZ PT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=b2e8173fcd674ae2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sabah Baku vs Borussia Dortmund MOVISTAR2
+https://fctv33-2.mmonterrosa970.workers.dev/?id=fffd6af6983ad40c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sabah Baku vs Borussia Dortmund NOW IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=1fd363df59191660
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sabah Baku vs Borussia Dortmund PAM US
+https://fctv33-2.mmonterrosa970.workers.dev/?id=1b3635d977673a65
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sabah Baku vs Borussia Dortmund TV EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=ffcc2cd2082c27d8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sabah Baku vs Borussia Dortmund TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=4f410bfdde9c8826
