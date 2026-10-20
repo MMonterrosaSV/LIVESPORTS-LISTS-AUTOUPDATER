@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Taawon vs Al Quadisiya
 https://admin2.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915404.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915404.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
 https://admin2.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915404.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 3 (ES)
-https://admin2.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGj8XWJj/UCL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 3 (ES)
+https://admin2.pawtner.com.au/tudnus.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fenerbahçe vs Slavia Praha
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Nassr vs NEOM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Al Nassr vs NEOM
 https://admin2.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Portsmouth
 https://tedesco.pawtner.com.au/wolves.m3u8
