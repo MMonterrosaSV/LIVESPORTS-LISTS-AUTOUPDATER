@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Taawon vs Al Quadisiya
 https://admin2.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915404.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915404.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
 https://admin2.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 3 (ES)
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915404.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 3 (ES)
 https://admin2.pawtner.com.au/tudn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fenerbahçe vs Slavia Praha
 https://tedesco.pawtner.com.au/fsp.m3u8
@@ -25,11 +25,11 @@ https://admin2.pawtner.com.au/prem.m3u8
 https://admin.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal - Stream 3
 https://admin2.pawtner.com.au/xtra.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 1
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915401.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 1
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 2
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915401.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 2
 https://admin2.pawtner.com.au/peacock.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Bodo / Glimt
+#EXTINF:-1 tvg-logo="https://abcf7bb1.imgggre.pages.dev/ucl-401915400.png" group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Bodo / Glimt
 https://admin.pawtner.com.au/tnt5.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Slovan Bratislava
 https://admin2.pawtner.com.au/roma.m3u8
