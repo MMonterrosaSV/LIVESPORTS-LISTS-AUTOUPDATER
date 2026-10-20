@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA FCTV33",LAST UPDATED 01:47:30 AM GMT+2 20-10-2026
-https://example.com
+#EXTINF:-1 group-title="NBA FCTV33",Golden State Valkyries vs Atlanta Dream CAL FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=0d95ff28eb8da439
+#EXTINF:-1 group-title="NBA FCTV33",Golden State Valkyries vs Atlanta Dream MOVISTAR2
+https://fctv33-2.mmonterrosa970.workers.dev/?id=74924c868745b99f
+#EXTINF:-1 group-title="NBA FCTV33",Golden State Valkyries vs Atlanta Dream TD EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=ff8faedfbfe33889
