@@ -1,58 +1,44 @@
 #EXTM3U
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Taawon vs Al Quadisiya
 https://admin2.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
 https://tedesco.pawtner.com.au/golazo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 1
+https://admin2.pawtner.com.au/tnt2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Sabah - Stream 3 (ES)
+https://admin2.pawtner.com.au/tudn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fenerbahçe vs Slavia Praha
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Nassr vs NEOM
 https://admin2.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Portsmouth - Stream 1
-https://admin2.pawtner.com.au/espnes.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Portsmouth - Stream 2 (EN)
-https://admin2.pawtner.com.au/espnen.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Portsmouth - Stream 3 (ES ALT)
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atletico Madrid vs Stuttgart - Stream 1
-https://admin2.pawtner.com.au/usa.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atletico Madrid vs Stuttgart - Stream 2
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atletico Madrid vs Stuttgart - Stream 3
-https://tedesco.pawtner.com.au/prem.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Portsmouth
+https://tedesco.pawtner.com.au/wolves.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atletico Madrid vs Stuttgart
+https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs PSG - Stream 1
-https://admin.pawtner.com.au/fanapt.m3u8
+https://admin2.pawtner.com.au/tnt2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs PSG - Stream 2 (ES)
-https://admin.pawtner.com.au/l1max.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs PSG - Stream 3 (RU)
-https://admin2.pawtner.com.au/match3ru.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal
+https://admin2.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal - Stream 1
+https://admin2.pawtner.com.au/prem.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal - Stream 2
+https://admin.pawtner.com.au/prem.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal - Stream 3
 https://admin2.pawtner.com.au/xtra.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 1
-https://admin2.pawtner.com.au/peacock.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 2
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 3
-https://tedesco.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 4
-https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Bodo / Glimt
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Slovan Bratislava - Stream 1
-https://admin2.pawtner.com.au/madrid.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Slovan Bratislava - Stream 2 (ES)
-https://admin2.pawtner.com.au/depalt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Slovan Bratislava - Stream 2 (ES ALT)
-https://admin2.pawtner.com.au/dep.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 2
+https://admin2.pawtner.com.au/peacock.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Bodo / Glimt
+https://admin.pawtner.com.au/tnt5.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Slovan Bratislava
+https://admin2.pawtner.com.au/roma.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Porto vs PSV - Stream 1
-https://admin.pawtner.com.au/fana1.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Porto vs PSV - Stream 2 (EN)
-https://admin.pawtner.com.au/fana1en.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Porto vs PSV - Stream 3 (ES)
-https://admin.pawtner.com.au/fana1es.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Porto vs PSV - Stream 4 (DE)
-https://admin2.pawtner.com.au/sportdigital.m3u8
+https://admin2.pawtner.com.au/cbssn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Porto vs PSV - Stream 2
+https://admin.pawtner.com.au/cbssn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Gillingham vs Port Vale
-https://admin.pawtner.com.au/fana2pt.m3u8
+https://admin2.pawtner.com.au/gill.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Chivas vs Necaxa - Stream 1
 https://admin.pawtner.com.au/fana3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Chivas vs Necaxa - Stream 2 (EN)
