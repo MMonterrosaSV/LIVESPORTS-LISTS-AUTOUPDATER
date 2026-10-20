@@ -14,21 +14,25 @@ https://admin2.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Portsmouth
 https://tedesco.pawtner.com.au/wolves.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Walsall vs Oldham Athletic
-https://admin2.pawtner.com.au/espn2mx.m3u8
+https://admin2.pawtner.com.au/oldham.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",UEFA Goals Show
 https://admin2.pawtner.com.au/tnt3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYCtxK6Y/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atletico Madrid vs Stuttgart
 https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CxLNF2c/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs PSG - Stream 1
 https://admin2.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CxLNF2c/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs PSG - Stream 2 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CxLNF2c/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs PSG - Stream 2
+https://admin2.pawtner.com.au/barca.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CxLNF2c/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs PSG - Stream 3 (ES)
 https://admin2.pawtner.com.au/tudn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtV2Gqmc/UCL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal - Stream 1
 https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtV2Gqmc/UCL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Villarreal - Stream 2
 https://admin.pawtner.com.au/prem.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRY4KDTs/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRY4KDTs/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 1
 https://admin2.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRY4KDTs/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester City vs Athens - Stream 2
+https://admin.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/671hNtHB/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Bodo / Glimt
 https://admin.pawtner.com.au/tnt5.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Slovan Bratislava
