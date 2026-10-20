@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC DZ FR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=9a51051e129c45d9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC FUBO ES
-https://fctv33-2.mmonterrosa970.workers.dev/?id=e255c9b44c30df23
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC FUBO US
-https://fctv33-2.mmonterrosa970.workers.dev/?id=51d9fa3d9d7c5752
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC MOVISTAR2
-https://fctv33-2.mmonterrosa970.workers.dev/?id=07230c7966fca18f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC SPORT PT
-https://fctv33-2.mmonterrosa970.workers.dev/?id=c02491c442ca3e34
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC TYR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=23238288ea3a102b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC VUS
-https://fctv33-2.mmonterrosa970.workers.dev/?id=c5d07558bc13ad8b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsWK86RN/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",As Roma vs Slovan Bratislava 1X EN
 https://fctv33-2.mmonterrosa970.workers.dev/?id=e4c930e7e026dd65
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsWK86RN/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",As Roma vs Slovan Bratislava CAL FR
