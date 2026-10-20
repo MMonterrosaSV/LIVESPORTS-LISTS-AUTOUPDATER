@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC DZ FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=9a51051e129c45d9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC FUBO ES
+https://fctv33-2.mmonterrosa970.workers.dev/?id=e255c9b44c30df23
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC FUBO US
+https://fctv33-2.mmonterrosa970.workers.dev/?id=51d9fa3d9d7c5752
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC MOVISTAR2
+https://fctv33-2.mmonterrosa970.workers.dev/?id=07230c7966fca18f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC SPORT PT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=c02491c442ca3e34
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC SPORTV BR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=016faa40586109fb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99T68gdm/SAUDI-Game-Placeholder.png" group-title="FUTBOL FCTV33",Al Nassr vs Neom SC VUS
+https://fctv33-2.mmonterrosa970.workers.dev/?id=c5d07558bc13ad8b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha 1X EN
 https://fctv33-2.mmonterrosa970.workers.dev/?id=56d2c849470161df
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha CAL FR
@@ -11,8 +25,6 @@ https://fctv33-2.mmonterrosa970.workers.dev/?id=16133313fe2f3982
 https://fctv33-2.mmonterrosa970.workers.dev/?id=31749a3f3a295ef9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha PAM US
 https://fctv33-2.mmonterrosa970.workers.dev/?id=535ef2c3e1ed8ac6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha TRT TR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=8aab6ef0ed7b2377
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha TV EN
 https://fctv33-2.mmonterrosa970.workers.dev/?id=83c58ed3d3b23a7c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YMjX1Mq/UCL-Game-Placeholder.png" group-title="FUTBOL FCTV33",Fenerbahce vs SK Slavia Praha TYR
