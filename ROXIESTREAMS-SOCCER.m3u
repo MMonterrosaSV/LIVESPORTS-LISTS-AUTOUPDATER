@@ -35,7 +35,7 @@ https://admin2.pawtner.com.au/inter.m3u8
 https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf0589Z9/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Betis vs Feyenoord - Stream 1
 https://admin2.pawtner.com.au/feye.m3u8
-#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/ucl-401915391.png" group-title="ROXIESTREAMS SOCCER (VPN)",Sporting CP vs LASK Linz
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sporting CP vs LASK Linz
 https://admin2.pawtner.com.au/sporting.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9m5bRL9z/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Madrid vs RB Leipzig - Stream 1
 https://admin2.pawtner.com.au/tnt4.m3u8
