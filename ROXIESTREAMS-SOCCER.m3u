@@ -47,10 +47,18 @@ https://admin.pawtner.com.au/espn.m3u8
 https://admin.pawtner.com.au/bein2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Reading vs Leyton Orient
 https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torque vs Atletico Mineiro
-https://admin2.pawtner.com.au/sportdigital.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Fluminense
-https://admin2.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torque vs Atletico Mineiro - Stream 1 (ES)
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torque vs Atletico Mineiro - Stream 2 (DE)
+https://admin.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torque vs Atletico Mineiro - Stream 3
+https://tedesco.pawtner.com.au/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Fluminense - Stream 1 (ES)
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Fluminense - Stream 2 (DE)
+https://admin.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs Fluminense - Stream 3
+https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs America
 https://admin2.pawtner.com.au/primemx.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Puebla vs Monterrey
