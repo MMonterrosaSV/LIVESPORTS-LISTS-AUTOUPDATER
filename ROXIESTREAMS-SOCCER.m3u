@@ -31,5 +31,7 @@ https://admin2.pawtner.com.au/lyon.m3u8
 https://admin2.pawtner.com.au/monaco.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Omonia Nicosia vs Benfica
 https://admin2.pawtner.com.au/benfica.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Estudiantes
-https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Estudiantes - Stream 1
+https://admin2.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Estudiantes - Stream 2 (ES)
+https://tedesco.pawtner.com.au/beines.m3u8
