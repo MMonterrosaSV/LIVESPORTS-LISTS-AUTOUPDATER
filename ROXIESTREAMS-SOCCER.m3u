@@ -1,30 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crvena Zvezda vs Kobenhavn - Stream 1
-https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crvena Zvezda vs Kobenhavn - Stream 2
-https://admin2.pawtner.com.au/tnt4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lech Poznań vs Sunderland - Stream 1
-https://admin2.pawtner.com.au/virgin.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lech Poznań vs Sunderland - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crvena Zvezda vs Kobenhavn
+https://admin2.pawtner.com.au/cope.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4YWqV8X/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lech Poznań vs Sunderland - Stream 1
+https://tedesco.pawtner.com.au/prem.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4YWqV8X/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lech Poznań vs Sunderland - Stream 2
+https://admin2.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Jablonec vs Brighton - Stream 1
+https://admin2.pawtner.com.au/prem2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Jablonec vs Brighton - Stream 2
 https://admin2.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lech Poznań vs Sunderland - Stream 3 (ES)
-https://admin2.pawtner.com.au/tudn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lech Poznań vs Sunderland - Stream 4 (العربية)
-https://admin2.pawtner.com.au/bein2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Jablonec vs Brighton
-https://tedesco.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Juventus vs Rennes - Stream 1
-https://tedesco.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Juventus vs Rennes - Stream 2 (DE)
-https://admin2.pawtner.com.au/sportdigital.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sturm Graz vs Marseille - Stream 1
-https://admin2.pawtner.com.au/tnt4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sturm Graz vs Marseille - Stream 2
-https://admin.pawtner.com.au/rma.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sturm Graz vs Marseille - Stream 3 (ES)
-https://admin.pawtner.com.au/espn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sturm Graz vs Marseille - Stream 4 (العربية)
-https://admin.pawtner.com.au/bein2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5X06KC4N/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Juventus vs Rennes
+https://tedesco.pawtner.com.au/cbssn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s94gKHDp/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Sturm Graz vs Marseille
+https://admin2.pawtner.com.au/marseille.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Trabzonspor vs Hearts
 https://admin2.pawtner.com.au/tnt3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bournemouth vs Milan - Stream 1
