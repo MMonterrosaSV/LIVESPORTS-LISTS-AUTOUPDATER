@@ -1,39 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909840.png" group-title="NBA THETVAPP",Houston Rockets vs Dallas Mavericks - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgzODkvYS5uZXdzdG9yZTUuc3BhY2UvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgzODkvYS5uZXdzdG9yZTUuc3BhY2UvY2F4aQ
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909840.png" group-title="NBA THETVAPP",Houston Rockets vs Dallas Mavericks - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgzOTEvYi5iYWNrc3RvcmUxLnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgzOTEvYS5uZXd2ZWdhbjEuc3BhY2UvY2F4aQ
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909838.png" group-title="NBA THETVAPP",Memphis Grizzlies vs Utah Jazz - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTgzODIvYS5uZXdzdG9yZTIuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909838.png" group-title="NBA THETVAPP",Memphis Grizzlies vs Utah Jazz - In Progress - Server 2
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4Mzg4L2Eub25hbmE0LnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909838.png" group-title="NBA THETVAPP",Memphis Grizzlies vs Utah Jazz - In Progress - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MzgyL2EubmV3c3RvcmUyLnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909839.png" group-title="NBA THETVAPP",New Orleans Pelicans vs Indiana Pacers - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgzODQvYS5uZXd2ZWdhbjIwLnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgzODUvYS5uZXd2ZWdhbjIyLnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909839.png" group-title="NBA THETVAPP",New Orleans Pelicans vs Indiana Pacers - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgzODUvYS5uZXd2ZWdhbjIzLnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4Mzg0L2EubmV3dmVnYW4yMC5zcGFjZS9jYXhp
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909836.png" group-title="NBA THETVAPP",Brooklyn Nets vs Charlotte Hornets - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4Mzc4L2EubmV3dmVnYW4yLnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgzOTAvYS5taW9taW81LnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909836.png" group-title="NBA THETVAPP",Brooklyn Nets vs Charlotte Hornets - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MzczL2EubmV3dmVnYW4xLnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4MzczL2IuYmFja3N0b3JlMS5zcGFjZS9jYXhp
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909836.png" group-title="NBA THETVAPP",Brooklyn Nets vs Charlotte Hornets - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MzkwL2IuYmFja3N0b3JlMi5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgzNzgvYS5ub3V2ZWF1dHJ5MS5zcGFjZS9jYXhp
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909091.png" group-title="NBA THETVAPP",Miami Heat vs Minnesota Timberwolves - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4Mzg3L2EubmV3dmVnYW4yNS5zcGFjZS9jYXhp
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4Mzc5L2EuY2VzdGFtb2k5LnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909091.png" group-title="NBA THETVAPP",Miami Heat vs Minnesota Timberwolves - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4Mzc2L2EubW9uYW1vcjYuc3BhY2UvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4Mzc2L2EubW9uYW1vcjYuc3BhY2UvY2F4aQ
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909091.png" group-title="NBA THETVAPP",Miami Heat vs Minnesota Timberwolves - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4Mzc5L2EucG91cnRvaTguc3BhY2UvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4Mzg3L2EubmV3dmVnYW4yNC5zcGFjZS9jYXhp
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909837.png" group-title="NBA THETVAPP",Toronto Raptors vs Chicago Bulls - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgzODAvYS5uZXd2ZWdhbjQuc3BhY2UvY2F4aQ
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4Mzc0L2EuZnJhbmNvcGhvbmUyLnNwYWNlL2NheGk
 #EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909837.png" group-title="NBA THETVAPP",Toronto Raptors vs Chicago Bulls - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgzNzQvYS5mcmFuY29waG9uZTIuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909834.png" group-title="NBA THETVAPP",Orlando Magic vs Atlanta Hawks - In Progress - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgzNjcvYS5uZXd2ZWdhbjIzLnNwYWNlL2NheGk
-#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909834.png" group-title="NBA THETVAPP",Orlando Magic vs Atlanta Hawks - In Progress - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4MzcxL2EubmV3c3RvcmUzLnNwYWNlL2NheGk
-#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909834.png" group-title="NBA THETVAPP",Orlando Magic vs Atlanta Hawks - In Progress - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgzNzIvYS5uZXdzdG9yZTUuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909841.png" group-title="NBA THETVAPP",Portland Trail Blazers vs Phoenix Suns - 14 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTgzOTQvYS5uZXd2ZWdhbjQuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909092.png" group-title="NBA THETVAPP",Los Angeles Lakers vs Golden State Warriors - 14 minutes from now
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzU4MzkzL2EubmV3dmVnYW4yLnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgzODAvYS5uZXd2ZWdhbjMuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909092.png" group-title="NBA THETVAPP",Los Angeles Lakers vs Golden State Warriors Not started - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4MzkzL2Eubm91dmVhdXRyeTEuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909092.png" group-title="NBA THETVAPP",Los Angeles Lakers vs Golden State Warriors Not started - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgzOTUvYS5wb3VydG9pOC5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909092.png" group-title="NBA THETVAPP",Los Angeles Lakers vs Golden State Warriors Not started - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTgzOTgvYS5mcmFuY29waG9uZTIuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909841.png" group-title="NBA THETVAPP",Portland Trail Blazers vs Phoenix Suns Not started - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4NDAwL2EubmV3dmVnYW4xNy5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909841.png" group-title="NBA THETVAPP",Portland Trail Blazers vs Phoenix Suns Not started - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53ZWFyZXN0cm9uZzEuc3BhY2UvcGxheWxpc3QvNTgzOTQvYS5uZXd2ZWdhbjQuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://bcbae5e1.imgggre.pages.dev/nba-401909841.png" group-title="NBA THETVAPP",Portland Trail Blazers vs Phoenix Suns Not started - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTgzOTkvYS5uZXd2ZWdhbjUuc3BhY2UvY2F4aQ
