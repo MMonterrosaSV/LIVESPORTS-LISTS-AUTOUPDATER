@@ -5,9 +5,9 @@ https://admin2.pawtner.com.au/cope.m3u8
 https://tedesco.pawtner.com.au/prem.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4YWqV8X/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lech Poznań vs Sunderland - Stream 2
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/uecl-401915842.png" group-title="ROXIESTREAMS SOCCER (VPN)",Jablonec vs Brighton - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Jablonec vs Brighton - Stream 1
 https://admin2.pawtner.com.au/prem2.m3u8
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/uecl-401915842.png" group-title="ROXIESTREAMS SOCCER (VPN)",Jablonec vs Brighton - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Jablonec vs Brighton - Stream 2
 https://admin2.pawtner.com.au/tnt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5X06KC4N/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Juventus vs Rennes
 https://tedesco.pawtner.com.au/cbssn.m3u8
@@ -23,13 +23,13 @@ https://admin2.pawtner.com.au/tnt.m3u8
 https://admin2.pawtner.com.au/prem2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Beşiktaş vs Crystal Palace
 https://admin2.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Celtic vs Celta Vigo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJM8wPMF/LIGA-Game-Placeholder-5.png" group-title="ROXIESTREAMS SOCCER (VPN)",Celtic vs Celta Vigo
 https://admin2.pawtner.com.au/tnt3.m3u8
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/uel-401915543.png" group-title="ROXIESTREAMS SOCCER (VPN)",Hoffenheim vs Lyon
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHTh9tdd/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Hoffenheim vs Lyon
 https://admin2.pawtner.com.au/lyon.m3u8
 #EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/uecl-401915836.png" group-title="ROXIESTREAMS SOCCER (VPN)",Monaco vs Freiburg
 https://admin2.pawtner.com.au/monaco.m3u8
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/uel-401915544.png" group-title="ROXIESTREAMS SOCCER (VPN)",Omonia Nicosia vs Benfica
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hWjd7W7/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Omonia Nicosia vs Benfica
 https://admin2.pawtner.com.au/benfica.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Estudiantes
 https://admin2.pawtner.com.au/main.m3u8
