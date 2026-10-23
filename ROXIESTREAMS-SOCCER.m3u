@@ -33,5 +33,7 @@ https://admin2.pawtner.com.au/monaco.m3u8
 https://admin2.pawtner.com.au/benfica.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Estudiantes - Stream 1
 https://admin2.pawtner.com.au/sportdigital.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Estudiantes - Stream 2 (ES)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Estudiantes - Stream 2 (PT)
+https://admin2.pawtner.com.au/espnbr.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Flamengo vs Estudiantes - Stream 3 (ES)
 https://tedesco.pawtner.com.au/beines.m3u8
