@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots - 13 minutes from now - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTg0MjIvcmVkLnJlZGlyZWN0b3IxLnNwYWNlL2NheGk
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots - 13 minutes from now - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNTg0MjIvcmVkLnJlZGlyZWN0b3IxLnNwYWNlL2NheGktZmhk
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots - 13 minutes from now - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4NDIzL3JlZC5naXRlcmFuMS5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots - 13 minutes from now - Server 4
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU4NDIzL3JlZC5naXRlcmFuMS5zcGFjZS9jYXhpLWZoZA
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots - 13 minutes from now - Server 5
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4NDI0L3JlZC5tYXNocmV6YWxpLnNwYWNlL2NheGk
-#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots - 13 minutes from now - Server 6
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5nb296ZWtoYXIyLnNwYWNlL3BsYXlsaXN0LzU4NDI0L3JlZC5tYXNocmV6YWxpLnNwYWNlL2NheGktZmhk
+#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots Not started - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTg0MjIvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots Not started - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNTg0MjIvcGwuZ29vemVraGFyMS5zcGFjZS9jYXhpLWZoZA
+#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots Not started - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTg0MjMvcGwua2FtZmlyMy5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots Not started - Server 4
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDUuc3BhY2UvcGxheWxpc3QvNTg0MjMvcGwua2FtZmlyMy5zcGFjZS9jYXhpLWZoZA
+#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots Not started - Server 5
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4NDI0L3JlZC5oYWxvbWJhcmF0NS5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://03eb23df.imgggre.pages.dev/nfl-401873010.png" group-title="NFL THETVAPP",Chicago Bears vs New England Patriots Not started - Server 6
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5rYW1maXI1LnNwYWNlL3BsYXlsaXN0LzU4NDI0L3JlZC5oYWxvbWJhcmF0NS5zcGFjZS9jYXhpLWZoZA
