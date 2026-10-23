@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://1fbbeebb.imgggre.pages.dev/laliga-401882836.png" group-title="FUTBOL THETVAPP",Deportivo Alavés vs Málaga CF 44'
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0NDYvYS5uZXd2ZWdhbjE1LnNwYWNlL2NheGk
-#EXTINF:-1 tvg-logo="https://1fbbeebb.imgggre.pages.dev/seriea-401874957.png" group-title="FUTBOL THETVAPP",Torino vs Monza - HT
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0NDIvYS5uZXd2ZWdhbjExLnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://1fbbeebb.imgggre.pages.dev/premierleague-401879253.png" group-title="FUTBOL THETVAPP",Ipswich Town vs Nottingham Forest - HT
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0NDMvYS5uZXd2ZWdhbjE2LnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://1fbbeebb.imgggre.pages.dev/laliga-401882836.png" group-title="FUTBOL THETVAPP",Deportivo Alavés vs Málaga CF - HT
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0NDYvYS5uZXd2ZWdhbjE2LnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://1fbbeebb.imgggre.pages.dev/seriea-401874957.png" group-title="FUTBOL THETVAPP",Torino vs Monza 55'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0NDIvYS5uZXd2ZWdhbjkuc3BhY2UvY2F4aQ
