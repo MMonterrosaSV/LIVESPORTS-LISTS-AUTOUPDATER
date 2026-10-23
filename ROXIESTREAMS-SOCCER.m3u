@@ -7,11 +7,11 @@ https://tedesco.pawtner.com.au/fs2.m3u8
 https://tedesco.pawtner.com.au/fsp.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Quadisiya vs Al Hilal
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Borussia M'gladbach - Stream 1
-https://admin2.pawtner.com.au/prem2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Borussia M'gladbach - Stream 2
-https://admin2.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 tvg-logo="https://1fbbeebb.imgggre.pages.dev/ligue1-401876428.png" group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Nice
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Borussia M'gladbach
+https://tedesco.pawtner.com.au/one.m3u8
+#EXTINF:-1 tvg-logo="https://1fbbeebb.imgggre.pages.dev/ligue1-401876428.png" group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Nice - Stream 1
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 tvg-logo="https://1fbbeebb.imgggre.pages.dev/ligue1-401876428.png" group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Nice - Stream 2
 https://admin2.pawtner.com.au/marseille.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2vFhCS/SERIE-A-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Torino vs Monza
 https://admin2.pawtner.com.au/tnt3.m3u8
