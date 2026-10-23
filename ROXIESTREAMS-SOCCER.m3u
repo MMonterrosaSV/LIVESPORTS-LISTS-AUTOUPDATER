@@ -1,37 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Nassr vs Al Faisaly
-https://admin2.pawtner.com.au/cope.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Ittihad vs Diriyah - Stream 1
-https://tedesco.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Ittihad vs Diriyah - Stream 2
-https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Quadisiya vs Al Hilal - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Nassr vs Al Faisaly - Stream 1
+https://tedesco.pawtner.com.au/cope.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Nassr vs Al Faisaly - Stream 2
+https://tedesco.pawtner.com.au/fs2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Ittihad vs Diriyah
+https://tedesco.pawtner.com.au/fsp.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Quadisiya vs Al Hilal
+https://tedesco.pawtner.com.au/fsp.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Borussia M'gladbach - Stream 1
 https://admin2.pawtner.com.au/prem2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Al Quadisiya vs Al Hilal - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Borussia M'gladbach - Stream 2
 https://admin2.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Borussia M'gladbach
-https://admin2.pawtner.com.au/marseille.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Nice
+https://admin2.pawtner.com.au/marseille.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torino vs Monza
 https://admin2.pawtner.com.au/tnt3.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torino vs Monza - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ipswich Town vs Nottingham Forest - Stream 1
 https://tedesco.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torino vs Monza - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ipswich Town vs Nottingham Forest - Stream 2
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Torino vs Monza - Stream 3
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ipswich Town vs Nottingham Forest - Stream 3
 https://admin2.pawtner.com.au/prem2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ipswich Town vs Nottingham Forest
-https://admin2.pawtner.com.au/tnt2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Deportivo Alavés vs Malaga
-https://admin2.pawtner.com.au/tnt3.m3u8
+https://admin2.pawtner.com.au/tnt2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bolton Wanderers vs Middlesbrough
-https://admin2.pawtner.com.au/lyon.m3u8
+https://admin2.pawtner.com.au/tnt3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cruzeiro vs Remo
-https://admin2.pawtner.com.au/monaco.m3u8
+https://admin2.pawtner.com.au/lyon.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Necaxa vs Juarez
+https://admin2.pawtner.com.au/monaco.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Atlético San Luis
 https://admin2.pawtner.com.au/benfica.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Atlético San Luis - Stream 1
-https://admin2.pawtner.com.au/sportdigital.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Atlético San Luis - Stream 2 (PT)
-https://admin2.pawtner.com.au/espnbr.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Atlético San Luis - Stream 3 (ES)
-https://tedesco.pawtner.com.au/beines.m3u8
