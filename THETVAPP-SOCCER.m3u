@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/mls-761903.png" group-title="FUTBOL THETVAPP",CF Montréal vs Nashville SC Not started
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MTgvYS5uZXd0dXRvcmlhbDEuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/premierleague-401878767.png" group-title="FUTBOL THETVAPP",Chelsea vs Tottenham Hotspur - HT
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MDkvYS5wb3VycW91aTYuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/bundesliga-401884763.png" group-title="FUTBOL THETVAPP",Borussia Dortmund vs Eintracht Frankfurt - HT
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MTAvYS5oYXRlbWFtZXJlMy5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/laliga-401882827.png" group-title="FUTBOL THETVAPP",Valencia vs Villarreal - HT
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/mls-761903.png" group-title="FUTBOL THETVAPP",CF Montréal vs Nashville SC 3'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MTgvYS5uZXd2ZWdhbjkuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/premierleague-401878767.png" group-title="FUTBOL THETVAPP",Chelsea vs Tottenham Hotspur 56'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MDkvYS5odWl0OC5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/bundesliga-401884763.png" group-title="FUTBOL THETVAPP",Borussia Dortmund vs Eintracht Frankfurt 55'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MTAvYS5oYXRlbW9ucGVyZTQuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/laliga-401882827.png" group-title="FUTBOL THETVAPP",Valencia vs Villarreal 51'
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MTkvYS5kaXgxMC5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/seriea-401874948.png" group-title="FUTBOL THETVAPP",SSC Napoli vs AS Roma 67'
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0OTkvYS5naXZlbWVtb3JlNS5zcGFjZS9jYXhp
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/seriea-401874948.png" group-title="FUTBOL THETVAPP",SSC Napoli vs AS Roma 84'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0OTkvYS5iZXR0ZXJiZTYuc3BhY2UvY2F4aQ
