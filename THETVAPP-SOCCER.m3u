@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7dCJVKvc/LIGA-Game-Placeholder.png" group-title="FUTBOL THETVAPP",Real Racing Club vs Espanyol 53'
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dCJVKvc/LIGA-Game-Placeholder.png" group-title="FUTBOL THETVAPP",Real Racing Club vs Espanyol 70'
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MDUvYS5taXNzbWUuc3BhY2UvY2F4aQ
-#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/premierleague-401878768.png" group-title="FUTBOL THETVAPP",Arsenal vs Everton 69'
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0ODkvYS5odWl0OC5zcGFjZS9jYXhp
-#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/premierleague-401879255.png" group-title="FUTBOL THETVAPP",Coventry City vs Fulham 69'
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/premierleague-401878768.png" group-title="FUTBOL THETVAPP",Arsenal vs Everton 84'
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0ODkvYS5wb3VycW91aTYuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/premierleague-401879255.png" group-title="FUTBOL THETVAPP",Coventry City vs Fulham 84'
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0OTAvYS5uZXd2ZWdhbjE1LnNwYWNlL2NheGk
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/seriea-401874948.png" group-title="FUTBOL THETVAPP",SSC Napoli vs AS Roma - 14 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg0OTkvYS5iZXR0ZXJiZTYuc3BhY2UvY2F4aQ
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/bundesliga-401884763.png" group-title="FUTBOL THETVAPP",Borussia Dortmund vs Eintracht Frankfurt - 44 minutes from now
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg1MTAvYS5oYXRlbWFtZXJlMy5zcGFjZS9jYXhp
