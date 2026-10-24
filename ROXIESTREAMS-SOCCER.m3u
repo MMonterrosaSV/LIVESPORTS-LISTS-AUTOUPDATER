@@ -7,7 +7,7 @@ https://admin2.pawtner.com.au/ncaa15.m3u8
 https://tedesco.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Charlton Athletic vs Norwich City
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6508/live/47ca9490-ce20-11f1-9a39-31b474234113.png" group-title="ROXIESTREAMS SOCCER (VPN)",Portsmouth vs Millwall
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Portsmouth vs Millwall
 https://tedesco.pawtner.com.au/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sheffield United vs Derby County - Stream 1
 https://tedesco.pawtner.com.au/plus.m3u8
@@ -30,9 +30,7 @@ https://admin2.pawtner.com.au/ncaa2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Coventry vs Fulham
 https://admin2.pawtner.com.au/fulham.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barnet vs Oldham Athletic
-https://admin2.pawtner.com.au/foxonemx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Gillingham vs Grimsby
-https://admin2.pawtner.com.au/espn2mx.m3u8
+https://admin2.pawtner.com.au/oldham.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",West Ham vs Southampton
 https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Watford
@@ -47,9 +45,9 @@ https://admin2.pawtner.com.au/sportdigital.m3u8
 https://admin2.pawtner.com.au/espnbr.m3u8
 #EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/premierleague-401878767.png" group-title="ROXIESTREAMS SOCCER (VPN)",Chelsea vs Tottenham - Stream 3 (ES)
 https://tedesco.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",vs Frankfurt
+#EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/bundesliga-401884763.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Frankfurt
 https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",CF Montréal vs Nashville
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",éal vs Nashville
 https://tedesco.pawtner.com.au/cbssn.m3u8
 #EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/seriea-401874955.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lazio vs Parma
 https://tedesco.pawtner.com.au/golazo.m3u8
