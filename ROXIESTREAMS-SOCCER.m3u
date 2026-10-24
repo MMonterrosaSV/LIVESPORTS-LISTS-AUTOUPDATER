@@ -19,13 +19,13 @@ https://admin2.pawtner.com.au/dep.m3u8
 https://admin2.pawtner.com.au/como.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gMMZ8sq/BUNDES-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",RB Leipzig vs Elversberg
 https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYSXyLcr/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 1
 https://admin2.pawtner.com.au/usa.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYSXyLcr/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 2
 https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYSXyLcr/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 3
 https://tedesco.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYSXyLcr/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 4
 https://admin2.pawtner.com.au/ncaa2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Coventry vs Fulham
 https://admin2.pawtner.com.au/fulham.m3u8
