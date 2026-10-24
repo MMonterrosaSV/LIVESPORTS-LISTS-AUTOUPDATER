@@ -31,7 +31,7 @@ https://admin2.pawtner.com.au/ncaa2.m3u8
 https://admin2.pawtner.com.au/fulham.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barnet vs Oldham Athletic
 https://admin2.pawtner.com.au/oldham.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",West Ham vs Southampton
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/southampton/image/upload/c_fill,f_auto,h_700,q_90,w_1440/v1/2026-27/Miscellaneous/SaintsPlay-MatchbyMatch-WEST_HAM4_kommpo" group-title="ROXIESTREAMS SOCCER (VPN)",West Ham vs Southampton
 https://tedesco.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wolves vs Watford
 https://tedesco.pawtner.com.au/one.m3u8
