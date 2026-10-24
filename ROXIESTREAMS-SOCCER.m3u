@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8pQ99VT/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Manchester City - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Manchester City - Stream 1
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8pQ99VT/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Manchester City - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Manchester City - Stream 2
 https://admin2.pawtner.com.au/ncaa15.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8pQ99VT/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Manchester City - Stream 3
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Manchester City - Stream 3
 https://tedesco.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Charlton Athletic vs Norwich City
 https://tedesco.pawtner.com.au/golazo.m3u8
@@ -13,19 +13,19 @@ https://tedesco.pawtner.com.au/one.m3u8
 https://tedesco.pawtner.com.au/plus.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sheffield United vs Derby County - Stream 2
 https://admin2.pawtner.com.au/usa.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v6KdjYC0/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Rayo Vallecano vs Elche
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Rayo Vallecano vs Elche
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5WT287DW/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Como vs Sassuolo
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Como vs Sassuolo
 https://admin2.pawtner.com.au/como.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gMMZ8sq/BUNDES-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",RB Leipzig vs Elversberg - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",RB Leipzig vs Elversberg - Stream 1
 https://admin2.pawtner.com.au/ncaa15.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gMMZ8sq/BUNDES-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",RB Leipzig vs Elversberg - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",RB Leipzig vs Elversberg - Stream 2
 https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYSXyLcr/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 1
 https://admin2.pawtner.com.au/ncaa15.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYSXyLcr/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 2
 https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYSXyLcr/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 3
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Everton - Stream 3
 https://tedesco.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Coventry vs Fulham
 https://admin2.pawtner.com.au/fulham.m3u8
@@ -37,21 +37,21 @@ https://tedesco.pawtner.com.au/golazo.m3u8
 https://tedesco.pawtner.com.au/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Racing Santander vs Espanyol
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6Ck0TH4/LIGA-Game-Placeholder-11.png" group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Roma
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Roma
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXJqrY73/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Chelsea vs Tottenham - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Chelsea vs Tottenham - Stream 1
 https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXJqrY73/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Chelsea vs Tottenham - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Chelsea vs Tottenham - Stream 2
 https://tedesco.pawtner.com.au/prem.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0RSCRXCS/BUNDES-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Frankfurt - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Frankfurt - Stream 1
 https://admin2.pawtner.com.au/ncaa15.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0RSCRXCS/BUNDES-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Frankfurt - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Dortmund vs Frankfurt - Stream 2
 https://admin2.pawtner.com.au/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",éal vs Nashville
 https://tedesco.pawtner.com.au/tsn.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnQvLNZG/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lazio vs Parma
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lazio vs Parma
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MBKhdZ2/LIGA-Game-Placeholder-10.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lens vs Paris
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lens vs Paris
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Deportivo La Coruña
 https://admin2.pawtner.com.au/dep.m3u8
@@ -63,7 +63,7 @@ https://admin.pawtner.com.au/fana2.m3u8
 https://admin.pawtner.com.au/fana3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",New York RB vs Inter Miami
 https://admin2.pawtner.com.au/aztecadeportes.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rss2ZjT/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino
 https://admin2.pawtner.com.au/oldham.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vasco Gama vs Corinthians
 https://admin2.pawtner.com.au/primemx.m3u8
