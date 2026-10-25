@@ -57,19 +57,19 @@ https://admin2.pawtner.com.au/beines.m3u8
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Internacional vs Botafogo
 https://admin.pawtner.com.au/fana.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsSGT65P/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Mirassol vs Sao Paulo
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mirassol vs Sao Paulo
 https://admin.pawtner.com.au/fana2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vitória vs Athletico-PR
 https://admin.pawtner.com.au/fana3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",New York RB vs Inter Miami
 https://admin2.pawtner.com.au/mls.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rss2ZjT/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino - Stream 1
 https://admin.pawtner.com.au/fana4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rss2ZjT/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino - Stream 2 (EN)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino - Stream 2 (EN)
 https://admin.pawtner.com.au/fana4en.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rss2ZjT/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino - Stream 3 (RU)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino - Stream 3 (RU)
 https://admin2.pawtner.com.au/match3ru.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rss2ZjT/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino - Stream 4 (DE)
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Palmeiras vs RB Bragantino - Stream 4 (DE)
 https://admin2.pawtner.com.au/sportdigital.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vasco Gama vs Corinthians - Stream 1
 https://admin.pawtner.com.au/fana5.m3u8
@@ -81,8 +81,14 @@ https://admin.pawtner.com.au/fana6.m3u8
 https://admin2.pawtner.com.au/foxone7mx.m3u8
 #EXTINF:-1 tvg-logo="https://a65695c1.imgggre.pages.dev/mls-761894.png" group-title="ROXIESTREAMS SOCCER (VPN)",Philadelphia Union vs New England
 https://tedesco.pawtner.com.au/tsn.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXJqrY71/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Bahia
-https://admin2.pawtner.com.au/south.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXJqrY71/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Bahia - Stream 1
+https://admin.pawtner.com.au/fana7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXJqrY71/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Bahia - Stream 2 (EN)
+https://admin.pawtner.com.au/fana7en.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXJqrY71/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Bahia - Stream 3 (ES)
+https://admin.pawtner.com.au/fana7es.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXJqrY71/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Santos vs Bahia - Stream 4 (RU)
+https://admin2.pawtner.com.au/match3ru.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Monterrey vs Chivas
 https://admin2.pawtner.com.au/tudn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Colorado Rapids vs Vancouver Whitecaps
