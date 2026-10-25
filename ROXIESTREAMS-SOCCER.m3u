@@ -65,33 +65,17 @@ https://temp.pawtner.com.au/dep.m3u8
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZYWKVPV/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs Real Madrid - Stream 5 (العربية)
 https://temp.pawtner.com.au/arab.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",River Plate vs Racing Club
-https://admin2.pawtner.com.au/mls.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Puebla - Stream 1
-https://admin.pawtner.com.au/fana4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Puebla - Stream 2 (EN)
-https://admin.pawtner.com.au/fana4en.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Puebla - Stream 3 (RU)
-https://admin2.pawtner.com.au/match3ru.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Puebla - Stream 4 (DE)
-https://admin2.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",River Plate vs Racing Club - Stream 1
+https://admin.pawtner.com.au/afaplay2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",River Plate vs Racing Club - Stream 2 (EN)
+https://admin.pawtner.com.au/afaplay2en.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Puebla
+https://admin2.pawtner.com.au/canal5mx.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Querétaro vs Cruz Azul - Stream 1
 https://admin.pawtner.com.au/fana5.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Querétaro vs Cruz Azul - Stream 2 (ES)
 https://admin.pawtner.com.au/fana5es.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",América vs Pachuca - Stream 1
-https://admin.pawtner.com.au/fana4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",América vs Pachuca - Stream 2 (EN)
-https://admin.pawtner.com.au/fana4en.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",América vs Pachuca - Stream 3 (RU)
-https://admin2.pawtner.com.au/match3ru.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",América vs Pachuca - Stream 4 (DE)
-https://admin2.pawtner.com.au/sportdigital.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Santos Laguna - Stream 1
-https://admin.pawtner.com.au/fana4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Santos Laguna - Stream 2 (EN)
-https://admin.pawtner.com.au/fana4en.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Santos Laguna - Stream 3 (RU)
-https://admin2.pawtner.com.au/match3ru.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Santos Laguna - Stream 4 (DE)
-https://admin2.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",América vs Pachuca
+https://admin2.pawtner.com.au/canal5mx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tijuana vs Santos Laguna
+https://admin2.pawtner.com.au/foxone7mx.m3u8
