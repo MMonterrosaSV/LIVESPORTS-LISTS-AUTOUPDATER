@@ -25,9 +25,9 @@ https://admin2.pawtner.com.au/peacock2.m3u8
 https://admin2.pawtner.com.au/main.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Bournemouth - Stream 3
 https://admin2.pawtner.com.au/sky3.m3u8
-#EXTINF:-1 tvg-logo="https://dc86dd13.imgggre.pages.dev/ligue1-401876425.png" group-title="ROXIESTREAMS SOCCER (VPN)",Monaco vs Lille
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Monaco vs Lille
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 tvg-logo="https://dc86dd13.imgggre.pages.dev/seriea-401874972.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atalanta vs Frosinone
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atalanta vs Frosinone
 https://admin2.pawtner.com.au/espn3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Olympiacos vs Kalamata
 https://admin2.pawtner.com.au/olympiacos.m3u8
