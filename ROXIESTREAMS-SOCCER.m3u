@@ -31,14 +31,18 @@ https://admin2.pawtner.com.au/beines.m3u8
 https://admin2.pawtner.com.au/espn3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Olympiacos vs Kalamata
 https://admin2.pawtner.com.au/olympiacos.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hoffenheim vs Bayer Leverkusen
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hoffenheim vs Bayer Leverkusen - Stream 1
 https://admin2.pawtner.com.au/one.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hoffenheim vs Bayer Leverkusen - Stream 2 (ES)
+https://admin2.pawtner.com.au/peacock4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Celta de Vigo vs Real Betis
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K865Knzk/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Marseille vs Le Havre
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Bayern Munchen
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Bayern Munchen - Stream 1
 https://admin2.pawtner.com.au/one.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Bayern Munchen - Stream 2 (ES)
+https://admin2.pawtner.com.au/peacock4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4TRWcNP/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Sunderland vs Leeds United
 https://admin2.pawtner.com.au/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vm5t5cgY/LIGA-Game-Placeholder-4.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lecce vs Juventus
