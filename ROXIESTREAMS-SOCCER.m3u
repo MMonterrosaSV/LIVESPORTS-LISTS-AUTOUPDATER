@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rp6MynLY/SERIE-A-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Milan vs Fiorentina
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Inter Milan vs Fiorentina
 https://tedesco.pawtner.com.au/cbssn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Celtic vs Hibernian
 https://tedesco.pawtner.com.au/foot.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BK5DHRtn/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Athletic Club vs Getafe
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Athletic Club vs Getafe
 https://tedesco.pawtner.com.au/getafe.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDvCJ3jp/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Newcastle - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Newcastle - Stream 1
 https://tedesco.pawtner.com.au/usa.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDvCJ3jp/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Newcastle - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Newcastle - Stream 2
 https://admin2.pawtner.com.au/nfl8.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Brighton - Stream 1
 https://admin2.pawtner.com.au/peacock.m3u8
@@ -15,19 +15,19 @@ https://admin2.pawtner.com.au/peacock.m3u8
 https://admin2.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Liverpool vs Brighton - Stream 3
 https://admin2.pawtner.com.au/fubo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tp05TBqb/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Hull vs Brentford - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hull vs Brentford - Stream 1
 https://admin2.pawtner.com.au/peacock3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tp05TBqb/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Hull vs Brentford - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hull vs Brentford - Stream 2
 https://admin2.pawtner.com.au/golf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1tTbhK7w/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Bournemouth - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Bournemouth - Stream 1
 https://admin2.pawtner.com.au/peacock2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1tTbhK7w/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Bournemouth - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Bournemouth - Stream 2
 https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1tTbhK7w/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Bournemouth - Stream 3
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Bournemouth - Stream 3
 https://admin2.pawtner.com.au/sky3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBPVbrh4/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Monaco vs Lille
+#EXTINF:-1 tvg-logo="https://dc86dd13.imgggre.pages.dev/ligue1-401876425.png" group-title="ROXIESTREAMS SOCCER (VPN)",Monaco vs Lille
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3d0XL5z/SERIE-A-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atalanta vs Frosinone
+#EXTINF:-1 tvg-logo="https://dc86dd13.imgggre.pages.dev/seriea-401874972.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atalanta vs Frosinone
 https://admin2.pawtner.com.au/espn3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Olympiacos vs Kalamata
 https://admin2.pawtner.com.au/olympiacos.m3u8
