@@ -1,3 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA FCTV33",LAST UPDATED 11:41:36 PM GMT+2 26-10-2026
-https://example.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfw53d9F/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Boston Celtics vs Chicago Bulls NBA BR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=boston-celtics-vs-chicago-bulls-nba-br
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfw53d9F/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Boston Celtics vs Chicago Bulls NBA VIP
+https://fctv33-2.mmonterrosa970.workers.dev/?id=boston-celtics-vs-chicago-bulls-nba-vip
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfw53d9F/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Boston Celtics vs Chicago Bulls TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=boston-celtics-vs-chicago-bulls-tyr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgvmzfJX/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Charlotte Hornets vs Washington Wizards NBA BR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=charlotte-hornets-vs-washington-wizards-nba-br
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgvmzfJX/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Charlotte Hornets vs Washington Wizards NBA VIP
+https://fctv33-2.mmonterrosa970.workers.dev/?id=charlotte-hornets-vs-washington-wizards-nba-vip
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgvmzfJX/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Charlotte Hornets vs Washington Wizards TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=charlotte-hornets-vs-washington-wizards-tyr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZC1S1Rj/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Cleveland Cavaliers vs Minnesota Timberwolves NBA BR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=cleveland-cavaliers-vs-minnesota-timberwolves-nba-br
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZC1S1Rj/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Cleveland Cavaliers vs Minnesota Timberwolves NBA VIP
+https://fctv33-2.mmonterrosa970.workers.dev/?id=cleveland-cavaliers-vs-minnesota-timberwolves-nba-vip
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZC1S1Rj/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Cleveland Cavaliers vs Minnesota Timberwolves TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=cleveland-cavaliers-vs-minnesota-timberwolves-tyr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCYxTPSG/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Miami Heat vs Dallas Mavericks FUBO US
+https://fctv33-2.mmonterrosa970.workers.dev/?id=miami-heat-vs-dallas-mavericks-fubo-us
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCYxTPSG/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Miami Heat vs Dallas Mavericks MOVISTAR2
+https://fctv33-2.mmonterrosa970.workers.dev/?id=miami-heat-vs-dallas-mavericks-movistar2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCYxTPSG/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Miami Heat vs Dallas Mavericks TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=miami-heat-vs-dallas-mavericks-tyr

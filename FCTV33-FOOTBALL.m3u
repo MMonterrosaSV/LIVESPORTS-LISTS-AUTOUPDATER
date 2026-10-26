@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sevilla FC vs Ca Osasuna 1X EN
-https://fctv33-2.mmonterrosa970.workers.dev/?id=sevilla-fc-vs-ca-osasuna-1x-en
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sevilla FC vs Ca Osasuna DZ FR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=sevilla-fc-vs-ca-osasuna-dz-fr
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sevilla FC vs Ca Osasuna DZ IT
-https://fctv33-2.mmonterrosa970.workers.dev/?id=sevilla-fc-vs-ca-osasuna-dz-it
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sevilla FC vs Ca Osasuna DZ PT
-https://fctv33-2.mmonterrosa970.workers.dev/?id=sevilla-fc-vs-ca-osasuna-dz-pt
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sevilla FC vs Ca Osasuna FUBO US
-https://fctv33-2.mmonterrosa970.workers.dev/?id=sevilla-fc-vs-ca-osasuna-fubo-us
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sevilla FC vs Ca Osasuna M+ LALIGA
-https://fctv33-2.mmonterrosa970.workers.dev/?id=sevilla-fc-vs-ca-osasuna-m-laliga
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sevilla FC vs Ca Osasuna TV EN
-https://fctv33-2.mmonterrosa970.workers.dev/?id=sevilla-fc-vs-ca-osasuna-tv-en
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="FUTBOL FCTV33",Sevilla FC vs Ca Osasuna TYR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=sevilla-fc-vs-ca-osasuna-tyr
 #EXTINF:-1 group-title="FUTBOL FCTV33",Ballon Dor Ceremony CAL FR
 https://fctv33-2.mmonterrosa970.workers.dev/?id=ballon-dor-ceremony-cal-fr
 #EXTINF:-1 group-title="FUTBOL FCTV33",Ballon Dor Ceremony DZ EN
