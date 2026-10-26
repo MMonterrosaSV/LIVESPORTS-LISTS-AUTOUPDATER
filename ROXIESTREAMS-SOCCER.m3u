@@ -6,25 +6,29 @@ https://admin2.pawtner.com.au/match3ru.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Rizespor vs Trabzonspor
 https://admin2.pawtner.com.au/bein3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Fenerbahçe - Stream 1
-https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Fenerbahçe - Stream 2 (ES)
-https://admin2.pawtner.com.au/peacock4.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santa Clara vs Benfica
-https://tedesco.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",2026 Ballon d'Or
-https://tedesco.pawtner.com.au/foot.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Lyon
-https://tedesco.pawtner.com.au/getafe.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sevilla vs Osasuna - Stream 1
-https://tedesco.pawtner.com.au/usa.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sevilla vs Osasuna - Stream 2
-https://admin2.pawtner.com.au/nfl8.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Walsall vs Salford - Stream 1
-https://admin2.pawtner.com.au/peacock.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Walsall vs Salford - Stream 2
-https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Walsall vs Salford - Stream 3
-https://admin2.pawtner.com.au/fubo.m3u8
+https://admin2.pawtner.com.au/bein4.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Fenerbahçe - Stream 2 (RU)
+https://admin2.pawtner.com.au/match1ru.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3t77Xp/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Santa Clara vs Benfica - Stream 1
+https://admin2.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3t77Xp/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Santa Clara vs Benfica - Stream 2
+https://tedesco.pawtner.com.au/bein4.m3u8
+#EXTINF:-1 tvg-logo="https://sportal365images.com/process/smp-images-production/ballondor.com-en/26102026/6a3019ff-4360-4eca-8111-9e8b315f27c6.png" group-title="ROXIESTREAMS SOCCER (VPN)",2026 Ballon d'Or - Stream 1
+https://admin2.pawtner.com.au/balon.m3u8
+#EXTINF:-1 tvg-logo="https://sportal365images.com/process/smp-images-production/ballondor.com-en/26102026/6a3019ff-4360-4eca-8111-9e8b315f27c6.png" group-title="ROXIESTREAMS SOCCER (VPN)",2026 Ballon d'Or - Stream 2 (ALT)
+https://admin2.pawtner.com.au/ballonalt.m3u8
+#EXTINF:-1 tvg-logo="https://sportal365images.com/process/smp-images-production/ballondor.com-en/26102026/6a3019ff-4360-4eca-8111-9e8b315f27c6.png" group-title="ROXIESTREAMS SOCCER (VPN)",2026 Ballon d'Or - Stream 3 (FR)
+https://admin2.pawtner.com.au/equipe.m3u8
+#EXTINF:-1 tvg-logo="https://sportal365images.com/process/smp-images-production/ballondor.com-en/26102026/6a3019ff-4360-4eca-8111-9e8b315f27c6.png" group-title="ROXIESTREAMS SOCCER (VPN)",2026 Ballon d'Or - Stream 4 (ES)
+https://admin2.pawtner.com.au/dazn.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqZvCCNL/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Lyon - Stream 1
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqZvCCNL/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Lyon - Stream 2 (EN)
+https://admin2.pawtner.com.au/bein.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RKWWM4C/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Sevilla vs Osasuna
+https://admin2.pawtner.com.au/dep.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Walsall vs Salford
+https://admin2.pawtner.com.au/main.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Coritiba vs Grêmio - Stream 1
 https://admin2.pawtner.com.au/peacock3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Coritiba vs Grêmio - Stream 2
