@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Beşiktaş vs İstanbul Başakşehir - Stream 1
+https://admin2.pawtner.com.au/bein4.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Beşiktaş vs İstanbul Başakşehir - Stream 2 (RU)
+https://admin2.pawtner.com.au/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Rizespor vs Trabzonspor
+https://admin2.pawtner.com.au/bein3.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Fenerbahçe - Stream 1
+https://admin2.pawtner.com.au/one.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Fenerbahçe - Stream 2 (ES)
+https://admin2.pawtner.com.au/peacock4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Santa Clara vs Benfica
 https://tedesco.pawtner.com.au/cbssn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",2026 Ballon d'Or
