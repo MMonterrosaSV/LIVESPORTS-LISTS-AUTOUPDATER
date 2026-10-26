@@ -2,8 +2,8 @@ name: Update THETVAPP playlists
 
 on:
   schedule:
-    # Every 24 H (UTC)
-    - cron: "0 0 * * *"
+    # Every 5 days (UTC)
+  - cron: "0 0 */5 * *"
   workflow_dispatch:
 
 permissions:
