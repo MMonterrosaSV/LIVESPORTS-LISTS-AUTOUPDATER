@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="FUTBOL FCTV33",Ballon Dor Ceremony CAL FR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=ballon-dor-ceremony-cal-fr
-#EXTINF:-1 group-title="FUTBOL FCTV33",Ballon Dor Ceremony DZ EN
-https://fctv33-2.mmonterrosa970.workers.dev/?id=ballon-dor-ceremony-dz-en
-#EXTINF:-1 group-title="FUTBOL FCTV33",Ballon Dor Ceremony DZ IT
-https://fctv33-2.mmonterrosa970.workers.dev/?id=ballon-dor-ceremony-dz-it
-#EXTINF:-1 group-title="FUTBOL FCTV33",Ballon Dor Ceremony DZ PT
-https://fctv33-2.mmonterrosa970.workers.dev/?id=ballon-dor-ceremony-dz-pt
-#EXTINF:-1 group-title="FUTBOL FCTV33",Ballon Dor Ceremony MOVISTAR2
-https://fctv33-2.mmonterrosa970.workers.dev/?id=ballon-dor-ceremony-movistar2
+#EXTINF:-1 group-title="FUTBOL FCTV33",LAST UPDATED 02:15:03 AM GMT+2 27-10-2026
+https://example.com

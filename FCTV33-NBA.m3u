@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfw53d9F/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Boston Celtics vs Chicago Bulls NBA BR
 https://fctv33-2.mmonterrosa970.workers.dev/?id=boston-celtics-vs-chicago-bulls-nba-br
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfw53d9F/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Boston Celtics vs Chicago Bulls NBA VIP
-https://fctv33-2.mmonterrosa970.workers.dev/?id=boston-celtics-vs-chicago-bulls-nba-vip
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfw53d9F/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Boston Celtics vs Chicago Bulls TYR
 https://fctv33-2.mmonterrosa970.workers.dev/?id=boston-celtics-vs-chicago-bulls-tyr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgvmzfJX/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Charlotte Hornets vs Washington Wizards NBA BR
@@ -17,9 +15,29 @@ https://fctv33-2.mmonterrosa970.workers.dev/?id=cleveland-cavaliers-vs-minnesota
 https://fctv33-2.mmonterrosa970.workers.dev/?id=cleveland-cavaliers-vs-minnesota-timberwolves-nba-vip
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZC1S1Rj/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Cleveland Cavaliers vs Minnesota Timberwolves TYR
 https://fctv33-2.mmonterrosa970.workers.dev/?id=cleveland-cavaliers-vs-minnesota-timberwolves-tyr
+#EXTINF:-1 tvg-logo="https://acb3e05e.imgggre.pages.dev/nba-401909876.png" group-title="NBA FCTV33",Golden State Valkyries vs Atlanta Dream AI TH
+https://fctv33-2.mmonterrosa970.workers.dev/?id=golden-state-valkyries-vs-atlanta-dream-ai-th
+#EXTINF:-1 tvg-logo="https://acb3e05e.imgggre.pages.dev/nba-401909876.png" group-title="NBA FCTV33",Golden State Valkyries vs Atlanta Dream MOVISTAR2
+https://fctv33-2.mmonterrosa970.workers.dev/?id=golden-state-valkyries-vs-atlanta-dream-movistar2
+#EXTINF:-1 tvg-logo="https://acb3e05e.imgggre.pages.dev/nba-401909876.png" group-title="NBA FCTV33",Golden State Valkyries vs Atlanta Dream NOW IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=golden-state-valkyries-vs-atlanta-dream-now-it
+#EXTINF:-1 tvg-logo="https://acb3e05e.imgggre.pages.dev/nba-401909876.png" group-title="NBA FCTV33",Golden State Valkyries vs Atlanta Dream PEA US
+https://fctv33-2.mmonterrosa970.workers.dev/?id=golden-state-valkyries-vs-atlanta-dream-pea-us
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCYxTPSG/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Miami Heat vs Dallas Mavericks FUBO US
 https://fctv33-2.mmonterrosa970.workers.dev/?id=miami-heat-vs-dallas-mavericks-fubo-us
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCYxTPSG/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Miami Heat vs Dallas Mavericks MOVISTAR2
 https://fctv33-2.mmonterrosa970.workers.dev/?id=miami-heat-vs-dallas-mavericks-movistar2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCYxTPSG/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Miami Heat vs Dallas Mavericks TYR
 https://fctv33-2.mmonterrosa970.workers.dev/?id=miami-heat-vs-dallas-mavericks-tyr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9X1zqQg/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Milwaukee Bucks vs Indiana Pacers NBA BR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=milwaukee-bucks-vs-indiana-pacers-nba-br
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9X1zqQg/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Milwaukee Bucks vs Indiana Pacers NBA VIP
+https://fctv33-2.mmonterrosa970.workers.dev/?id=milwaukee-bucks-vs-indiana-pacers-nba-vip
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9X1zqQg/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Milwaukee Bucks vs Indiana Pacers TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=milwaukee-bucks-vs-indiana-pacers-tyr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gyr5xY5/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Oklahoma City Thunder vs Phoenix Suns NBA BR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=oklahoma-city-thunder-vs-phoenix-suns-nba-br
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gyr5xY5/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Oklahoma City Thunder vs Phoenix Suns NBA VIP
+https://fctv33-2.mmonterrosa970.workers.dev/?id=oklahoma-city-thunder-vs-phoenix-suns-nba-vip
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gyr5xY5/NBA-Game-Placeholder.png" group-title="NBA FCTV33",Oklahoma City Thunder vs Phoenix Suns TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=oklahoma-city-thunder-vs-phoenix-suns-tyr
