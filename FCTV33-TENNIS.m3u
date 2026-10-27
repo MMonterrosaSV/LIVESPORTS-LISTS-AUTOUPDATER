@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="TENNIS FCTV33",LAST UPDATED 03:04:05 PM GMT+2 27-10-2026
-https://example.com
+#EXTINF:-1 group-title="TENNIS FCTV33",Karen Khachanov vs Carlos Alcaraz Garfia AI TH
+https://fctv33-2.mmonterrosa970.workers.dev/?id=karen-khachanov-vs-carlos-alcaraz-garfia-ai-th
+#EXTINF:-1 group-title="TENNIS FCTV33",Karen Khachanov vs Carlos Alcaraz Garfia CAL FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=karen-khachanov-vs-carlos-alcaraz-garfia-cal-fr
+#EXTINF:-1 group-title="TENNIS FCTV33",Karen Khachanov vs Carlos Alcaraz Garfia MOVISTAR2
+https://fctv33-2.mmonterrosa970.workers.dev/?id=karen-khachanov-vs-carlos-alcaraz-garfia-movistar2
+#EXTINF:-1 group-title="TENNIS FCTV33",Karen Khachanov vs Carlos Alcaraz Garfia NOW IT
+https://fctv33-2.mmonterrosa970.workers.dev/?id=karen-khachanov-vs-carlos-alcaraz-garfia-now-it
+#EXTINF:-1 group-title="TENNIS FCTV33",Karen Khachanov vs Carlos Alcaraz Garfia TD EN
+https://fctv33-2.mmonterrosa970.workers.dev/?id=karen-khachanov-vs-carlos-alcaraz-garfia-td-en
