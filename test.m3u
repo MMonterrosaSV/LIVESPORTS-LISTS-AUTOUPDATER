@@ -1,4 +1,6 @@
-#EXTINF:-1 tvg-id="TVE" group-title="Movistar+" tvg-name="LA 1",LA 1
+
+#EXTM3U
+#EXTINF:-1,LA 1 Test
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8c42048605434d98af4eb24a4842bd00:79b5baf34272b66d669f3a674b8a925c,de905b4aab4649b4965776308e9aaf6e:08ebf7283dfb8a9bc8087ad22dd3c268
