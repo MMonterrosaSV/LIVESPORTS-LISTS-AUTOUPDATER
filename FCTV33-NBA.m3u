@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA FCTV33",LAST UPDATED 11:57:37 AM GMT+2 28-10-2026
-https://example.com
+#EXTINF:-1 group-title="NBA FCTV33",Golden State Warriors vs Los Angeles Lakers NBA VIP
+https://fctv33-2.mmonterrosa970.workers.dev/?id=golden-state-warriors-vs-los-angeles-lakers-nba-vip
+#EXTINF:-1 group-title="NBA FCTV33",Golden State Warriors vs Los Angeles Lakers TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=golden-state-warriors-vs-los-angeles-lakers-tyr
+#EXTINF:-1 group-title="NBA FCTV33",Phoenix Suns vs Denver Nuggets TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=phoenix-suns-vs-denver-nuggets-tyr
