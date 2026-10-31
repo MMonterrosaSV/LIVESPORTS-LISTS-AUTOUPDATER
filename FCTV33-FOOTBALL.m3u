@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="FUTBOL FCTV33",Real Madrid Castilla vs FC Cartagena MOVISTAR2
-https://fctv33-2.mmonterrosa970.workers.dev/?id=real-madrid-castilla-vs-fc-cartagena-movistar2
+#EXTINF:-1 group-title="FUTBOL FCTV33",FC Barcelona vs Deportivo Alavs MOVISTAR2
+https://fctv33-2.mmonterrosa970.workers.dev/?id=fc-barcelona-vs-deportivo-alavs-movistar2
 #EXTINF:-1 group-title="FUTBOL FCTV33",Troyes vs Le Mans 1X EN
 https://fctv33-2.mmonterrosa970.workers.dev/?id=troyes-vs-le-mans-1x-en
 #EXTINF:-1 group-title="FUTBOL FCTV33",Troyes vs Le Mans DZ ES
@@ -27,3 +27,5 @@ https://fctv33-2.mmonterrosa970.workers.dev/?id=ac-milan-vs-inter-milan-sport-pt
 https://fctv33-2.mmonterrosa970.workers.dev/?id=ac-milan-vs-inter-milan-test-es
 #EXTINF:-1 group-title="FUTBOL FCTV33",AC Milan vs Inter Milan TV MY
 https://fctv33-2.mmonterrosa970.workers.dev/?id=ac-milan-vs-inter-milan-tv-my
+#EXTINF:-1 group-title="FUTBOL FCTV33",AC Milan vs Inter Milan TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=ac-milan-vs-inter-milan-tyr
