@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA FCTV33",Golden State Warriors vs Los Angeles Lakers NBA VIP
-https://fctv33-2.mmonterrosa970.workers.dev/?id=golden-state-warriors-vs-los-angeles-lakers-nba-vip
-#EXTINF:-1 group-title="NBA FCTV33",Golden State Warriors vs Los Angeles Lakers TYR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=golden-state-warriors-vs-los-angeles-lakers-tyr
-#EXTINF:-1 group-title="NBA FCTV33",Phoenix Suns vs Denver Nuggets TYR
-https://fctv33-2.mmonterrosa970.workers.dev/?id=phoenix-suns-vs-denver-nuggets-tyr
+#EXTINF:-1 group-title="NBA FCTV33",Utah Jazz vs Portland Trail Blazers CAL FR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=utah-jazz-vs-portland-trail-blazers-cal-fr
+#EXTINF:-1 group-title="NBA FCTV33",Utah Jazz vs Portland Trail Blazers DZ ES
+https://fctv33-2.mmonterrosa970.workers.dev/?id=utah-jazz-vs-portland-trail-blazers-dz-es
+#EXTINF:-1 group-title="NBA FCTV33",Utah Jazz vs Portland Trail Blazers NBA BR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=utah-jazz-vs-portland-trail-blazers-nba-br
+#EXTINF:-1 group-title="NBA FCTV33",Utah Jazz vs Portland Trail Blazers NBA VIP
+https://fctv33-2.mmonterrosa970.workers.dev/?id=utah-jazz-vs-portland-trail-blazers-nba-vip
+#EXTINF:-1 group-title="NBA FCTV33",Utah Jazz vs Portland Trail Blazers TYR
+https://fctv33-2.mmonterrosa970.workers.dev/?id=utah-jazz-vs-portland-trail-blazers-tyr

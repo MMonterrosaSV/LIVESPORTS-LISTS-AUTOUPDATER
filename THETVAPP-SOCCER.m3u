@@ -1,3 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="FUTBOL THETVAPP",LAST UPDATED 05:19 AM 31-10-2026 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="FUTBOL THETVAPP",St.Louis City vs San Diego FC - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg5NTYvYS5uZXVmOS5zcGFjZS9jYXhp
+#EXTINF:-1 group-title="FUTBOL THETVAPP",Sporting Kansas City vs FC Dallas - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg5NTQvYS5uZXd2ZWdhbjM4LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",Columbus Crew vs DC United - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg5NDgvYS5uZXd2ZWdhbjM1LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",FC Cincinnati vs Philadelphia Union - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg5NDcvYS5uZXd2ZWdhbjMyLnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",New York City FC vs CF Montréal - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg5NTEvYS5uZXd2ZWdhbjM3LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",Tottenham Hotspur vs Crystal Palace - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg5NDQvYS5uZXd2ZWdhbjI4LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",FC Bayern München vs Borussia Dortmund - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg5NDIvYS5uZXd2ZWdhbjMwLnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",Real Betis vs Málaga CF - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTg5NDMvYS5iZXR0ZXJiZTYuc3BhY2UvY2F4aQ
