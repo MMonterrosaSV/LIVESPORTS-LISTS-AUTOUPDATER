@@ -47,12 +47,12 @@ https://tedesco.pawtner.com.au/bein2.m3u8
 https://admin2.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Coritiba vs Vitória
 https://admin.pawtner.com.au/fanatiz.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Milan vs Inter Milan - Stream 1
-https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Milan vs Inter Milan - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8Znc5QX/SERIE-A-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Milan vs Inter Milan - Stream 1
+https://admin2.pawtner.com.au/golazo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8Znc5QX/SERIE-A-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Milan vs Inter Milan - Stream 2
 https://tedesco.pawtner.com.au/bein2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Fulham
-https://admin2.pawtner.com.au/canal5mx.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fy4V20w/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Aston Villa vs Fulham
+https://admin2.pawtner.com.au/main.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs Deportivo Alavés
 https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Pachuca vs Tigres
