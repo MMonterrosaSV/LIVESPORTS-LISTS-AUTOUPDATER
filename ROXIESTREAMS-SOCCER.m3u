@@ -17,11 +17,11 @@ https://admin2.pawtner.com.au/main.m3u8
 https://admin2.pawtner.com.au/burnley.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",UEFA Goals Shows
 https://admin2.pawtner.com.au/tnt3.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Bayern München - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpNGMnhy/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Bayern München - Stream 1
 https://admin2.pawtner.com.au/tnt2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Bayern München - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpNGMnhy/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Bayern München - Stream 2
 https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Bayern München - Stream 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpNGMnhy/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Bayern München - Stream 3
 https://admin2.pawtner.com.au/burnley.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs Aston Villa - Stream 1
 https://admin2.pawtner.com.au/tnt.m3u8
@@ -39,9 +39,9 @@ https://admin2.pawtner.com.au/tnt2.m3u8
 https://tedesco.pawtner.com.au/now.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",LASK Linz vs Slovan Bratislava
 https://admin2.pawtner.com.au/slovan.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Roma - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxQ2gLbf/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Roma - Stream 1
 https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Roma - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxQ2gLbf/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Roma - Stream 2
 https://tedesco.pawtner.com.au/now.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Villarreal vs PSG
 https://admin2.pawtner.com.au/tnt4.m3u8
