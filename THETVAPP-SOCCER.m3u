@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="FUTBOL THETVAPP",AEK Athens vs Real Madrid - LIVE - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDAvYS5uZXd2ZWdhbjMyLnNwYWNlL2NheGk
-#EXTINF:-1 group-title="FUTBOL THETVAPP",AEK Athens vs Real Madrid - LIVE - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDIvYS5uZXd2ZWdhbjM1LnNwYWNlL2NheGk
-#EXTINF:-1 group-title="FUTBOL THETVAPP",Fenerbahçe vs Liverpool FC - LIVE - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDQvYS5uZXVmOS5zcGFjZS9jYXhp
-#EXTINF:-1 group-title="FUTBOL THETVAPP",Fenerbahçe vs Liverpool FC - LIVE - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDEvYS5uZXd2ZWdhbjM0LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",Borussia Dortmund vs Real Betis - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDUvYS5uZXd2ZWdhbjM4LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",FC Porto vs SSC Napoli - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDcvYS5uZXd2ZWdhbjM3LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",RB Leipzig vs Manchester City - LIVE - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDYvYS5uZXd2ZWdhbjExLnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",RB Leipzig vs Manchester City - LIVE - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDkvYS5uZXd2ZWdhbjE2LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",RC Lens vs Como - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNTAvYS5oYXRlbWFtZXJlMy5zcGFjZS9jYXhp
+#EXTINF:-1 group-title="FUTBOL THETVAPP",SK Slavia Praha vs Arsenal - LIVE
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDgvYS5uZXd2ZWdhbjQwLnNwYWNlL2NheGk
