@@ -7,9 +7,9 @@ https://admin2.formaturamaxi.com.br/tnt4.m3u8
 https://admin2.pawtner.com.au/virgin.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Rennes vs Olympiakos Piraeus - Stream 2 [BACKUP]
 https://admin2.formaturamaxi.com.br/virgin.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",AEK Athens vs Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gX1NYPp/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",AEK Athens vs Real Madrid
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",AEK Athens vs Real Madrid [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gX1NYPp/UEL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",AEK Athens vs Real Madrid [BACKUP]
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fenerbahçe vs Liverpool
 https://admin2.pawtner.com.au/oldham.m3u8
