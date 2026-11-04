@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="FUTBOL THETVAPP",AEK Athens vs Real Madrid - LIVE - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDIvYS5odWl0OC5zcGFjZS9jYXhp
-#EXTINF:-1 group-title="FUTBOL THETVAPP",AEK Athens vs Real Madrid - LIVE - Server 2
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDAvYS5uZXd2ZWdhbjMyLnNwYWNlL2NheGk
+#EXTINF:-1 group-title="FUTBOL THETVAPP",AEK Athens vs Real Madrid - LIVE - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDIvYS5uZXd2ZWdhbjM1LnNwYWNlL2NheGk
 #EXTINF:-1 group-title="FUTBOL THETVAPP",Fenerbahçe vs Liverpool FC - LIVE - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDQvYS5uZXd2ZWdhbjM2LnNwYWNlL2NheGk
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDQvYS5uZXVmOS5zcGFjZS9jYXhp
 #EXTINF:-1 group-title="FUTBOL THETVAPP",Fenerbahçe vs Liverpool FC - LIVE - Server 2
 https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9jaGF0Z3B0LmhlcmVpc21hbi5uZXQvcGxheWxpc3QvNTkyNDEvYS5uZXd2ZWdhbjM0LnNwYWNlL2NheGk
