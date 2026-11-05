@@ -27,10 +27,18 @@ https://temp.formaturamaxi.com.br/tnt4.m3u8
 https://tedesco.pawtner.com.au/tnt3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Thun vs Hearts [BACKUP]
 https://tedesco.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate
-https://temp.pawtner.com.au/abbiecadabri.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate [BACKUP]
-https://temp.formaturamaxi.com.br/abbiecadabri.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate - Stream 1
+https://temp.pawtner.com.au/afaplay.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate - Stream 1 [BACKUP]
+https://temp.formaturamaxi.com.br/afaplay.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate - Stream 2 (EN)
+https://temp.pawtner.com.au/afaplayen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate - Stream 2 (EN) [BACKUP]
+https://temp.formaturamaxi.com.br/afaplayen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate - Stream 3 (DE)
+https://temp.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate - Stream 3 (DE) [BACKUP]
+https://temp.formaturamaxi.com.br/sportdigital.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",AZ vs Juventus
 https://temp.pawtner.com.au/tnt4.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",AZ vs Juventus [BACKUP]
