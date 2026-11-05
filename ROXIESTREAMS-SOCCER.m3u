@@ -15,9 +15,9 @@ https://tedesco.formaturamaxi.com.br/cbssn.m3u8
 https://tedesco.pawtner.com.au/tnt3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Thun vs Hearts [BACKUP]
 https://tedesco.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bayer Leverkusen vs Marseille
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr0R92Hb/LIGA-Game-Placeholder-5.png" group-title="ROXIESTREAMS SOCCER (VPN)",Bayer Leverkusen vs Marseille
 https://tedesco.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bayer Leverkusen vs Marseille [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr0R92Hb/LIGA-Game-Placeholder-5.png" group-title="ROXIESTREAMS SOCCER (VPN)",Bayer Leverkusen vs Marseille [BACKUP]
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Celtic vs Beşiktaş - Stream 1
 https://tedesco.pawtner.com.au/tnt3.m3u8
@@ -27,7 +27,7 @@ https://tedesco.formaturamaxi.com.br/tnt3.m3u8
 https://temp.pawtner.com.au/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Celtic vs Beşiktaş - Stream 2 [BACKUP]
 https://temp.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sunderland vs Dinamo Zagreb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hmsJ9qF/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Sunderland vs Dinamo Zagreb
 https://tedesco.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sunderland vs Dinamo Zagreb [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hmsJ9qF/LIGA-Game-Placeholder-3.png" group-title="ROXIESTREAMS SOCCER (VPN)",Sunderland vs Dinamo Zagreb [BACKUP]
 https://tedesco.formaturamaxi.com.br/tnt.m3u8
