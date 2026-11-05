@@ -3,14 +3,10 @@
 https://temp.pawtner.com.au/tnt2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sparta Praha vs AFC Bournemouth [BACKUP]
 https://temp.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Hoffenheim - Stream 1
-https://tedesco.pawtner.com.au/tnt3.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Hoffenheim - Stream 1 [BACKUP]
-https://tedesco.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Hoffenheim - Stream 2 (ES)
-https://temp.pawtner.com.au/tudn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Hoffenheim - Stream 2 (ES) [BACKUP]
-https://temp.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Hoffenheim
+https://tedesco.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Crystal Palace vs Hoffenheim [BACKUP]
+https://tedesco.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Real Sociedad vs Olympique Lyonnais - Stream 1
 https://tedesco.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Real Sociedad vs Olympique Lyonnais - Stream 1 [BACKUP]
@@ -19,6 +15,10 @@ https://tedesco.formaturamaxi.com.br/tnt.m3u8
 https://temp.pawtner.com.au/virgin.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Real Sociedad vs Olympique Lyonnais - Stream 2 [BACKUP]
 https://temp.formaturamaxi.com.br/virgin.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Thun vs Hearts
+https://tedesco.pawtner.com.au/tnt3.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Thun vs Hearts [BACKUP]
+https://tedesco.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate
 https://temp.pawtner.com.au/abbiecadabri.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aldosivi vs River Plate [BACKUP]
@@ -31,7 +31,15 @@ https://tedesco.formaturamaxi.com.br/tnt.m3u8
 https://temp.pawtner.com.au/virgin.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bayer Leverkusen vs Olympique Marseille - Stream 2 [BACKUP]
 https://temp.formaturamaxi.com.br/virgin.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Celtic vs Beşiktaş
+https://tedesco.pawtner.com.au/tnt3.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Celtic vs Beşiktaş [BACKUP]
+https://tedesco.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Brighton &amp; Hove Albion
-https://tedesco.pawtner.com.au/cbssn.m3u8
+https://temp.pawtner.com.au/tnt2.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Getafe vs Brighton &amp; Hove Albion [BACKUP]
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+https://temp.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sunderland vs Dinamo Zagreb
+https://tedesco.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sunderland vs Dinamo Zagreb [BACKUP]
+https://tedesco.formaturamaxi.com.br/tnt.m3u8
