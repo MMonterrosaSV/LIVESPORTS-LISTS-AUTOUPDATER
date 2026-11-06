@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93YYStPt/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg - Stream 1
 https://tedesco.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg - Stream 1 [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93YYStPt/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg - Stream 1 [BACKUP]
 https://tedesco.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93YYStPt/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg - Stream 2
 https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg - Stream 2 [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93YYStPt/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg - Stream 2 [BACKUP]
 https://admin2.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Oxford City vs Leicester City
 https://tedesco.pawtner.com.au/cbssn.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Oxford City vs Leicester City [BACKUP]
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Derby County vs Bolton Wanderers
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw2npVsq/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Derby County vs Bolton Wanderers
 https://tedesco.pawtner.com.au/tnt3.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Derby County vs Bolton Wanderers [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw2npVsq/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Derby County vs Bolton Wanderers [BACKUP]
 https://tedesco.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Necaxa vs Tijuana - Stream 1
 https://tedesco.pawtner.com.au/tnt3.m3u8
