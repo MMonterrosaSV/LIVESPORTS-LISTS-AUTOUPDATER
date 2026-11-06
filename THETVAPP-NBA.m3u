@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA THETVAPP",Golden State Warriors vs Miami Heat - LIVE - Server 1
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQubWFsZWs1LnNwYWNlL3BsYXlsaXN0LzU5MzY2L2EubmV3dmVnYW4yMC5zcGFjZS9jYXhp
-#EXTINF:-1 group-title="NBA THETVAPP",Golden State Warriors vs Miami Heat - LIVE - Server 2
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQubWFzaHJlemFsaS5zcGFjZS9wbGF5bGlzdC81OTM2MC9hLm5ld3ZlZ2FuNi5zcGFjZS9jYXhp
-#EXTINF:-1 group-title="NBA THETVAPP",Golden State Warriors vs Miami Heat - LIVE - Server 3
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUxLnNwYWNlL3BsYXlsaXN0LzU5MzY1L2EubmV3dmVnYW4xNy5zcGFjZS9jYXhp
-#EXTINF:-1 group-title="NBA THETVAPP",Phoenix Suns vs Orlando Magic - LIVE
-https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQubWFsZWs1LnNwYWNlL3BsYXlsaXN0LzU5MzU2L2EubmV3dmVnYW40LnNwYWNlL2NheGk
+#EXTINF:-1 group-title="NBA THETVAPP",LAST UPDATED 08:01 AM 06-11-2026 GMT+2
+https://example.com/
