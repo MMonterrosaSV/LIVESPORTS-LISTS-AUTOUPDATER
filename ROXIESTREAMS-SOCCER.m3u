@@ -1,49 +1,197 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hamburger SV vs Borussia M'gladbach
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bristol City vs Norwich City
 https://tedesco.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hamburger SV vs Borussia M'gladbach [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Bristol City vs Norwich City [BACKUP]
 https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wrexham vs Wolves
 https://tedesco.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toulouse vs Strasbourg [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wrexham vs Wolves [BACKUP]
 https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Oxford City vs Leicester City
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Oxford City vs Leicester City [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham [BACKUP]
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Venezia vs Udinese
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Málaga vs Racing Santander
 https://admin2.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Venezia vs Udinese [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Málaga vs Racing Santander [BACKUP]
 https://admin2.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Derby County vs Bolton Wanderers
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mainz 05 vs Bayern München
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Derby County vs Bolton Wanderers [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Mainz 05 vs Bayern München [BACKUP]
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Coventry City - Stream 1
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Birmingham City vs Swansea City - Stream 1
 https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Coventry City - Stream 1 [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Birmingham City vs Swansea City - Stream 1 [BACKUP]
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Coventry City - Stream 2
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Birmingham City vs Swansea City - Stream 2
 https://admin2.pawtner.com.au/usa.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Everton vs Coventry City - Stream 2 [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Birmingham City vs Swansea City - Stream 2 [BACKUP]
 https://admin2.formaturamaxi.com.br/usa.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sevilla vs Deportivo Alavés
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cardiff City vs Burnley
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Sevilla vs Deportivo Alavés [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Cardiff City vs Burnley [BACKUP]
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vitória vs Fluminense
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Blackburn Rovers vs West Ham
 https://tedesco.pawtner.com.au/fana.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vitória vs Fluminense [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Blackburn Rovers vs West Ham [BACKUP]
 https://tedesco.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Necaxa vs Tijuana
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Watford vs Middlesbrough
 https://admin2.pawtner.com.au/vix.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Necaxa vs Tijuana [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Watford vs Middlesbrough [BACKUP]
 https://admin2.formaturamaxi.com.br/vix.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético San Luis vs Juárez
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Hull City
 https://admin2.pawtner.com.au/vix2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético San Luis vs Juárez [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Arsenal vs Hull City [BACKUP]
 https://admin2.formaturamaxi.com.br/vix2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Santos Laguna
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fulham vs Newcastle
 https://admin2.pawtner.com.au/espnmx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlante vs Santos Laguna [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fulham vs Newcastle [BACKUP]
 https://admin2.formaturamaxi.com.br/espnmx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Espanyol vs Deportivo La Coruña
+https://admin2.pawtner.com.au/cbssn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Espanyol vs Deportivo La Coruña [BACKUP]
+https://admin2.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 1
+https://admin2.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 2 (EN)
+https://admin2.pawtner.com.au/fanaen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 2 (EN) [BACKUP]
+https://admin2.formaturamaxi.com.br/fanaen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 3 (ES)
+https://admin2.pawtner.com.au/fanaes.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 3 (ES) [BACKUP]
+https://admin2.formaturamaxi.com.br/fanaes.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 4 (DE)
+https://admin2.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 4 (DE) [BACKUP]
+https://admin2.formaturamaxi.com.br/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 5 (RU)
+https://admin2.pawtner.com.au/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Galatasaray vs Amed SK - Stream 5 (RU) [BACKUP]
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Parma vs Bologna
+https://admin2.pawtner.com.au/vix.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Parma vs Bologna [BACKUP]
+https://admin2.formaturamaxi.com.br/vix.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Altrincham vs Notts County - Stream 1
+https://admin2.pawtner.com.au/fana2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Altrincham vs Notts County - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/fana2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Altrincham vs Notts County - Stream 2 (RU)
+https://admin2.pawtner.com.au/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Altrincham vs Notts County - Stream 2 (RU) [BACKUP]
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Werder Bremen
+https://tedesco.pawtner.com.au/golazo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Werder Bremen [BACKUP]
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Osasuna vs Athletic Club
+https://admin2.pawtner.com.au/cbssn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Osasuna vs Athletic Club [BACKUP]
+https://admin2.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 1
+https://admin2.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 2 (RU)
+https://admin2.pawtner.com.au/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 2 (RU) [BACKUP]
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aberdeen vs Hibernian
+https://admin2.pawtner.com.au/fana2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aberdeen vs Hibernian [BACKUP]
+https://admin2.formaturamaxi.com.br/fana2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 1
+https://admin2.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 2 (EN)
+https://admin2.pawtner.com.au/fanaen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 2 (EN) [BACKUP]
+https://admin2.formaturamaxi.com.br/fanaen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 3 (ES)
+https://admin2.pawtner.com.au/fanaes.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 3 (ES) [BACKUP]
+https://admin2.formaturamaxi.com.br/fanaes.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 4 (DE)
+https://admin2.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 4 (DE) [BACKUP]
+https://admin2.formaturamaxi.com.br/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 5 (RU)
+https://admin2.pawtner.com.au/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Auxerre vs Paris - Stream 5 (RU) [BACKUP]
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Sassuolo
+https://admin2.pawtner.com.au/vix.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Roma vs Sassuolo [BACKUP]
+https://admin2.formaturamaxi.com.br/vix.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",St. Mirren vs Rangers
+https://tedesco.pawtner.com.au/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",St. Mirren vs Rangers [BACKUP]
+https://tedesco.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Peterborough United vs Reading - Stream 1
+https://admin2.pawtner.com.au/fana2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Peterborough United vs Reading - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/fana2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Peterborough United vs Reading - Stream 2 (RU)
+https://admin2.pawtner.com.au/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Peterborough United vs Reading - Stream 2 (RU) [BACKUP]
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Valencia vs Real Madrid
+https://admin2.pawtner.com.au/cbssn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Valencia vs Real Madrid [BACKUP]
+https://admin2.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 1
+https://admin2.pawtner.com.au/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 2 (EN)
+https://admin2.pawtner.com.au/fanaen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 2 (EN) [BACKUP]
+https://admin2.formaturamaxi.com.br/fanaen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 3 (ES)
+https://admin2.pawtner.com.au/fanaes.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 3 (ES) [BACKUP]
+https://admin2.formaturamaxi.com.br/fanaes.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 4 (DE)
+https://admin2.pawtner.com.au/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 4 (DE) [BACKUP]
+https://admin2.formaturamaxi.com.br/sportdigital.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 5 (RU)
+https://admin2.pawtner.com.au/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes - Stream 5 (RU) [BACKUP]
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Defensa Y Justicia
+https://tedesco.pawtner.com.au/tnt3.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Defensa Y Justicia [BACKUP]
+https://tedesco.formaturamaxi.com.br/tnt3.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Grêmio
+https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Grêmio [BACKUP]
+https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs Charlotte
+https://admin2.pawtner.com.au/foxone4mx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs Charlotte [BACKUP]
+https://admin2.formaturamaxi.com.br/foxone4mx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Philadelphia Union vs Toronto FC
+https://admin2.pawtner.com.au/primemx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Philadelphia Union vs Toronto FC [BACKUP]
+https://admin2.formaturamaxi.com.br/primemx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Pachuca
+https://admin2.pawtner.com.au/canal5mx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlas vs Pachuca [BACKUP]
+https://admin2.formaturamaxi.com.br/canal5mx.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres UANL vs Cruz Azul
+https://admin2.pawtner.com.au/tudnus.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Tigres UANL vs Cruz Azul [BACKUP]
+https://admin2.formaturamaxi.com.br/tudnus.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toluca vs Monterrey
+https://admin.pawtner.com.au/mls.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Toluca vs Monterrey [BACKUP]
+https://admin.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Pumas UNAM vs América
+https://admin.pawtner.com.au/mls.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Pumas UNAM vs América [BACKUP]
+https://admin.formaturamaxi.com.br/mls.m3u8
