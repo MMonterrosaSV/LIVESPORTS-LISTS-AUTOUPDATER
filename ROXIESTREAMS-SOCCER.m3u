@@ -71,21 +71,21 @@ https://tedesco.formaturamaxi.com.br/golazo.m3u8
 https://admin2.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Altrincham vs Notts County [BACKUP]
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Werder Bremen
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLwT9LR8/LIGA-Game-Placeholder-9.png" group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Werder Bremen
 https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Werder Bremen [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLwT9LR8/LIGA-Game-Placeholder-9.png" group-title="ROXIESTREAMS SOCCER (VPN)",Stuttgart vs Werder Bremen [BACKUP]
 https://admin2.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Osasuna vs Athletic Club
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6qQK6nh/LIGA-Game-Placeholder-10.png" group-title="ROXIESTREAMS SOCCER (VPN)",Osasuna vs Athletic Club
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Osasuna vs Athletic Club [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6qQK6nh/LIGA-Game-Placeholder-10.png" group-title="ROXIESTREAMS SOCCER (VPN)",Osasuna vs Athletic Club [BACKUP]
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPqL3Kqb/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 1
 https://admin2.pawtner.com.au/fana.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 1 [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPqL3Kqb/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 1 [BACKUP]
 https://admin2.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 2 (RU)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPqL3Kqb/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 2 (RU)
 https://admin2.pawtner.com.au/match3ru.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 2 (RU) [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPqL3Kqb/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nottingham vs Manchester City - Stream 2 (RU) [BACKUP]
 https://admin2.formaturamaxi.com.br/match3ru.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Aberdeen vs Hibernian
 https://admin2.pawtner.com.au/fana2.m3u8
