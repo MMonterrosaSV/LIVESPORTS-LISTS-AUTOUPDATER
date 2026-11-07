@@ -139,17 +139,21 @@ https://admin2.formaturamaxi.com.br/rma.m3u8
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNwHGXzm/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",PSG vs Troyes [BACKUP]
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Defensa Y Justicia
-https://temp.pawtner.com.au/fana.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Defensa Y Justicia [BACKUP]
-https://temp.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Defensa Y Justicia - Stream 1
+https://temp.pawtner.com.au/afaplay.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Defensa Y Justicia - Stream 1 [BACKUP]
+https://temp.formaturamaxi.com.br/afaplay.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Defensa Y Justicia - Stream 2 (EN)
+https://temp.pawtner.com.au/afaplayen.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Boca Juniors vs Defensa Y Justicia - Stream 2 (EN) [BACKUP]
+https://temp.formaturamaxi.com.br/afaplayen.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Grêmio
 https://admin2.pawtner.com.au/main.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Mineiro vs Grêmio [BACKUP]
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs Charlotte
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q82wQyX/LIGA-Game-Placeholder-13.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs Charlotte
 https://admin2.pawtner.com.au/foxone4mx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs Charlotte [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q82wQyX/LIGA-Game-Placeholder-13.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Miami vs Charlotte [BACKUP]
 https://admin2.formaturamaxi.com.br/foxone4mx.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Philadelphia Union vs Toronto FC
 https://admin2.pawtner.com.au/primemx.m3u8
