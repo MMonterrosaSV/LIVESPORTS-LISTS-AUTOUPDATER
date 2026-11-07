@@ -7,13 +7,13 @@ https://tedesco.formaturamaxi.com.br/ncaa6.m3u8
 https://admin2.pawtner.com.au/main.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Wrexham vs Wolves [BACKUP]
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham - Stream 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDn6XhNf/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham - Stream 1
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham - Stream 1 [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDn6XhNf/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham - Stream 1 [BACKUP]
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham - Stream 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDn6XhNf/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham - Stream 2
 https://tedesco.pawtner.com.au/ncaa14.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham - Stream 2 [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDn6XhNf/EPL-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Leeds United vs Tottenham - Stream 2 [BACKUP]
 https://tedesco.formaturamaxi.com.br/ncaa14.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Málaga vs Racing Santander
 https://admin2.pawtner.com.au/dep.m3u8
