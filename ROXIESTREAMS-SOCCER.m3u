@@ -71,9 +71,9 @@ https://admin2.formaturamaxi.com.br/prem.m3u8
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Lyon [BACKUP]
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Union Berlin
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRr67tVw/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Union Berlin
 https://admin2.pawtner.com.au/one.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Union Berlin [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRr67tVw/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Union Berlin [BACKUP]
 https://admin2.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Aston Villa - Stream 1
 https://admin2.pawtner.com.au/usa.m3u8
