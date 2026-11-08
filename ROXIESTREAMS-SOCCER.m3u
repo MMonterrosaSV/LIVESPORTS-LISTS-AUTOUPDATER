@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nstdhW3n/SERIE-A-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio
 https://admin2.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nstdhW3n/SERIE-A-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio [BACKUP]
 https://admin2.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stafford Rangers vs Grimsby
 https://admin2.pawtner.com.au/tnt.m3u8
