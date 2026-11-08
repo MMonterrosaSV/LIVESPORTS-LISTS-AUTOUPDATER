@@ -7,9 +7,9 @@ https://admin2.formaturamaxi.com.br/golazo.m3u8
 https://admin2.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stafford Rangers vs Grimsby [BACKUP]
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Elche vs Real Betis
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Zs1mTr0/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Elche vs Real Betis
 https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Elche vs Real Betis [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Zs1mTr0/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Elche vs Real Betis [BACKUP]
 https://admin2.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Rennes vs Lille
 https://admin2.pawtner.com.au/beines.m3u8
