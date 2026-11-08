@@ -67,9 +67,9 @@ https://admin2.formaturamaxi.com.br/tnt.m3u8
 https://admin2.pawtner.com.au/prem.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZ9FwrNJ/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Real Sociedad vs Rayo Vallecano [BACKUP]
 https://admin2.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Lyon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JsrSsWM/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Lyon
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Lyon [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JsrSsWM/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Brest vs Lyon [BACKUP]
 https://admin2.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRr67tVw/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Freiburg vs Union Berlin
 https://admin2.pawtner.com.au/one.m3u8
