@@ -124,13 +124,17 @@ https://admin2.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn9rfYK7/LIGA-Game-Placeholder-8.png" group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 2 [BACKUP]
 https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vasco Gama vs Palmeiras
-https://admin2.pawtner.com.au/mls.m3u8
+https://temp.pawtner.com.au/fana.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vasco Gama vs Palmeiras [BACKUP]
-https://admin2.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Barcelona
-https://admin2.pawtner.com.au/mls2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Barcelona [BACKUP]
-https://admin2.formaturamaxi.com.br/mls2.m3u8
+https://temp.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Barcelona - Stream 1 (ES)
+https://admin2.pawtner.com.au/dep.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Barcelona - Stream 1 (ES) [BACKUP]
+https://admin2.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Barcelona - Stream 2 (EN)
+https://admin2.pawtner.com.au/prem.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Atlético Madrid vs Barcelona - Stream 2 (EN) [BACKUP]
+https://admin2.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Querétaro vs Puebla
 https://admin2.pawtner.com.au/vix.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Querétaro vs Puebla [BACKUP]
