@@ -111,17 +111,17 @@ https://admin2.formaturamaxi.com.br/one.m3u8
 https://admin2.pawtner.com.au/olympiakos.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Olympiakos Piraeus vs PAOK [BACKUP]
 https://admin2.formaturamaxi.com.br/olympiakos.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lens vs Marseille
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4kJ0Ywn/LIGA-Game-Placeholder-7.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lens vs Marseille
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lens vs Marseille [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4kJ0Ywn/LIGA-Game-Placeholder-7.png" group-title="ROXIESTREAMS SOCCER (VPN)",Lens vs Marseille [BACKUP]
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn9rfYK7/LIGA-Game-Placeholder-8.png" group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 1
 https://admin2.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 1 [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn9rfYK7/LIGA-Game-Placeholder-8.png" group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 1 [BACKUP]
 https://admin2.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn9rfYK7/LIGA-Game-Placeholder-8.png" group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 2
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 2 [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn9rfYK7/LIGA-Game-Placeholder-8.png" group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 2 [BACKUP]
 https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vasco Gama vs Palmeiras
 https://admin2.pawtner.com.au/mls.m3u8
