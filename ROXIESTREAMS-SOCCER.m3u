@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio - Stream 1
 https://admin2.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio - Stream 1 [BACKUP]
 https://admin2.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio - Stream 2
+https://admin2.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Napoli vs Lazio - Stream 2 [BACKUP]
+https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stafford Rangers vs Grimsby
 https://admin2.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Stafford Rangers vs Grimsby [BACKUP]
@@ -83,10 +87,14 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 https://admin2.pawtner.com.au/usa.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzdG6pQz/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Manchester United vs Aston Villa - Stream 2 [BACKUP]
 https://admin2.formaturamaxi.com.br/usa.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR9JPDQT/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Milan vs Como
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR9JPDQT/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Milan vs Como - Stream 1
 https://admin2.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR9JPDQT/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Milan vs Como [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR9JPDQT/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Milan vs Como - Stream 1 [BACKUP]
 https://admin2.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR9JPDQT/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Milan vs Como - Stream 2
+https://admin2.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR9JPDQT/LIGA-Game-Placeholder-2.png" group-title="ROXIESTREAMS SOCCER (VPN)",Inter Milan vs Como - Stream 2 [BACKUP]
+https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Oldham Athletic vs Sheffield Wednesday
 https://admin2.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Oldham Athletic vs Sheffield Wednesday [BACKUP]
@@ -99,14 +107,22 @@ https://admin2.formaturamaxi.com.br/prem.m3u8
 https://admin2.pawtner.com.au/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Hoffenheim vs Schalke 04 [BACKUP]
 https://admin2.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Olympiakos Piraeus vs PAOK
+https://admin2.pawtner.com.au/olympiakos.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Olympiakos Piraeus vs PAOK [BACKUP]
+https://admin2.formaturamaxi.com.br/olympiakos.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lens vs Marseille
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Lens vs Marseille [BACKUP]
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 1
 https://admin2.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 1 [BACKUP]
 https://admin2.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 2
+https://admin2.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Fiorentina vs Juventus - Stream 2 [BACKUP]
+https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vasco Gama vs Palmeiras
 https://admin2.pawtner.com.au/mls.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Vasco Gama vs Palmeiras [BACKUP]
@@ -120,6 +136,6 @@ https://admin2.pawtner.com.au/vix.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Querétaro vs Puebla [BACKUP]
 https://admin2.formaturamaxi.com.br/vix.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",León vs Chivas
-https://admin2.pawtner.com.au/vix.m3u8
+https://admin2.pawtner.com.au/aztecadeportesmx.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",León vs Chivas [BACKUP]
-https://admin2.formaturamaxi.com.br/vix.m3u8
+https://admin2.formaturamaxi.com.br/aztecadeportesmx.m3u8
