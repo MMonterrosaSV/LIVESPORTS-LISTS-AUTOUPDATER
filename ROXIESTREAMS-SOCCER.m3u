@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Northampton Town vs Gillingham
-https://admin2.pawtner.com.au/tnt.m3u8
+https://admin2.pawtner.com.au/gill.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Northampton Town vs Gillingham [BACKUP]
-https://admin2.formaturamaxi.com.br/tnt.m3u8
+https://admin2.formaturamaxi.com.br/gill.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leicester City vs Walsall
-https://admin2.pawtner.com.au/tnt.m3u8
+https://admin2.pawtner.com.au/wall.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leicester City vs Walsall [BACKUP]
-https://admin2.formaturamaxi.com.br/tnt.m3u8
+https://admin2.formaturamaxi.com.br/wall.m3u8
