@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85Qr5NVT/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Plymouth Parkway vs Berkhamsted
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Plymouth Parkway vs Berkhamsted
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85Qr5NVT/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Plymouth Parkway vs Berkhamsted [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Plymouth Parkway vs Berkhamsted [BACKUP]
 https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Anaitasuna FT vs Deportivo Alavés
 https://admin2.pawtner.com.au/tnt.m3u8
