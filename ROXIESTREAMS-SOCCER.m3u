@@ -1,9 +1,69 @@
 #EXTM3U
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Northampton Town vs Gillingham
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ghana vs Somalia
 https://admin2.pawtner.com.au/gill.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Northampton Town vs Gillingham [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Ghana vs Somalia [BACKUP]
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leicester City vs Walsall
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Congo DR vs Sierra Leone
 https://admin2.pawtner.com.au/wall.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Leicester City vs Walsall [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Congo DR vs Sierra Leone [BACKUP]
 https://admin2.formaturamaxi.com.br/wall.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Armenia vs Cyprus
+https://admin2.pawtner.com.au/prem.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Armenia vs Cyprus [BACKUP]
+https://admin2.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Turkey vs Belgium
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Turkey vs Belgium [BACKUP]
+https://admin2.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs Arsenal
+https://tedesco.pawtner.com.au/bein2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs Arsenal [BACKUP]
+https://tedesco.formaturamaxi.com.br/bein2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Senegal vs Sudan
+https://tedesco.pawtner.com.au/ncaa6.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Senegal vs Sudan [BACKUP]
+https://tedesco.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Côte D'Ivoire vs Gambia
+https://admin2.pawtner.com.au/gill.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Côte D'Ivoire vs Gambia [BACKUP]
+https://admin2.formaturamaxi.com.br/gill.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia - Stream 1
+https://admin2.pawtner.com.au/plus.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/plus.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia - Stream 2
+https://tedesco.pawtner.com.au/plus.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia - Stream 2 [BACKUP]
+https://tedesco.formaturamaxi.com.br/plus.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",San Marino vs Belarus - Stream 1
+https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",San Marino vs Belarus - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",San Marino vs Belarus - Stream 2
+https://tedesco.pawtner.com.au/nbcsn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",San Marino vs Belarus - Stream 2 [BACKUP]
+https://tedesco.formaturamaxi.com.br/nbcsn.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Albania vs Finland
+https://admin2.pawtner.com.au/ipswich.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Albania vs Finland [BACKUP]
+https://admin2.formaturamaxi.com.br/ipswich.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Italy vs France - Stream 1
+https://admin2.pawtner.com.au/chelsea.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Italy vs France - Stream 1 [BACKUP]
+https://admin2.formaturamaxi.com.br/chelsea.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Italy vs France - Stream 2
+https://admin2.pawtner.com.au/usa.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Italy vs France - Stream 2 [BACKUP]
+https://admin2.formaturamaxi.com.br/usa.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Czech Republic vs Spain
+https://admin2.pawtner.com.au/tnt3.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Czech Republic vs Spain [BACKUP]
+https://admin2.formaturamaxi.com.br/tnt3.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Antigua And Barbuda vs Trinidad And Tobago
+https://admin2.pawtner.com.au/one.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Antigua And Barbuda vs Trinidad And Tobago [BACKUP]
+https://admin2.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Curaçao vs Panama
+https://tedesco.pawtner.com.au/bein2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Curaçao vs Panama [BACKUP]
+https://tedesco.formaturamaxi.com.br/bein2.m3u8
