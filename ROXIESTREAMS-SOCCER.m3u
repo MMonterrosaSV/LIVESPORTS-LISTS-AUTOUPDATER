@@ -23,10 +23,14 @@ https://tedesco.formaturamaxi.com.br/bein.m3u8
 https://admin2.pawtner.com.au/beines.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Côte D'Ivoire vs Gambia [BACKUP]
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia - Stream 1
 https://admin2.pawtner.com.au/virgin.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia [BACKUP]
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia - Stream 1 [BACKUP]
 https://admin2.formaturamaxi.com.br/virgin.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia - Stream 2 (ES)
+https://tedesco.pawtner.com.au/eng.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",England vs Croatia - Stream 2 (ES) [BACKUP]
+https://tedesco.formaturamaxi.com.br/eng.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",San Marino vs Belarus
 https://admin2.pawtner.com.au/sky.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",San Marino vs Belarus [BACKUP]
