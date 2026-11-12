@@ -11,10 +11,10 @@ https://tedesco.formaturamaxi.com.br/fsp.m3u8
 https://tedesco.pawtner.com.au/fs1.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Turkey vs Belgium [BACKUP]
 https://tedesco.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs Arsenal
-https://tedesco.pawtner.com.au/bein2.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona vs Arsenal [BACKUP]
-https://tedesco.formaturamaxi.com.br/bein2.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona (W) vs Arsenal (W)
+https://admin2.pawtner.com.au/golazo.m3u8
+#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Barcelona (W) vs Arsenal (W) [BACKUP]
+https://admin2.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Senegal vs Sudan
 https://tedesco.pawtner.com.au/ncaa6.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Senegal vs Sudan [BACKUP]
@@ -60,6 +60,6 @@ https://admin2.pawtner.com.au/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Antigua And Barbuda vs Trinidad And Tobago [BACKUP]
 https://admin2.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Curaçao vs Panama
-https://tedesco.pawtner.com.au/bein2.m3u8
+https://admin2.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Curaçao vs Panama [BACKUP]
-https://tedesco.formaturamaxi.com.br/bein2.m3u8
+https://admin2.formaturamaxi.com.br/golazo.m3u8
