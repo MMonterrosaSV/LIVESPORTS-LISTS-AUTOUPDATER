@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA THETVAPP",LAST UPDATED 02:14 PM 14-11-2026 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="NBA THETVAPP",Sacramento Kings vs Oklahoma City Thunder - LIVE - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5ub3V2ZWF1dHJ5MS5zcGFjZS9wbGF5bGlzdC82MDI0OS9hLm5ld3ZlZ2FuNi5zcGFjZS9jYXhp
+#EXTINF:-1 group-title="NBA THETVAPP",Sacramento Kings vs Oklahoma City Thunder - LIVE - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNjAyNDcvYS5uZXd2ZWdhbjUuc3BhY2UvY2F4aQ

@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="NFL THETVAPP",LAST UPDATED 02:14 PM 14-11-2026 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="NFL THETVAPP",Cincinnati Bengals vs Pittsburgh Steelers - LIVE - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzYwMjM3L3JlZC5uZXdzdG9yZTUuc3BhY2UvY2F4aQ
+#EXTINF:-1 group-title="NFL THETVAPP",Cincinnati Bengals vs Pittsburgh Steelers - LIVE - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzYwMjM3L3JlZC5uZXdzdG9yZTUuc3BhY2UvY2F4aS1maGQ
+#EXTINF:-1 group-title="NFL THETVAPP",Cincinnati Bengals vs Pittsburgh Steelers - LIVE - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQubW9raHRhcjMuc3BhY2UvcGxheWxpc3QvNjAyMzUvcmVkLmdpdGVyYW4xLnNwYWNlL2NheGk
+#EXTINF:-1 group-title="NFL THETVAPP",Cincinnati Bengals vs Pittsburgh Steelers - LIVE - Server 4
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQubW9raHRhcjMuc3BhY2UvcGxheWxpc3QvNjAyMzUvcmVkLmdpdGVyYW4xLnNwYWNlL2NheGktZmhk
+#EXTINF:-1 group-title="NFL THETVAPP",Cincinnati Bengals vs Pittsburgh Steelers - LIVE - Server 5
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQuYmFja3N0b3JlMi5zcGFjZS9wbGF5bGlzdC82MDIzNi9yZWQubmV3c3RvcmUzLnNwYWNlL2NheGk
+#EXTINF:-1 group-title="NFL THETVAPP",Cincinnati Bengals vs Pittsburgh Steelers - LIVE - Server 6
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9yZWQuYmFja3N0b3JlMi5zcGFjZS9wbGF5bGlzdC82MDIzNi9yZWQubmV3c3RvcmUzLnNwYWNlL2NheGktZmhk
