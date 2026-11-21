@@ -37,23 +37,23 @@ PLAYLISTS = [
 #CAN BE fctv33.workers or fctv33-2.workers...
 #fctv33 uses onrender and fctv33-2 uses another worker
     {
-        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.icu/football.html&format=m3u",
+        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33go.beauty/football.html&format=m3u",
         "filename": "FCTV33-FOOTBALL.m3u",
     },
     {
-        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.co/tennis.html&format=m3u",
+        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33go.beauty/tennis.html&format=m3u",
         "filename": "FCTV33-TENNIS.m3u",
     },
     {
-        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.blog/fighting.html&format=m3u",
+        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33go.beauty/fighting.html&format=m3u",
         "filename": "FCTV33-MMA.m3u",
     },
     {
-        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.vip/basketball.html&format=m3u",
+        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33go.beauty/basketball.html&format=m3u",
         "filename": "FCTV33-NBA.m3u",
     },
         {
-        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33hd.vip/american-football.html&format=m3u",
+        "url": "https://fctv33-2.mmonterrosa970.workers.dev/?url=https://www.fctv33go.beauty/american-football.html&format=m3u",
         "filename": "FCTV33-NFL.m3u",
     },
 #ROXIESTREAMS
