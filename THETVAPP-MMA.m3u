@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="MMA THETVAPP",LAST UPDATED 04:06 PM 21-11-2026 GMT+2
-https://example.com/
+#EXTINF:-1 group-title="MMA THETVAPP",🥋 UFC UFC Fight Night Procházka vs. Stirling ● Watch - LIVE - Server 1
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDYuc3BhY2UvcGxheWxpc3QvNjA2MDgvYS5uZXd2ZWdhbjQxLmlyL2NheGk
+#EXTINF:-1 group-title="MMA THETVAPP",🥋 UFC UFC Fight Night Procházka vs. Stirling ● Watch - LIVE - Server 2
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC53aHl3ZWxvdmUyLnNwYWNlL3BsYXlsaXN0LzYwNjA5L2EubmV3dmVnYW40My5pci9jYXhp
+#EXTINF:-1 group-title="MMA THETVAPP",🥋 UFC UFC Fight Night Procházka vs. Stirling ● Watch - LIVE - Server 3
+https://thetvapp.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9wbC5wbGF5bGlzdDQuc3BhY2UvcGxheWxpc3QvNjA2MTAvYS5uZXd2ZWdhbjQ0LmlyL2NheGk
