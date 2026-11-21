@@ -75,13 +75,13 @@ https://admin2.formaturamaxi.com.br/dep.m3u8
 https://admin2.pawtner.com.au/espnmx.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjWcz2np/LIGA-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Rayo Vallecano vs Valencia - Stream 2 [BACKUP]
 https://admin2.formaturamaxi.com.br/espnmx.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs PSG - Stream 1 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6fV125k/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs PSG - Stream 1 (ES)
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs PSG - Stream 1 (ES) [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6fV125k/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs PSG - Stream 1 (ES) [BACKUP]
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs PSG - Stream 2 (EN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6fV125k/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs PSG - Stream 2 (EN)
 https://tedesco.pawtner.com.au/bein.m3u8
-#EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs PSG - Stream 2 (EN) [BACKUP]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6fV125k/LIGUE-1-Game-Placeholder.png" group-title="ROXIESTREAMS SOCCER (VPN)",Nice vs PSG - Stream 2 (EN) [BACKUP]
 https://tedesco.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 group-title="ROXIESTREAMS SOCCER (VPN)",Parma vs Roma
 https://tedesco.pawtner.com.au/beinhk.m3u8
